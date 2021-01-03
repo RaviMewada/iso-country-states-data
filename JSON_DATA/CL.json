@@ -1,0 +1,98 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-AI",
+        "subdivision_name": "Aisén del General Carlos Ibañez del Campo",
+        "abbrevation": "AI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-AN",
+        "subdivision_name": "Antofagasta",
+        "abbrevation": "AN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-AP",
+        "subdivision_name": "Arica y Parinacota",
+        "abbrevation": "AP"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-AT",
+        "subdivision_name": "Atacama",
+        "abbrevation": "AT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-BI",
+        "subdivision_name": "Biobío",
+        "abbrevation": "BI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-CO",
+        "subdivision_name": "Coquimbo",
+        "abbrevation": "CO"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-AR",
+        "subdivision_name": "La Araucanía",
+        "abbrevation": "AR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-LI",
+        "subdivision_name": "Libertador General Bernardo O'Higgins",
+        "abbrevation": "LI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-LL",
+        "subdivision_name": "Los Lagos",
+        "abbrevation": "LL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-LR",
+        "subdivision_name": "Los Ríos",
+        "abbrevation": "LR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-MA",
+        "subdivision_name": "Magallanes",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-ML",
+        "subdivision_name": "Maule",
+        "abbrevation": "ML"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-RM",
+        "subdivision_name": "Región Metropolitana de Santiago",
+        "abbrevation": "RM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-TA",
+        "subdivision_name": "Tarapacá",
+        "abbrevation": "TA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-VS",
+        "subdivision_name": "Valparaíso",
+        "abbrevation": "VS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CL-NB",
+        "subdivision_name": "Ñuble",
+        "abbrevation": "NB"
+    }
+]

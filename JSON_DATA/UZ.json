@@ -1,0 +1,86 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UZ-AN",
+        "subdivision_name": "Andijon",
+        "abbrevation": "AN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UZ-BU",
+        "subdivision_name": "Buxoro",
+        "abbrevation": "BU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UZ-FA",
+        "subdivision_name": "Farg‘ona",
+        "abbrevation": "FA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UZ-JI",
+        "subdivision_name": "Jizzax",
+        "abbrevation": "JI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UZ-NG",
+        "subdivision_name": "Namangan",
+        "abbrevation": "NG"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UZ-NW",
+        "subdivision_name": "Navoiy",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UZ-QA",
+        "subdivision_name": "Qashqadaryo",
+        "abbrevation": "QA"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "UZ-QR",
+        "subdivision_name": "Qoraqalpog‘iston Respublikasi",
+        "abbrevation": "QR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UZ-SA",
+        "subdivision_name": "Samarqand",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UZ-SI",
+        "subdivision_name": "Sirdaryo",
+        "abbrevation": "SI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UZ-SU",
+        "subdivision_name": "Surxondaryo",
+        "abbrevation": "SU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UZ-TO",
+        "subdivision_name": "Toshkent",
+        "abbrevation": "TO"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "UZ-TK",
+        "subdivision_name": "Toshkent",
+        "abbrevation": "TK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UZ-XO",
+        "subdivision_name": "Xorazm",
+        "abbrevation": "XO"
+    }
+]

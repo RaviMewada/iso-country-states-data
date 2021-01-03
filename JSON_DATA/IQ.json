@@ -1,0 +1,128 @@
+[
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-AN",
+        "subdivision_name": "Al Anbār",
+        "abbrevation": "AN"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-BA",
+        "subdivision_name": "Al Başrah",
+        "abbrevation": "BA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-MU",
+        "subdivision_name": "Al Muthanná",
+        "abbrevation": "MU"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-QA",
+        "subdivision_name": "Al Qādisīyah",
+        "abbrevation": "QA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-NA",
+        "subdivision_name": "An Najaf",
+        "abbrevation": "NA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-AR",
+        "subdivision_name": "Arbīl",
+        "abbrevation": "AR"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-SU",
+        "subdivision_name": "As Sulaymānīyah",
+        "abbrevation": "SU"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-BG",
+        "subdivision_name": "Baghdād",
+        "abbrevation": "BG"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-BB",
+        "subdivision_name": "Bābil",
+        "abbrevation": "BB"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-DA",
+        "subdivision_name": "Dahūk",
+        "abbrevation": "DA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-DQ",
+        "subdivision_name": "Dhī Qār",
+        "abbrevation": "DQ"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-DA",
+        "subdivision_name": "Dihok",
+        "abbrevation": "DA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-DI",
+        "subdivision_name": "Diyālá",
+        "abbrevation": "DI"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-AR",
+        "subdivision_name": "Hewlêr",
+        "abbrevation": "AR"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-KA",
+        "subdivision_name": "Karbalā’",
+        "abbrevation": "KA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-KI",
+        "subdivision_name": "Kirkūk",
+        "abbrevation": "KI"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-MA",
+        "subdivision_name": "Maysān",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-NI",
+        "subdivision_name": "Nīnawá",
+        "abbrevation": "NI"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-SU",
+        "subdivision_name": "Slêmanî",
+        "abbrevation": "SU"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-WA",
+        "subdivision_name": "Wāsiţ",
+        "abbrevation": "WA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "IQ-SD",
+        "subdivision_name": "Şalāḩ ad Dīn",
+        "abbrevation": "SD"
+    }
+]

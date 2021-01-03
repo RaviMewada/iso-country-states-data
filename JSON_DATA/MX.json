@@ -1,0 +1,194 @@
+[
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-AGU",
+        "subdivision_name": "Aguascalientes",
+        "abbrevation": "AGU"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-BCN",
+        "subdivision_name": "Baja California",
+        "abbrevation": "BCN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-BCS",
+        "subdivision_name": "Baja California Sur",
+        "abbrevation": "BCS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-CAM",
+        "subdivision_name": "Campeche",
+        "abbrevation": "CAM"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-CHP",
+        "subdivision_name": "Chiapas",
+        "abbrevation": "CHP"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-CHH",
+        "subdivision_name": "Chihuahua",
+        "abbrevation": "CHH"
+    },
+    {
+        "subdivision_category": "federal district",
+        "iso_3166_2_code": "MX-CMX",
+        "subdivision_name": "Ciudad de México",
+        "abbrevation": "CMX"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-COA",
+        "subdivision_name": "Coahuila de Zaragoza",
+        "abbrevation": "COA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-COL",
+        "subdivision_name": "Colima",
+        "abbrevation": "COL"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-DUR",
+        "subdivision_name": "Durango",
+        "abbrevation": "DUR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-GUA",
+        "subdivision_name": "Guanajuato",
+        "abbrevation": "GUA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-GRO",
+        "subdivision_name": "Guerrero",
+        "abbrevation": "GRO"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-HID",
+        "subdivision_name": "Hidalgo",
+        "abbrevation": "HID"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-JAL",
+        "subdivision_name": "Jalisco",
+        "abbrevation": "JAL"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-MIC",
+        "subdivision_name": "Michoacán de Ocampo",
+        "abbrevation": "MIC"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-MOR",
+        "subdivision_name": "Morelos",
+        "abbrevation": "MOR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-MEX",
+        "subdivision_name": "México",
+        "abbrevation": "MEX"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-NAY",
+        "subdivision_name": "Nayarit",
+        "abbrevation": "NAY"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-NLE",
+        "subdivision_name": "Nuevo León",
+        "abbrevation": "NLE"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-OAX",
+        "subdivision_name": "Oaxaca",
+        "abbrevation": "OAX"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-PUE",
+        "subdivision_name": "Puebla",
+        "abbrevation": "PUE"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-QUE",
+        "subdivision_name": "Querétaro",
+        "abbrevation": "QUE"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-ROO",
+        "subdivision_name": "Quintana Roo",
+        "abbrevation": "ROO"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-SLP",
+        "subdivision_name": "San Luis Potosí",
+        "abbrevation": "SLP"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-SIN",
+        "subdivision_name": "Sinaloa",
+        "abbrevation": "SIN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-SON",
+        "subdivision_name": "Sonora",
+        "abbrevation": "SON"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-TAB",
+        "subdivision_name": "Tabasco",
+        "abbrevation": "TAB"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-TAM",
+        "subdivision_name": "Tamaulipas",
+        "abbrevation": "TAM"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-TLA",
+        "subdivision_name": "Tlaxcala",
+        "abbrevation": "TLA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-VER",
+        "subdivision_name": "Veracruz de Ignacio de la Llave",
+        "abbrevation": "VER"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-YUC",
+        "subdivision_name": "Yucatán",
+        "abbrevation": "YUC"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MX-ZAC",
+        "subdivision_name": "Zacatecas",
+        "abbrevation": "ZAC"
+    }
+]

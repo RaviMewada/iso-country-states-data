@@ -1,0 +1,1298 @@
+[
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-ABE",
+        "subdivision_name": "Aberdeen City",
+        "abbrevation": "ABE"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-ABD",
+        "subdivision_name": "Aberdeenshire",
+        "abbrevation": "ABD"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-ANS",
+        "subdivision_name": "Angus",
+        "abbrevation": "ANS"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "GB-ANN",
+        "subdivision_name": "Antrim and Newtownabbey",
+        "abbrevation": "ANN"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "GB-AND",
+        "subdivision_name": "Ards and North Down",
+        "abbrevation": "AND"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-AGB",
+        "subdivision_name": "Argyll and Bute",
+        "abbrevation": "AGB"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "GB-ABC",
+        "subdivision_name": "Armagh City, Banbridge and Craigavon",
+        "abbrevation": "ABC"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-BDG",
+        "subdivision_name": "Barking and Dagenham",
+        "abbrevation": "BDG"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-BNE",
+        "subdivision_name": "Barnet",
+        "abbrevation": "BNE"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-BNS",
+        "subdivision_name": "Barnsley",
+        "abbrevation": "BNS"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-BAS",
+        "subdivision_name": "Bath and North East Somerset",
+        "abbrevation": "BAS"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-BDF",
+        "subdivision_name": "Bedford",
+        "abbrevation": "BDF"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "GB-BFS",
+        "subdivision_name": "Belfast City",
+        "abbrevation": "BFS"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-BEX",
+        "subdivision_name": "Bexley",
+        "abbrevation": "BEX"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-BIR",
+        "subdivision_name": "Birmingham",
+        "abbrevation": "BIR"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-BBD",
+        "subdivision_name": "Blackburn with Darwen",
+        "abbrevation": "BBD"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-BPL",
+        "subdivision_name": "Blackpool",
+        "abbrevation": "BPL"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-BGW",
+        "subdivision_name": "Blaenau Gwent",
+        "abbrevation": "BGW"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-BOL",
+        "subdivision_name": "Bolton",
+        "abbrevation": "BOL"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-BCP",
+        "subdivision_name": "Bournemouth, Christchurch and Poole",
+        "abbrevation": "BCP"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-BRC",
+        "subdivision_name": "Bracknell Forest",
+        "abbrevation": "BRC"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-BRD",
+        "subdivision_name": "Bradford",
+        "abbrevation": "BRD"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-BEN",
+        "subdivision_name": "Brent",
+        "abbrevation": "BEN"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-BGE",
+        "subdivision_name": "Bridgend [Pen-y-bont ar Ogwr GB-POG]",
+        "abbrevation": "BGE"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-BNH",
+        "subdivision_name": "Brighton and Hove",
+        "abbrevation": "BNH"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-BST",
+        "subdivision_name": "Bristol, City of",
+        "abbrevation": "BST"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-BRY",
+        "subdivision_name": "Bromley",
+        "abbrevation": "BRY"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-BKM",
+        "subdivision_name": "Buckinghamshire",
+        "abbrevation": "BKM"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-BUR",
+        "subdivision_name": "Bury",
+        "abbrevation": "BUR"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-CAY",
+        "subdivision_name": "Caerphilly [Caerffili GB-CAF]",
+        "abbrevation": "CAY"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-CLD",
+        "subdivision_name": "Calderdale",
+        "abbrevation": "CLD"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-CAM",
+        "subdivision_name": "Cambridgeshire",
+        "abbrevation": "CAM"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-CMD",
+        "subdivision_name": "Camden",
+        "abbrevation": "CMD"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-CRF",
+        "subdivision_name": "Cardiff [Caerdydd GB-CRD]",
+        "abbrevation": "CRF"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-CMN",
+        "subdivision_name": "Carmarthenshire [Sir Gaerfyrddin GB-GFY]",
+        "abbrevation": "CMN"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "GB-CCG",
+        "subdivision_name": "Causeway Coast and Glens",
+        "abbrevation": "CCG"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-CBF",
+        "subdivision_name": "Central Bedfordshire",
+        "abbrevation": "CBF"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-CGN",
+        "subdivision_name": "Ceredigion [Sir Ceredigion]",
+        "abbrevation": "CGN"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-CHE",
+        "subdivision_name": "Cheshire East",
+        "abbrevation": "CHE"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-CHW",
+        "subdivision_name": "Cheshire West and Chester",
+        "abbrevation": "CHW"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-CLK",
+        "subdivision_name": "Clackmannanshire",
+        "abbrevation": "CLK"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-CWY",
+        "subdivision_name": "Conwy",
+        "abbrevation": "CWY"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-CON",
+        "subdivision_name": "Cornwall",
+        "abbrevation": "CON"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-COV",
+        "subdivision_name": "Coventry",
+        "abbrevation": "COV"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-CRY",
+        "subdivision_name": "Croydon",
+        "abbrevation": "CRY"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-CMA",
+        "subdivision_name": "Cumbria",
+        "abbrevation": "CMA"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-DAL",
+        "subdivision_name": "Darlington",
+        "abbrevation": "DAL"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-DEN",
+        "subdivision_name": "Denbighshire [Sir Ddinbych GB-DDB]",
+        "abbrevation": "DEN"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-DER",
+        "subdivision_name": "Derby",
+        "abbrevation": "DER"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-DBY",
+        "subdivision_name": "Derbyshire",
+        "abbrevation": "DBY"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "GB-DRS",
+        "subdivision_name": "Derry and Strabane",
+        "abbrevation": "DRS"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-DEV",
+        "subdivision_name": "Devon",
+        "abbrevation": "DEV"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-DNC",
+        "subdivision_name": "Doncaster",
+        "abbrevation": "DNC"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-DOR",
+        "subdivision_name": "Dorset",
+        "abbrevation": "DOR"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-DUD",
+        "subdivision_name": "Dudley",
+        "abbrevation": "DUD"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-DGY",
+        "subdivision_name": "Dumfries and Galloway",
+        "abbrevation": "DGY"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-DND",
+        "subdivision_name": "Dundee City",
+        "abbrevation": "DND"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-DUR",
+        "subdivision_name": "Durham, County",
+        "abbrevation": "DUR"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-EAL",
+        "subdivision_name": "Ealing",
+        "abbrevation": "EAL"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-EAY",
+        "subdivision_name": "East Ayrshire",
+        "abbrevation": "EAY"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-EDU",
+        "subdivision_name": "East Dunbartonshire",
+        "abbrevation": "EDU"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-ELN",
+        "subdivision_name": "East Lothian",
+        "abbrevation": "ELN"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-ERW",
+        "subdivision_name": "East Renfrewshire",
+        "abbrevation": "ERW"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-ERY",
+        "subdivision_name": "East Riding of Yorkshire",
+        "abbrevation": "ERY"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-ESX",
+        "subdivision_name": "East Sussex",
+        "abbrevation": "ESX"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-EDH",
+        "subdivision_name": "Edinburgh, City of",
+        "abbrevation": "EDH"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-ELS",
+        "subdivision_name": "Eilean Siar",
+        "abbrevation": "ELS"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-ENF",
+        "subdivision_name": "Enfield",
+        "abbrevation": "ENF"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-ESS",
+        "subdivision_name": "Essex",
+        "abbrevation": "ESS"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-FAL",
+        "subdivision_name": "Falkirk",
+        "abbrevation": "FAL"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "GB-FMO",
+        "subdivision_name": "Fermanagh and Omagh",
+        "abbrevation": "FMO"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-FIF",
+        "subdivision_name": "Fife",
+        "abbrevation": "FIF"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-FLN",
+        "subdivision_name": "Flintshire [Sir y Fflint GB-FFL]",
+        "abbrevation": "FLN"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-GAT",
+        "subdivision_name": "Gateshead",
+        "abbrevation": "GAT"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-GLG",
+        "subdivision_name": "Glasgow City",
+        "abbrevation": "GLG"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-GLS",
+        "subdivision_name": "Gloucestershire",
+        "abbrevation": "GLS"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-GRE",
+        "subdivision_name": "Greenwich",
+        "abbrevation": "GRE"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-GWN",
+        "subdivision_name": "Gwynedd",
+        "abbrevation": "GWN"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-HCK",
+        "subdivision_name": "Hackney",
+        "abbrevation": "HCK"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-HAL",
+        "subdivision_name": "Halton",
+        "abbrevation": "HAL"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-HMF",
+        "subdivision_name": "Hammersmith and Fulham",
+        "abbrevation": "HMF"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-HAM",
+        "subdivision_name": "Hampshire",
+        "abbrevation": "HAM"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-HRY",
+        "subdivision_name": "Haringey",
+        "abbrevation": "HRY"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-HRW",
+        "subdivision_name": "Harrow",
+        "abbrevation": "HRW"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-HPL",
+        "subdivision_name": "Hartlepool",
+        "abbrevation": "HPL"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-HAV",
+        "subdivision_name": "Havering",
+        "abbrevation": "HAV"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-HEF",
+        "subdivision_name": "Herefordshire",
+        "abbrevation": "HEF"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-HRT",
+        "subdivision_name": "Hertfordshire",
+        "abbrevation": "HRT"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-HLD",
+        "subdivision_name": "Highland",
+        "abbrevation": "HLD"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-HIL",
+        "subdivision_name": "Hillingdon",
+        "abbrevation": "HIL"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-HNS",
+        "subdivision_name": "Hounslow",
+        "abbrevation": "HNS"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-IVC",
+        "subdivision_name": "Inverclyde",
+        "abbrevation": "IVC"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-AGY",
+        "subdivision_name": "Isle of Anglesey [Sir Ynys Môn GB-YNM]",
+        "abbrevation": "AGY"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-IOW",
+        "subdivision_name": "Isle of Wight",
+        "abbrevation": "IOW"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-IOS",
+        "subdivision_name": "Isles of Scilly",
+        "abbrevation": "IOS"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-ISL",
+        "subdivision_name": "Islington",
+        "abbrevation": "ISL"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-KEC",
+        "subdivision_name": "Kensington and Chelsea",
+        "abbrevation": "KEC"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-KEN",
+        "subdivision_name": "Kent",
+        "abbrevation": "KEN"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-KHL",
+        "subdivision_name": "Kingston upon Hull",
+        "abbrevation": "KHL"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-KTT",
+        "subdivision_name": "Kingston upon Thames",
+        "abbrevation": "KTT"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-KIR",
+        "subdivision_name": "Kirklees",
+        "abbrevation": "KIR"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-KWL",
+        "subdivision_name": "Knowsley",
+        "abbrevation": "KWL"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-LBH",
+        "subdivision_name": "Lambeth",
+        "abbrevation": "LBH"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-LAN",
+        "subdivision_name": "Lancashire",
+        "abbrevation": "LAN"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-LDS",
+        "subdivision_name": "Leeds",
+        "abbrevation": "LDS"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-LCE",
+        "subdivision_name": "Leicester",
+        "abbrevation": "LCE"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-LEC",
+        "subdivision_name": "Leicestershire",
+        "abbrevation": "LEC"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-LEW",
+        "subdivision_name": "Lewisham",
+        "abbrevation": "LEW"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-LIN",
+        "subdivision_name": "Lincolnshire",
+        "abbrevation": "LIN"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "GB-LBC",
+        "subdivision_name": "Lisburn and Castlereagh",
+        "abbrevation": "LBC"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-LIV",
+        "subdivision_name": "Liverpool",
+        "abbrevation": "LIV"
+    },
+    {
+        "subdivision_category": "city corporation",
+        "iso_3166_2_code": "GB-LND",
+        "subdivision_name": "London, City of",
+        "abbrevation": "LND"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-LUT",
+        "subdivision_name": "Luton",
+        "abbrevation": "LUT"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-MAN",
+        "subdivision_name": "Manchester",
+        "abbrevation": "MAN"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-MDW",
+        "subdivision_name": "Medway",
+        "abbrevation": "MDW"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-MTY",
+        "subdivision_name": "Merthyr Tydfil [Merthyr Tudful GB-MTU]",
+        "abbrevation": "MTY"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-MRT",
+        "subdivision_name": "Merton",
+        "abbrevation": "MRT"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "GB-MEA",
+        "subdivision_name": "Mid and East Antrim",
+        "abbrevation": "MEA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "GB-MUL",
+        "subdivision_name": "Mid-Ulster",
+        "abbrevation": "MUL"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-MDB",
+        "subdivision_name": "Middlesbrough",
+        "abbrevation": "MDB"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-MLN",
+        "subdivision_name": "Midlothian",
+        "abbrevation": "MLN"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-MIK",
+        "subdivision_name": "Milton Keynes",
+        "abbrevation": "MIK"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-MON",
+        "subdivision_name": "Monmouthshire [Sir Fynwy GB-FYN]",
+        "abbrevation": "MON"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-MRY",
+        "subdivision_name": "Moray",
+        "abbrevation": "MRY"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-NTL",
+        "subdivision_name": "Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]",
+        "abbrevation": "NTL"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-NET",
+        "subdivision_name": "Newcastle upon Tyne",
+        "abbrevation": "NET"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-NWM",
+        "subdivision_name": "Newham",
+        "abbrevation": "NWM"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-NWP",
+        "subdivision_name": "Newport [Casnewydd GB-CNW]",
+        "abbrevation": "NWP"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "GB-NMD",
+        "subdivision_name": "Newry, Mourne and Down",
+        "abbrevation": "NMD"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-NFK",
+        "subdivision_name": "Norfolk",
+        "abbrevation": "NFK"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-NAY",
+        "subdivision_name": "North Ayrshire",
+        "abbrevation": "NAY"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-NEL",
+        "subdivision_name": "North East Lincolnshire",
+        "abbrevation": "NEL"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-NLK",
+        "subdivision_name": "North Lanarkshire",
+        "abbrevation": "NLK"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-NLN",
+        "subdivision_name": "North Lincolnshire",
+        "abbrevation": "NLN"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-NSM",
+        "subdivision_name": "North Somerset",
+        "abbrevation": "NSM"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-NTY",
+        "subdivision_name": "North Tyneside",
+        "abbrevation": "NTY"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-NYK",
+        "subdivision_name": "North Yorkshire",
+        "abbrevation": "NYK"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-NTH",
+        "subdivision_name": "Northamptonshire",
+        "abbrevation": "NTH"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-NBL",
+        "subdivision_name": "Northumberland",
+        "abbrevation": "NBL"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-NGM",
+        "subdivision_name": "Nottingham",
+        "abbrevation": "NGM"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-NTT",
+        "subdivision_name": "Nottinghamshire",
+        "abbrevation": "NTT"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-OLD",
+        "subdivision_name": "Oldham",
+        "abbrevation": "OLD"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-ORK",
+        "subdivision_name": "Orkney Islands",
+        "abbrevation": "ORK"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-OXF",
+        "subdivision_name": "Oxfordshire",
+        "abbrevation": "OXF"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-PEM",
+        "subdivision_name": "Pembrokeshire [Sir Benfro GB-BNF]",
+        "abbrevation": "PEM"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-PKN",
+        "subdivision_name": "Perth and Kinross",
+        "abbrevation": "PKN"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-PTE",
+        "subdivision_name": "Peterborough",
+        "abbrevation": "PTE"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-PLY",
+        "subdivision_name": "Plymouth",
+        "abbrevation": "PLY"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-POR",
+        "subdivision_name": "Portsmouth",
+        "abbrevation": "POR"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-POW",
+        "subdivision_name": "Powys",
+        "abbrevation": "POW"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-RDG",
+        "subdivision_name": "Reading",
+        "abbrevation": "RDG"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-RDB",
+        "subdivision_name": "Redbridge",
+        "abbrevation": "RDB"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-RCC",
+        "subdivision_name": "Redcar and Cleveland",
+        "abbrevation": "RCC"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-RFW",
+        "subdivision_name": "Renfrewshire",
+        "abbrevation": "RFW"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-RCT",
+        "subdivision_name": "Rhondda Cynon Taff [Rhondda CynonTaf]",
+        "abbrevation": "RCT"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-RIC",
+        "subdivision_name": "Richmond upon Thames",
+        "abbrevation": "RIC"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-RCH",
+        "subdivision_name": "Rochdale",
+        "abbrevation": "RCH"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-ROT",
+        "subdivision_name": "Rotherham",
+        "abbrevation": "ROT"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-RUT",
+        "subdivision_name": "Rutland",
+        "abbrevation": "RUT"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-SLF",
+        "subdivision_name": "Salford",
+        "abbrevation": "SLF"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-SAW",
+        "subdivision_name": "Sandwell",
+        "abbrevation": "SAW"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-SCB",
+        "subdivision_name": "Scottish Borders",
+        "abbrevation": "SCB"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-SFT",
+        "subdivision_name": "Sefton",
+        "abbrevation": "SFT"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-SHF",
+        "subdivision_name": "Sheffield",
+        "abbrevation": "SHF"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-ZET",
+        "subdivision_name": "Shetland Islands",
+        "abbrevation": "ZET"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-SHR",
+        "subdivision_name": "Shropshire",
+        "abbrevation": "SHR"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-SLG",
+        "subdivision_name": "Slough",
+        "abbrevation": "SLG"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-SOL",
+        "subdivision_name": "Solihull",
+        "abbrevation": "SOL"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-SOM",
+        "subdivision_name": "Somerset",
+        "abbrevation": "SOM"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-SAY",
+        "subdivision_name": "South Ayrshire",
+        "abbrevation": "SAY"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-SGC",
+        "subdivision_name": "South Gloucestershire",
+        "abbrevation": "SGC"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-SLK",
+        "subdivision_name": "South Lanarkshire",
+        "abbrevation": "SLK"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-STY",
+        "subdivision_name": "South Tyneside",
+        "abbrevation": "STY"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-STH",
+        "subdivision_name": "Southampton",
+        "abbrevation": "STH"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-SOS",
+        "subdivision_name": "Southend-on-Sea",
+        "abbrevation": "SOS"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-SWK",
+        "subdivision_name": "Southwark",
+        "abbrevation": "SWK"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-SHN",
+        "subdivision_name": "St. Helens",
+        "abbrevation": "SHN"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-STS",
+        "subdivision_name": "Staffordshire",
+        "abbrevation": "STS"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-STG",
+        "subdivision_name": "Stirling",
+        "abbrevation": "STG"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-SKP",
+        "subdivision_name": "Stockport",
+        "abbrevation": "SKP"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-STT",
+        "subdivision_name": "Stockton-on-Tees",
+        "abbrevation": "STT"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-STE",
+        "subdivision_name": "Stoke-on-Trent",
+        "abbrevation": "STE"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-SFK",
+        "subdivision_name": "Suffolk",
+        "abbrevation": "SFK"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-SND",
+        "subdivision_name": "Sunderland",
+        "abbrevation": "SND"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-SRY",
+        "subdivision_name": "Surrey",
+        "abbrevation": "SRY"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-STN",
+        "subdivision_name": "Sutton",
+        "abbrevation": "STN"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-SWA",
+        "subdivision_name": "Swansea [Abertawe GB-ATA]",
+        "abbrevation": "SWA"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-SWD",
+        "subdivision_name": "Swindon",
+        "abbrevation": "SWD"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-TAM",
+        "subdivision_name": "Tameside",
+        "abbrevation": "TAM"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-TFW",
+        "subdivision_name": "Telford and Wrekin",
+        "abbrevation": "TFW"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-THR",
+        "subdivision_name": "Thurrock",
+        "abbrevation": "THR"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-TOB",
+        "subdivision_name": "Torbay",
+        "abbrevation": "TOB"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-TOF",
+        "subdivision_name": "Torfaen [Tor-faen]",
+        "abbrevation": "TOF"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-TWH",
+        "subdivision_name": "Tower Hamlets",
+        "abbrevation": "TWH"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-TRF",
+        "subdivision_name": "Trafford",
+        "abbrevation": "TRF"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-VGL",
+        "subdivision_name": "Vale of Glamorgan, The [Bro Morgannwg GB-BMG]",
+        "abbrevation": "VGL"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-WKF",
+        "subdivision_name": "Wakefield",
+        "abbrevation": "WKF"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-WLL",
+        "subdivision_name": "Walsall",
+        "abbrevation": "WLL"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-WFT",
+        "subdivision_name": "Waltham Forest",
+        "abbrevation": "WFT"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-WND",
+        "subdivision_name": "Wandsworth",
+        "abbrevation": "WND"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-WRT",
+        "subdivision_name": "Warrington",
+        "abbrevation": "WRT"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-WAR",
+        "subdivision_name": "Warwickshire",
+        "abbrevation": "WAR"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-WBK",
+        "subdivision_name": "West Berkshire",
+        "abbrevation": "WBK"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-WDU",
+        "subdivision_name": "West Dunbartonshire",
+        "abbrevation": "WDU"
+    },
+    {
+        "subdivision_category": "council area",
+        "iso_3166_2_code": "GB-WLN",
+        "subdivision_name": "West Lothian",
+        "abbrevation": "WLN"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-WSX",
+        "subdivision_name": "West Sussex",
+        "abbrevation": "WSX"
+    },
+    {
+        "subdivision_category": "London borough",
+        "iso_3166_2_code": "GB-WSM",
+        "subdivision_name": "Westminster",
+        "abbrevation": "WSM"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-WGN",
+        "subdivision_name": "Wigan",
+        "abbrevation": "WGN"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-WIL",
+        "subdivision_name": "Wiltshire",
+        "abbrevation": "WIL"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-WNM",
+        "subdivision_name": "Windsor and Maidenhead",
+        "abbrevation": "WNM"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-WRL",
+        "subdivision_name": "Wirral",
+        "abbrevation": "WRL"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-WOK",
+        "subdivision_name": "Wokingham",
+        "abbrevation": "WOK"
+    },
+    {
+        "subdivision_category": "metropolitan district",
+        "iso_3166_2_code": "GB-WLV",
+        "subdivision_name": "Wolverhampton",
+        "abbrevation": "WLV"
+    },
+    {
+        "subdivision_category": "two-tier county",
+        "iso_3166_2_code": "GB-WOR",
+        "subdivision_name": "Worcestershire",
+        "abbrevation": "WOR"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-WRX",
+        "subdivision_name": "Wrexham [Wrecsam GB-WRC]",
+        "abbrevation": "WRX"
+    },
+    {
+        "subdivision_category": "unitary authority",
+        "iso_3166_2_code": "GB-YOR",
+        "subdivision_name": "York",
+        "abbrevation": "YOR"
+    }
+]

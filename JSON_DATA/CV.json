@@ -1,0 +1,146 @@
+[
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-BV",
+        "subdivision_name": "Boa Vista",
+        "abbrevation": "BV"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-BR",
+        "subdivision_name": "Brava",
+        "abbrevation": "BR"
+    },
+    {
+        "subdivision_category": "geographical region",
+        "iso_3166_2_code": "CV-B",
+        "subdivision_name": "Ilhas de Barlavento",
+        "abbrevation": "B"
+    },
+    {
+        "subdivision_category": "geographical region",
+        "iso_3166_2_code": "CV-S",
+        "subdivision_name": "Ilhas de Sotavento",
+        "abbrevation": "S"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-MA",
+        "subdivision_name": "Maio",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-MO",
+        "subdivision_name": "Mosteiros",
+        "abbrevation": "MO"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-PA",
+        "subdivision_name": "Paul",
+        "abbrevation": "PA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-PN",
+        "subdivision_name": "Porto Novo",
+        "abbrevation": "PN"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-PR",
+        "subdivision_name": "Praia",
+        "abbrevation": "PR"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-RB",
+        "subdivision_name": "Ribeira Brava",
+        "abbrevation": "RB"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-RG",
+        "subdivision_name": "Ribeira Grande",
+        "abbrevation": "RG"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-RS",
+        "subdivision_name": "Ribeira Grande de Santiago",
+        "abbrevation": "RS"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-SL",
+        "subdivision_name": "Sal",
+        "abbrevation": "SL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-CA",
+        "subdivision_name": "Santa Catarina",
+        "abbrevation": "CA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-CF",
+        "subdivision_name": "Santa Catarina do Fogo",
+        "abbrevation": "CF"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-CR",
+        "subdivision_name": "Santa Cruz",
+        "abbrevation": "CR"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-SD",
+        "subdivision_name": "São Domingos",
+        "abbrevation": "SD"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-SF",
+        "subdivision_name": "São Filipe",
+        "abbrevation": "SF"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-SO",
+        "subdivision_name": "São Lourenço dos Órgãos",
+        "abbrevation": "SO"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-SM",
+        "subdivision_name": "São Miguel",
+        "abbrevation": "SM"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-SS",
+        "subdivision_name": "São Salvador do Mundo",
+        "abbrevation": "SS"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-SV",
+        "subdivision_name": "São Vicente",
+        "abbrevation": "SV"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-TA",
+        "subdivision_name": "Tarrafal",
+        "abbrevation": "TA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "CV-TS",
+        "subdivision_name": "Tarrafal de São Nicolau",
+        "abbrevation": "TS"
+    }
+]

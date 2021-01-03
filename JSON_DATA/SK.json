@@ -1,0 +1,50 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SK-BC",
+        "subdivision_name": "Banskobystrický kraj",
+        "abbrevation": "BC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SK-BL",
+        "subdivision_name": "Bratislavský kraj",
+        "abbrevation": "BL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SK-KI",
+        "subdivision_name": "Košický kraj",
+        "abbrevation": "KI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SK-NI",
+        "subdivision_name": "Nitriansky kraj",
+        "abbrevation": "NI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SK-PV",
+        "subdivision_name": "Prešovský kraj",
+        "abbrevation": "PV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SK-TC",
+        "subdivision_name": "Trenčiansky kraj",
+        "abbrevation": "TC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SK-TA",
+        "subdivision_name": "Trnavský kraj",
+        "abbrevation": "TA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SK-ZI",
+        "subdivision_name": "Žilinský kraj",
+        "abbrevation": "ZI"
+    }
+]

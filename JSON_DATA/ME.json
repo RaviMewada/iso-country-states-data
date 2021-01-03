@@ -1,0 +1,146 @@
+[
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-01",
+        "subdivision_name": "Andrijevica",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-02",
+        "subdivision_name": "Bar",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-03",
+        "subdivision_name": "Berane",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-04",
+        "subdivision_name": "Bijelo Polje",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-05",
+        "subdivision_name": "Budva",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-06",
+        "subdivision_name": "Cetinje",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-07",
+        "subdivision_name": "Danilovgrad",
+        "abbrevation": "07"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-22",
+        "subdivision_name": "Gusinje",
+        "abbrevation": "22"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-08",
+        "subdivision_name": "Herceg-Novi",
+        "abbrevation": "08"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-09",
+        "subdivision_name": "Kolašin",
+        "abbrevation": "09"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-10",
+        "subdivision_name": "Kotor",
+        "abbrevation": "10"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-11",
+        "subdivision_name": "Mojkovac",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-12",
+        "subdivision_name": "Nikšić",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-23",
+        "subdivision_name": "Petnjica",
+        "abbrevation": "23"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-13",
+        "subdivision_name": "Plav",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-14",
+        "subdivision_name": "Pljevlja",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-15",
+        "subdivision_name": "Plužine",
+        "abbrevation": "15"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-16",
+        "subdivision_name": "Podgorica",
+        "abbrevation": "16"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-17",
+        "subdivision_name": "Rožaje",
+        "abbrevation": "17"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-19",
+        "subdivision_name": "Tivat",
+        "abbrevation": "19"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-24",
+        "subdivision_name": "Tuzi",
+        "abbrevation": "24"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-20",
+        "subdivision_name": "Ulcinj",
+        "abbrevation": "20"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-18",
+        "subdivision_name": "Šavnik",
+        "abbrevation": "18"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "ME-21",
+        "subdivision_name": "Žabljak",
+        "abbrevation": "21"
+    }
+]

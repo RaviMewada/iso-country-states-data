@@ -1,0 +1,218 @@
+[
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-RS",
+        "subdivision_name": "Al Baḩr al Aḩmar",
+        "abbrevation": "RS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-GZ",
+        "subdivision_name": "Al Jazīrah",
+        "abbrevation": "GZ"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-KH",
+        "subdivision_name": "Al Kharţūm",
+        "abbrevation": "KH"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-GD",
+        "subdivision_name": "Al Qaḑārif",
+        "abbrevation": "GD"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-NW",
+        "subdivision_name": "An Nīl al Abyaḑ",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-NB",
+        "subdivision_name": "An Nīl al Azraq",
+        "abbrevation": "NB"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-NO",
+        "subdivision_name": "Ash Shamālīyah",
+        "abbrevation": "NO"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-NB",
+        "subdivision_name": "Blue Nile",
+        "abbrevation": "NB"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-DC",
+        "subdivision_name": "Central Darfur",
+        "abbrevation": "DC"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-DE",
+        "subdivision_name": "East Darfur",
+        "abbrevation": "DE"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-GD",
+        "subdivision_name": "Gedaref",
+        "abbrevation": "GD"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-GZ",
+        "subdivision_name": "Gezira",
+        "abbrevation": "GZ"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-DW",
+        "subdivision_name": "Gharb Dārfūr",
+        "abbrevation": "DW"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-GK",
+        "subdivision_name": "Gharb Kurdufān",
+        "abbrevation": "GK"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-DS",
+        "subdivision_name": "Janūb Dārfūr",
+        "abbrevation": "DS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-KS",
+        "subdivision_name": "Janūb Kurdufān",
+        "abbrevation": "KS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-KA",
+        "subdivision_name": "Kassala",
+        "abbrevation": "KA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-KA",
+        "subdivision_name": "Kassalā",
+        "abbrevation": "KA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-KH",
+        "subdivision_name": "Khartoum",
+        "abbrevation": "KH"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-NR",
+        "subdivision_name": "Nahr an Nīl",
+        "abbrevation": "NR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-DN",
+        "subdivision_name": "North Darfur",
+        "abbrevation": "DN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-KN",
+        "subdivision_name": "North Kordofan",
+        "abbrevation": "KN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-NO",
+        "subdivision_name": "Northern",
+        "abbrevation": "NO"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-RS",
+        "subdivision_name": "Red Sea",
+        "abbrevation": "RS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-NR",
+        "subdivision_name": "River Nile",
+        "abbrevation": "NR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-SI",
+        "subdivision_name": "Sennar",
+        "abbrevation": "SI"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-DN",
+        "subdivision_name": "Shamāl Dārfūr",
+        "abbrevation": "DN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-KN",
+        "subdivision_name": "Shamāl Kurdufān",
+        "abbrevation": "KN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-DE",
+        "subdivision_name": "Sharq Dārfūr",
+        "abbrevation": "DE"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-SI",
+        "subdivision_name": "Sinnār",
+        "abbrevation": "SI"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-DS",
+        "subdivision_name": "South Darfur",
+        "abbrevation": "DS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-KS",
+        "subdivision_name": "South Kordofan",
+        "abbrevation": "KS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-DC",
+        "subdivision_name": "Wasaţ Dārfūr",
+        "abbrevation": "DC"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-DW",
+        "subdivision_name": "West Darfur",
+        "abbrevation": "DW"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-GK",
+        "subdivision_name": "West Kordofan",
+        "abbrevation": "GK"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SD-NW",
+        "subdivision_name": "White Nile",
+        "abbrevation": "NW"
+    }
+]

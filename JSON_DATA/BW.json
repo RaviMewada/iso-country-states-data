@@ -1,0 +1,98 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BW-CE",
+        "subdivision_name": "Central",
+        "abbrevation": "CE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BW-CH",
+        "subdivision_name": "Chobe",
+        "abbrevation": "CH"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "BW-FR",
+        "subdivision_name": "Francistown",
+        "abbrevation": "FR"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "BW-GA",
+        "subdivision_name": "Gaborone",
+        "abbrevation": "GA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BW-GH",
+        "subdivision_name": "Ghanzi",
+        "abbrevation": "GH"
+    },
+    {
+        "subdivision_category": "town",
+        "iso_3166_2_code": "BW-JW",
+        "subdivision_name": "Jwaneng",
+        "abbrevation": "JW"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BW-KG",
+        "subdivision_name": "Kgalagadi",
+        "abbrevation": "KG"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BW-KL",
+        "subdivision_name": "Kgatleng",
+        "abbrevation": "KL"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BW-KW",
+        "subdivision_name": "Kweneng",
+        "abbrevation": "KW"
+    },
+    {
+        "subdivision_category": "town",
+        "iso_3166_2_code": "BW-LO",
+        "subdivision_name": "Lobatse",
+        "abbrevation": "LO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BW-NE",
+        "subdivision_name": "North East",
+        "abbrevation": "NE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BW-NW",
+        "subdivision_name": "North West",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "town",
+        "iso_3166_2_code": "BW-SP",
+        "subdivision_name": "Selibe Phikwe",
+        "abbrevation": "SP"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BW-SE",
+        "subdivision_name": "South East",
+        "abbrevation": "SE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BW-SO",
+        "subdivision_name": "Southern",
+        "abbrevation": "SO"
+    },
+    {
+        "subdivision_category": "town",
+        "iso_3166_2_code": "BW-ST",
+        "subdivision_name": "Sowa Town",
+        "abbrevation": "ST"
+    }
+]

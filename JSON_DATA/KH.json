@@ -1,0 +1,302 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-2",
+        "subdivision_name": "Baat Dambang",
+        "abbrevation": "2"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-1",
+        "subdivision_name": "Banteay Mean Choăy",
+        "abbrevation": "1"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-1",
+        "subdivision_name": "Bântéay Méanchey",
+        "abbrevation": "1"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-2",
+        "subdivision_name": "Bătdâmbâng",
+        "abbrevation": "2"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-23",
+        "subdivision_name": "Kaeb",
+        "abbrevation": "23"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-3",
+        "subdivision_name": "Kampong Chaam",
+        "abbrevation": "3"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-4",
+        "subdivision_name": "Kampong Chhnang",
+        "abbrevation": "4"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-5",
+        "subdivision_name": "Kampong Spueu",
+        "abbrevation": "5"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-6",
+        "subdivision_name": "Kampong Thum",
+        "abbrevation": "6"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-7",
+        "subdivision_name": "Kampot",
+        "abbrevation": "7"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-8",
+        "subdivision_name": "Kandaal",
+        "abbrevation": "8"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-9",
+        "subdivision_name": "Kaoh Kong",
+        "abbrevation": "9"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-9",
+        "subdivision_name": "Kaôh Kŏng",
+        "abbrevation": "9"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-10",
+        "subdivision_name": "Kracheh",
+        "abbrevation": "10"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-10",
+        "subdivision_name": "Krâchéh",
+        "abbrevation": "10"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-3",
+        "subdivision_name": "Kâmpóng Cham",
+        "abbrevation": "3"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-4",
+        "subdivision_name": "Kâmpóng Chhnăng",
+        "abbrevation": "4"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-5",
+        "subdivision_name": "Kâmpóng Spœ",
+        "abbrevation": "5"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-6",
+        "subdivision_name": "Kâmpóng Thum",
+        "abbrevation": "6"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-7",
+        "subdivision_name": "Kâmpôt",
+        "abbrevation": "7"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-8",
+        "subdivision_name": "Kândal",
+        "abbrevation": "8"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-23",
+        "subdivision_name": "Kêb",
+        "abbrevation": "23"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-11",
+        "subdivision_name": "Mondol Kiri",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-11",
+        "subdivision_name": "Môndól Kiri",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-22",
+        "subdivision_name": "Otdar Mean Chey",
+        "abbrevation": "22"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-24",
+        "subdivision_name": "Pailin",
+        "abbrevation": "24"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-24",
+        "subdivision_name": "Pailĭn",
+        "abbrevation": "24"
+    },
+    {
+        "subdivision_category": "autonomous municipality",
+        "iso_3166_2_code": "KH-12",
+        "subdivision_name": "Phnom Penh",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "autonomous municipality",
+        "iso_3166_2_code": "KH-12",
+        "subdivision_name": "Phnum Pénh",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-15",
+        "subdivision_name": "Pousaat",
+        "abbrevation": "15"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-15",
+        "subdivision_name": "Poŭthĭsăt",
+        "abbrevation": "15"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-18",
+        "subdivision_name": "Preah Sihanouk",
+        "abbrevation": "18"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-13",
+        "subdivision_name": "Preah Vihear",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-14",
+        "subdivision_name": "Prey Veaeng",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-14",
+        "subdivision_name": "Prey Vêng",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-18",
+        "subdivision_name": "Preăh Seihânŭ",
+        "abbrevation": "18"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-13",
+        "subdivision_name": "Preăh Vihéar",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-16",
+        "subdivision_name": "Rotanak Kiri",
+        "abbrevation": "16"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-16",
+        "subdivision_name": "Rôtânôkiri",
+        "abbrevation": "16"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-17",
+        "subdivision_name": "Siem Reab",
+        "abbrevation": "17"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-17",
+        "subdivision_name": "Siĕmréab",
+        "abbrevation": "17"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-19",
+        "subdivision_name": "Stoĕng Trêng",
+        "abbrevation": "19"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-19",
+        "subdivision_name": "Stueng Traeng",
+        "abbrevation": "19"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-20",
+        "subdivision_name": "Svaay Rieng",
+        "abbrevation": "20"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-20",
+        "subdivision_name": "Svay Riĕng",
+        "abbrevation": "20"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-21",
+        "subdivision_name": "Taakaev",
+        "abbrevation": "21"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-21",
+        "subdivision_name": "Takêv",
+        "abbrevation": "21"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-25",
+        "subdivision_name": "Tbong Khmum",
+        "abbrevation": "25"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-25",
+        "subdivision_name": "Tbong Khmŭm",
+        "abbrevation": "25"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "KH-22",
+        "subdivision_name": "Ŏtdâr Méan Choăy",
+        "abbrevation": "22"
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-42",
+        "subdivision_name": "Agder",
+        "abbrevation": "42"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-42",
+        "subdivision_name": "Agder",
+        "abbrevation": "42"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-34",
+        "subdivision_name": "Innlandet",
+        "abbrevation": "34"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-34",
+        "subdivision_name": "Innlandet",
+        "abbrevation": "34"
+    },
+    {
+        "subdivision_category": "arctic region",
+        "iso_3166_2_code": "NO-22",
+        "subdivision_name": "Jan Mayen (Arctic Region) (see also separate country code entry under SJ)",
+        "abbrevation": "22"
+    },
+    {
+        "subdivision_category": "arctic region",
+        "iso_3166_2_code": "NO-22",
+        "subdivision_name": "Jan Mayen (Arctic Region) (see also separate country code entry under SJ)",
+        "abbrevation": "22"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-15",
+        "subdivision_name": "Møre og Romsdal",
+        "abbrevation": "15"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-15",
+        "subdivision_name": "Møre og Romsdal",
+        "abbrevation": "15"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-18",
+        "subdivision_name": "Nordland",
+        "abbrevation": "18"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-18",
+        "subdivision_name": "Nordland",
+        "abbrevation": "18"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-03",
+        "subdivision_name": "Oslo",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-03",
+        "subdivision_name": "Oslo",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-11",
+        "subdivision_name": "Rogaland",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-11",
+        "subdivision_name": "Rogaland",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-54",
+        "subdivision_name": "Romssa ja Finnmárkku",
+        "abbrevation": "54"
+    },
+    {
+        "subdivision_category": "arctic region",
+        "iso_3166_2_code": "NO-21",
+        "subdivision_name": "Svalbard (Arctic Region) (see also separate country code entry under SJ)",
+        "abbrevation": "21"
+    },
+    {
+        "subdivision_category": "arctic region",
+        "iso_3166_2_code": "NO-21",
+        "subdivision_name": "Svalbard (Arctic Region) (see also separate country code entry under SJ)",
+        "abbrevation": "21"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-54",
+        "subdivision_name": "Troms og Finnmark",
+        "abbrevation": "54"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-54",
+        "subdivision_name": "Troms og Finnmark",
+        "abbrevation": "54"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-54",
+        "subdivision_name": "Tromssan ja Finmarkun",
+        "abbrevation": "54"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-50",
+        "subdivision_name": "Trööndelage",
+        "abbrevation": "50"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-50",
+        "subdivision_name": "Trøndelag",
+        "abbrevation": "50"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-50",
+        "subdivision_name": "Trøndelag",
+        "abbrevation": "50"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-38",
+        "subdivision_name": "Vestfold og Telemark",
+        "abbrevation": "38"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-38",
+        "subdivision_name": "Vestfold og Telemark",
+        "abbrevation": "38"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-46",
+        "subdivision_name": "Vestland",
+        "abbrevation": "46"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-46",
+        "subdivision_name": "Vestland",
+        "abbrevation": "46"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-30",
+        "subdivision_name": "Viken",
+        "abbrevation": "30"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "NO-30",
+        "subdivision_name": "Viken",
+        "abbrevation": "30"
+    }
+]

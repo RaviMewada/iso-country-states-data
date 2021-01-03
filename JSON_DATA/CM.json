@@ -1,0 +1,122 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-AD",
+        "subdivision_name": "Adamaoua",
+        "abbrevation": "AD"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-AD",
+        "subdivision_name": "Adamaoua",
+        "abbrevation": "AD"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-CE",
+        "subdivision_name": "Centre",
+        "abbrevation": "CE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-CE",
+        "subdivision_name": "Centre",
+        "abbrevation": "CE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-ES",
+        "subdivision_name": "East",
+        "abbrevation": "ES"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-ES",
+        "subdivision_name": "Est",
+        "abbrevation": "ES"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-EN",
+        "subdivision_name": "Extrême-Nord",
+        "abbrevation": "EN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-EN",
+        "subdivision_name": "Far North",
+        "abbrevation": "EN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-LT",
+        "subdivision_name": "Littoral",
+        "abbrevation": "LT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-LT",
+        "subdivision_name": "Littoral",
+        "abbrevation": "LT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-NO",
+        "subdivision_name": "Nord",
+        "abbrevation": "NO"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-NW",
+        "subdivision_name": "Nord-Ouest",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-NO",
+        "subdivision_name": "North",
+        "abbrevation": "NO"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-NW",
+        "subdivision_name": "North-West",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-OU",
+        "subdivision_name": "Ouest",
+        "abbrevation": "OU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-SU",
+        "subdivision_name": "South",
+        "abbrevation": "SU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-SW",
+        "subdivision_name": "South-West",
+        "abbrevation": "SW"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-SU",
+        "subdivision_name": "Sud",
+        "abbrevation": "SU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-SW",
+        "subdivision_name": "Sud-Ouest",
+        "abbrevation": "SW"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "CM-OU",
+        "subdivision_name": "West",
+        "abbrevation": "OU"
+    }
+]

@@ -1,0 +1,380 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-44",
+        "subdivision_name": "An Giang",
+        "abbrevation": "44"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-43",
+        "subdivision_name": "Bà Rịa - Vũng Tàu",
+        "abbrevation": "43"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-57",
+        "subdivision_name": "Bình Dương",
+        "abbrevation": "57"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-58",
+        "subdivision_name": "Bình Phước",
+        "abbrevation": "58"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-40",
+        "subdivision_name": "Bình Thuận",
+        "abbrevation": "40"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-31",
+        "subdivision_name": "Bình Định",
+        "abbrevation": "31"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-55",
+        "subdivision_name": "Bạc Liêu",
+        "abbrevation": "55"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-54",
+        "subdivision_name": "Bắc Giang",
+        "abbrevation": "54"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-53",
+        "subdivision_name": "Bắc Kạn",
+        "abbrevation": "53"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-56",
+        "subdivision_name": "Bắc Ninh",
+        "abbrevation": "56"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-50",
+        "subdivision_name": "Bến Tre",
+        "abbrevation": "50"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-04",
+        "subdivision_name": "Cao Bằng",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-59",
+        "subdivision_name": "Cà Mau",
+        "abbrevation": "59"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "VN-CT",
+        "subdivision_name": "Cần Thơ",
+        "abbrevation": "CT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-30",
+        "subdivision_name": "Gia Lai",
+        "abbrevation": "30"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-03",
+        "subdivision_name": "Hà Giang",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-63",
+        "subdivision_name": "Hà Nam",
+        "abbrevation": "63"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "VN-HN",
+        "subdivision_name": "Hà Nội",
+        "abbrevation": "HN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-23",
+        "subdivision_name": "Hà Tĩnh",
+        "abbrevation": "23"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-14",
+        "subdivision_name": "Hòa Bình",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-66",
+        "subdivision_name": "Hưng Yên",
+        "abbrevation": "66"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-61",
+        "subdivision_name": "Hải Dương",
+        "abbrevation": "61"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "VN-HP",
+        "subdivision_name": "Hải Phòng",
+        "abbrevation": "HP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-73",
+        "subdivision_name": "Hậu Giang",
+        "abbrevation": "73"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "VN-SG",
+        "subdivision_name": "Hồ Chí Minh",
+        "abbrevation": "SG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-34",
+        "subdivision_name": "Khánh Hòa",
+        "abbrevation": "34"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-47",
+        "subdivision_name": "Kiến Giang",
+        "abbrevation": "47"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-28",
+        "subdivision_name": "Kon Tum",
+        "abbrevation": "28"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-01",
+        "subdivision_name": "Lai Châu",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-41",
+        "subdivision_name": "Long An",
+        "abbrevation": "41"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-02",
+        "subdivision_name": "Lào Cai",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-35",
+        "subdivision_name": "Lâm Đồng",
+        "abbrevation": "35"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-09",
+        "subdivision_name": "Lạng Sơn",
+        "abbrevation": "09"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-67",
+        "subdivision_name": "Nam Định",
+        "abbrevation": "67"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-22",
+        "subdivision_name": "Nghệ An",
+        "abbrevation": "22"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-18",
+        "subdivision_name": "Ninh Bình",
+        "abbrevation": "18"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-36",
+        "subdivision_name": "Ninh Thuận",
+        "abbrevation": "36"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-68",
+        "subdivision_name": "Phú Thọ",
+        "abbrevation": "68"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-32",
+        "subdivision_name": "Phú Yên",
+        "abbrevation": "32"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-24",
+        "subdivision_name": "Quảng Bình",
+        "abbrevation": "24"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-27",
+        "subdivision_name": "Quảng Nam",
+        "abbrevation": "27"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-29",
+        "subdivision_name": "Quảng Ngãi",
+        "abbrevation": "29"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-13",
+        "subdivision_name": "Quảng Ninh",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-25",
+        "subdivision_name": "Quảng Trị",
+        "abbrevation": "25"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-52",
+        "subdivision_name": "Sóc Trăng",
+        "abbrevation": "52"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-05",
+        "subdivision_name": "Sơn La",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-21",
+        "subdivision_name": "Thanh Hóa",
+        "abbrevation": "21"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-20",
+        "subdivision_name": "Thái Bình",
+        "abbrevation": "20"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-69",
+        "subdivision_name": "Thái Nguyên",
+        "abbrevation": "69"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-26",
+        "subdivision_name": "Thừa Thiên-Huế",
+        "abbrevation": "26"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-46",
+        "subdivision_name": "Tiền Giang",
+        "abbrevation": "46"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-51",
+        "subdivision_name": "Trà Vinh",
+        "abbrevation": "51"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-07",
+        "subdivision_name": "Tuyên Quang",
+        "abbrevation": "07"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-37",
+        "subdivision_name": "Tây Ninh",
+        "abbrevation": "37"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-49",
+        "subdivision_name": "Vĩnh Long",
+        "abbrevation": "49"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-70",
+        "subdivision_name": "Vĩnh Phúc",
+        "abbrevation": "70"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-06",
+        "subdivision_name": "Yên Bái",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-71",
+        "subdivision_name": "Điện Biên",
+        "abbrevation": "71"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "VN-DN",
+        "subdivision_name": "Đà Nẵng",
+        "abbrevation": "DN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-33",
+        "subdivision_name": "Đắk Lắk",
+        "abbrevation": "33"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-72",
+        "subdivision_name": "Đắk Nông",
+        "abbrevation": "72"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-39",
+        "subdivision_name": "Đồng Nai",
+        "abbrevation": "39"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VN-45",
+        "subdivision_name": "Đồng Tháp",
+        "abbrevation": "45"
+    }
+]

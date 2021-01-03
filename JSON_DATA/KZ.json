@@ -1,0 +1,308 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-AKM",
+        "subdivision_name": "Akmolinskaja oblast'",
+        "abbrevation": "AKM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-AKM",
+        "subdivision_name": "Akmolinskaya oblast'",
+        "abbrevation": "AKM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-AKT",
+        "subdivision_name": "Aktjubinskaja oblast'",
+        "abbrevation": "AKT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-AKT",
+        "subdivision_name": "Aktyubinskaya oblast'",
+        "abbrevation": "AKT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-ALM",
+        "subdivision_name": "Almatinskaja oblast'",
+        "abbrevation": "ALM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-ALM",
+        "subdivision_name": "Almatinskaya oblast'",
+        "abbrevation": "ALM"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KZ-ALA",
+        "subdivision_name": "Almaty",
+        "abbrevation": "ALA"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KZ-ALA",
+        "subdivision_name": "Almaty",
+        "abbrevation": "ALA"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KZ-ALA",
+        "subdivision_name": "Almaty",
+        "abbrevation": "ALA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-ALM",
+        "subdivision_name": "Almaty oblysy",
+        "abbrevation": "ALM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-AKM",
+        "subdivision_name": "Aqmola oblysy",
+        "abbrevation": "AKM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-AKT",
+        "subdivision_name": "Aqtöbe oblysy",
+        "abbrevation": "AKT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-ATY",
+        "subdivision_name": "Atyrauskaja oblast'",
+        "abbrevation": "ATY"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-ATY",
+        "subdivision_name": "Atyrauskaya oblast'",
+        "abbrevation": "ATY"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-ATY",
+        "subdivision_name": "Atyraū oblysy",
+        "abbrevation": "ATY"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-ZAP",
+        "subdivision_name": "Batys Qazaqstan oblysy",
+        "abbrevation": "ZAP"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-KAR",
+        "subdivision_name": "Karagandinskaja oblast'",
+        "abbrevation": "KAR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-KAR",
+        "subdivision_name": "Karagandinskaya oblast'",
+        "abbrevation": "KAR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-KUS",
+        "subdivision_name": "Kostanajskaja oblast'",
+        "abbrevation": "KUS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-KUS",
+        "subdivision_name": "Kostanayskaya oblast'",
+        "abbrevation": "KUS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-KZY",
+        "subdivision_name": "Kyzylordinskaja oblast'",
+        "abbrevation": "KZY"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-KZY",
+        "subdivision_name": "Kyzylordinskaya oblast'",
+        "abbrevation": "KZY"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-MAN",
+        "subdivision_name": "Mangghystaū oblysy",
+        "abbrevation": "MAN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-MAN",
+        "subdivision_name": "Mangistauskaya oblast'",
+        "abbrevation": "MAN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-MAN",
+        "subdivision_name": "Mangystauskaja oblast'",
+        "abbrevation": "MAN"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KZ-AST",
+        "subdivision_name": "Nur-Sultan",
+        "abbrevation": "AST"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KZ-AST",
+        "subdivision_name": "Nur-Sultan",
+        "abbrevation": "AST"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KZ-AST",
+        "subdivision_name": "Nur-Sultan",
+        "abbrevation": "AST"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-PAV",
+        "subdivision_name": "Pavlodar oblysy",
+        "abbrevation": "PAV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-PAV",
+        "subdivision_name": "Pavlodarskaja oblast'",
+        "abbrevation": "PAV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-PAV",
+        "subdivision_name": "Pavlodarskaya oblast'",
+        "abbrevation": "PAV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-KAR",
+        "subdivision_name": "Qaraghandy oblysy",
+        "abbrevation": "KAR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-KUS",
+        "subdivision_name": "Qostanay oblysy",
+        "abbrevation": "KUS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-KZY",
+        "subdivision_name": "Qyzylorda oblysy",
+        "abbrevation": "KZY"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-SEV",
+        "subdivision_name": "Severo-Kazahstanskaja oblast'",
+        "abbrevation": "SEV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-SEV",
+        "subdivision_name": "Severo-Kazakhstanskaya oblast'",
+        "abbrevation": "SEV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-VOS",
+        "subdivision_name": "Shyghys Qazaqstan oblysy",
+        "abbrevation": "VOS"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KZ-SHY",
+        "subdivision_name": "Shymkent",
+        "abbrevation": "SHY"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KZ-SHY",
+        "subdivision_name": "Shymkent",
+        "abbrevation": "SHY"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-SEV",
+        "subdivision_name": "Soltüstik Qazaqstan oblysy",
+        "abbrevation": "SEV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-YUZ",
+        "subdivision_name": "Turkestankaya oblast'",
+        "abbrevation": "YUZ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-YUZ",
+        "subdivision_name": "Turkestanskaja oblast'",
+        "abbrevation": "YUZ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-YUZ",
+        "subdivision_name": "Türkistan oblysy",
+        "abbrevation": "YUZ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-VOS",
+        "subdivision_name": "Vostochno-Kazakhstanskaya oblast'",
+        "abbrevation": "VOS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-VOS",
+        "subdivision_name": "Vostočno-Kazahstanskaja oblast'",
+        "abbrevation": "VOS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-ZAP",
+        "subdivision_name": "Zapadno-Kazahstanskaja oblast'",
+        "abbrevation": "ZAP"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-ZAP",
+        "subdivision_name": "Zapadno-Kazakhstanskaya oblast'",
+        "abbrevation": "ZAP"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-ZHA",
+        "subdivision_name": "Zhambyl oblysy",
+        "abbrevation": "ZHA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-ZHA",
+        "subdivision_name": "Zhambylskaya oblast'",
+        "abbrevation": "ZHA"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KZ-SHY",
+        "subdivision_name": "Šimkent",
+        "abbrevation": "SHY"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KZ-ZHA",
+        "subdivision_name": "Žambylskaja oblast'",
+        "abbrevation": "ZHA"
+    }
+]

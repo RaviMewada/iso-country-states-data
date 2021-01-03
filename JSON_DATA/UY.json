@@ -1,0 +1,116 @@
+[
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-AR",
+        "subdivision_name": "Artigas",
+        "abbrevation": "AR"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-CA",
+        "subdivision_name": "Canelones",
+        "abbrevation": "CA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-CL",
+        "subdivision_name": "Cerro Largo",
+        "abbrevation": "CL"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-CO",
+        "subdivision_name": "Colonia",
+        "abbrevation": "CO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-DU",
+        "subdivision_name": "Durazno",
+        "abbrevation": "DU"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-FS",
+        "subdivision_name": "Flores",
+        "abbrevation": "FS"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-FD",
+        "subdivision_name": "Florida",
+        "abbrevation": "FD"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-LA",
+        "subdivision_name": "Lavalleja",
+        "abbrevation": "LA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-MA",
+        "subdivision_name": "Maldonado",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-MO",
+        "subdivision_name": "Montevideo",
+        "abbrevation": "MO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-PA",
+        "subdivision_name": "Paysandú",
+        "abbrevation": "PA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-RV",
+        "subdivision_name": "Rivera",
+        "abbrevation": "RV"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-RO",
+        "subdivision_name": "Rocha",
+        "abbrevation": "RO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-RN",
+        "subdivision_name": "Río Negro",
+        "abbrevation": "RN"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-SA",
+        "subdivision_name": "Salto",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-SJ",
+        "subdivision_name": "San José",
+        "abbrevation": "SJ"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-SO",
+        "subdivision_name": "Soriano",
+        "abbrevation": "SO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-TA",
+        "subdivision_name": "Tacuarembó",
+        "abbrevation": "TA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "UY-TT",
+        "subdivision_name": "Treinta y Tres",
+        "abbrevation": "TT"
+    }
+]

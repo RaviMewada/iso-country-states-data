@@ -1,0 +1,50 @@
+[
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "QA-DA",
+        "subdivision_name": "Ad Dawḩah",
+        "abbrevation": "DA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "QA-KH",
+        "subdivision_name": "Al Khawr wa adh Dhakhīrah",
+        "abbrevation": "KH"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "QA-WA",
+        "subdivision_name": "Al Wakrah",
+        "abbrevation": "WA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "QA-RA",
+        "subdivision_name": "Ar Rayyān",
+        "abbrevation": "RA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "QA-MS",
+        "subdivision_name": "Ash Shamāl",
+        "abbrevation": "MS"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "QA-SH",
+        "subdivision_name": "Ash Shīḩānīyah",
+        "abbrevation": "SH"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "QA-ZA",
+        "subdivision_name": "Az̧ Z̧a‘āyin",
+        "abbrevation": "ZA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "QA-US",
+        "subdivision_name": "Umm Şalāl",
+        "abbrevation": "US"
+    }
+]

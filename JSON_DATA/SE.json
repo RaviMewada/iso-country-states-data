@@ -1,0 +1,128 @@
+[
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-K",
+        "subdivision_name": "Blekinge län [SE-10]",
+        "abbrevation": "K"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-W",
+        "subdivision_name": "Dalarnas län [SE-20]",
+        "abbrevation": "W"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-I",
+        "subdivision_name": "Gotlands län [SE-09]",
+        "abbrevation": "I"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-X",
+        "subdivision_name": "Gävleborgs län [SE-21]",
+        "abbrevation": "X"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-N",
+        "subdivision_name": "Hallands län [SE-13]",
+        "abbrevation": "N"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-Z",
+        "subdivision_name": "Jämtlands län [SE-23]",
+        "abbrevation": "Z"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-F",
+        "subdivision_name": "Jönköpings län [SE-06]",
+        "abbrevation": "F"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-H",
+        "subdivision_name": "Kalmar län [SE-08]",
+        "abbrevation": "H"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-G",
+        "subdivision_name": "Kronobergs län [SE-07]",
+        "abbrevation": "G"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-BD",
+        "subdivision_name": "Norrbottens län [SE-25]",
+        "abbrevation": "BD"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-M",
+        "subdivision_name": "Skåne län [SE-12]",
+        "abbrevation": "M"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-AB",
+        "subdivision_name": "Stockholms län [SE-01]",
+        "abbrevation": "AB"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-D",
+        "subdivision_name": "Södermanlands län [SE-04]",
+        "abbrevation": "D"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-C",
+        "subdivision_name": "Uppsala län [SE-03]",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-S",
+        "subdivision_name": "Värmlands län [SE-17]",
+        "abbrevation": "S"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-AC",
+        "subdivision_name": "Västerbottens län [SE-24]",
+        "abbrevation": "AC"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-Y",
+        "subdivision_name": "Västernorrlands län [SE-22]",
+        "abbrevation": "Y"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-U",
+        "subdivision_name": "Västmanlands län [SE-19]",
+        "abbrevation": "U"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-O",
+        "subdivision_name": "Västra Götalands län [SE-14]",
+        "abbrevation": "O"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-T",
+        "subdivision_name": "Örebro län [SE-18]",
+        "abbrevation": "T"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "SE-E",
+        "subdivision_name": "Östergötlands län [SE-05]",
+        "abbrevation": "E"
+    }
+]

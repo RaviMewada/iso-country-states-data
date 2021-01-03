@@ -1,0 +1,38 @@
+[
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "GM-B",
+        "subdivision_name": "Banjul",
+        "abbrevation": "B"
+    },
+    {
+        "subdivision_category": "division",
+        "iso_3166_2_code": "GM-M",
+        "subdivision_name": "Central River",
+        "abbrevation": "M"
+    },
+    {
+        "subdivision_category": "division",
+        "iso_3166_2_code": "GM-L",
+        "subdivision_name": "Lower River",
+        "abbrevation": "L"
+    },
+    {
+        "subdivision_category": "division",
+        "iso_3166_2_code": "GM-N",
+        "subdivision_name": "North Bank",
+        "abbrevation": "N"
+    },
+    {
+        "subdivision_category": "division",
+        "iso_3166_2_code": "GM-U",
+        "subdivision_name": "Upper River",
+        "abbrevation": "U"
+    },
+    {
+        "subdivision_category": "division",
+        "iso_3166_2_code": "GM-W",
+        "subdivision_name": "Western",
+        "abbrevation": "W"
+    }
+]

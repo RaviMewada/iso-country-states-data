@@ -1,0 +1,998 @@
+[
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-AD",
+        "subdivision_name": "Adygeja, Respublika",
+        "abbrevation": "AD"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-AD",
+        "subdivision_name": "Adygeya, Respublika",
+        "abbrevation": "AD"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-AL",
+        "subdivision_name": "Altaj, Respublika",
+        "abbrevation": "AL"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-ALT",
+        "subdivision_name": "Altajskij kraj",
+        "abbrevation": "ALT"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-AL",
+        "subdivision_name": "Altay, Respublika",
+        "abbrevation": "AL"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-ALT",
+        "subdivision_name": "Altayskiy kray",
+        "abbrevation": "ALT"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-AMU",
+        "subdivision_name": "Amurskaja oblast'",
+        "abbrevation": "AMU"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-AMU",
+        "subdivision_name": "Amurskaya oblast'",
+        "abbrevation": "AMU"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-ARK",
+        "subdivision_name": "Arhangel'skaja oblast'",
+        "abbrevation": "ARK"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-ARK",
+        "subdivision_name": "Arkhangel'skaya oblast'",
+        "abbrevation": "ARK"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-AST",
+        "subdivision_name": "Astrahanskaja oblast'",
+        "abbrevation": "AST"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-AST",
+        "subdivision_name": "Astrakhanskaya oblast'",
+        "abbrevation": "AST"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-BA",
+        "subdivision_name": "Bashkortostan, Respublika",
+        "abbrevation": "BA"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-BA",
+        "subdivision_name": "Baškortostan, Respublika",
+        "abbrevation": "BA"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-BEL",
+        "subdivision_name": "Belgorodskaja oblast'",
+        "abbrevation": "BEL"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-BEL",
+        "subdivision_name": "Belgorodskaya oblast'",
+        "abbrevation": "BEL"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-BRY",
+        "subdivision_name": "Brjanskaja oblast'",
+        "abbrevation": "BRY"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-BRY",
+        "subdivision_name": "Bryanskaya oblast'",
+        "abbrevation": "BRY"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-BU",
+        "subdivision_name": "Burjatija, Respublika",
+        "abbrevation": "BU"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-BU",
+        "subdivision_name": "Buryatiya, Respublika",
+        "abbrevation": "BU"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-CE",
+        "subdivision_name": "Chechenskaya Respublika",
+        "abbrevation": "CE"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-CHE",
+        "subdivision_name": "Chelyabinskaya oblast'",
+        "abbrevation": "CHE"
+    },
+    {
+        "subdivision_category": "autonomous district",
+        "iso_3166_2_code": "RU-CHU",
+        "subdivision_name": "Chukotskiy avtonomnyy okrug",
+        "abbrevation": "CHU"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-CU",
+        "subdivision_name": "Chuvashskaya Respublika",
+        "abbrevation": "CU"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-DA",
+        "subdivision_name": "Dagestan, Respublika",
+        "abbrevation": "DA"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-DA",
+        "subdivision_name": "Dagestan, Respublika",
+        "abbrevation": "DA"
+    },
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "RU-YEV",
+        "subdivision_name": "Evrejskaja avtonomnaja oblast'",
+        "abbrevation": "YEV"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-KHA",
+        "subdivision_name": "Habarovskij kraj",
+        "abbrevation": "KHA"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-KK",
+        "subdivision_name": "Hakasija, Respublika",
+        "abbrevation": "KK"
+    },
+    {
+        "subdivision_category": "autonomous district",
+        "iso_3166_2_code": "RU-KHM",
+        "subdivision_name": "Hanty-Mansijskij avtonomnyj okrug",
+        "abbrevation": "KHM"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-IN",
+        "subdivision_name": "Ingushetiya, Respublika",
+        "abbrevation": "IN"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-IN",
+        "subdivision_name": "Ingušetija, Respublika",
+        "abbrevation": "IN"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-IRK",
+        "subdivision_name": "Irkutskaja oblast'",
+        "abbrevation": "IRK"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-IRK",
+        "subdivision_name": "Irkutskaya oblast'",
+        "abbrevation": "IRK"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-IVA",
+        "subdivision_name": "Ivanovskaja oblast'",
+        "abbrevation": "IVA"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-IVA",
+        "subdivision_name": "Ivanovskaya oblast'",
+        "abbrevation": "IVA"
+    },
+    {
+        "subdivision_category": "autonomous district",
+        "iso_3166_2_code": "RU-YAN",
+        "subdivision_name": "Jamalo-Neneckij avtonomnyj okrug",
+        "abbrevation": "YAN"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-YAR",
+        "subdivision_name": "Jaroslavskaja oblast'",
+        "abbrevation": "YAR"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-KB",
+        "subdivision_name": "Kabardino-Balkarskaja Respublika",
+        "abbrevation": "KB"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-KB",
+        "subdivision_name": "Kabardino-Balkarskaya Respublika",
+        "abbrevation": "KB"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KGD",
+        "subdivision_name": "Kaliningradskaja oblast'",
+        "abbrevation": "KGD"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KGD",
+        "subdivision_name": "Kaliningradskaya oblast'",
+        "abbrevation": "KGD"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-KL",
+        "subdivision_name": "Kalmykija, Respublika",
+        "abbrevation": "KL"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-KL",
+        "subdivision_name": "Kalmykiya, Respublika",
+        "abbrevation": "KL"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KLU",
+        "subdivision_name": "Kaluzhskaya oblast'",
+        "abbrevation": "KLU"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KLU",
+        "subdivision_name": "Kalužskaja oblast'",
+        "abbrevation": "KLU"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-KAM",
+        "subdivision_name": "Kamchatskiy kray",
+        "abbrevation": "KAM"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-KAM",
+        "subdivision_name": "Kamčatskij kraj",
+        "abbrevation": "KAM"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-KC",
+        "subdivision_name": "Karachayevo-Cherkesskaya Respublika",
+        "abbrevation": "KC"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-KC",
+        "subdivision_name": "Karačaevo-Čerkesskaja Respublika",
+        "abbrevation": "KC"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-KR",
+        "subdivision_name": "Karelija, Respublika",
+        "abbrevation": "KR"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-KR",
+        "subdivision_name": "Kareliya, Respublika",
+        "abbrevation": "KR"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KEM",
+        "subdivision_name": "Kemerovskaja oblast'",
+        "abbrevation": "KEM"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KEM",
+        "subdivision_name": "Kemerovskaya oblast'",
+        "abbrevation": "KEM"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-KHA",
+        "subdivision_name": "Khabarovskiy kray",
+        "abbrevation": "KHA"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-KK",
+        "subdivision_name": "Khakasiya, Respublika",
+        "abbrevation": "KK"
+    },
+    {
+        "subdivision_category": "autonomous district",
+        "iso_3166_2_code": "RU-KHM",
+        "subdivision_name": "Khanty-Mansiyskiy avtonomnyy okrug",
+        "abbrevation": "KHM"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KIR",
+        "subdivision_name": "Kirovskaja oblast'",
+        "abbrevation": "KIR"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KIR",
+        "subdivision_name": "Kirovskaya oblast'",
+        "abbrevation": "KIR"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-KO",
+        "subdivision_name": "Komi, Respublika",
+        "abbrevation": "KO"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-KO",
+        "subdivision_name": "Komi, Respublika",
+        "abbrevation": "KO"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KOS",
+        "subdivision_name": "Kostromskaja oblast'",
+        "abbrevation": "KOS"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KOS",
+        "subdivision_name": "Kostromskaya oblast'",
+        "abbrevation": "KOS"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-KDA",
+        "subdivision_name": "Krasnodarskij kraj",
+        "abbrevation": "KDA"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-KDA",
+        "subdivision_name": "Krasnodarskiy kray",
+        "abbrevation": "KDA"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-KYA",
+        "subdivision_name": "Krasnojarskij kraj",
+        "abbrevation": "KYA"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-KYA",
+        "subdivision_name": "Krasnoyarskiy kray",
+        "abbrevation": "KYA"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KGN",
+        "subdivision_name": "Kurganskaja oblast'",
+        "abbrevation": "KGN"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KGN",
+        "subdivision_name": "Kurganskaya oblast'",
+        "abbrevation": "KGN"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KRS",
+        "subdivision_name": "Kurskaja oblast'",
+        "abbrevation": "KRS"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-KRS",
+        "subdivision_name": "Kurskaya oblast'",
+        "abbrevation": "KRS"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-LEN",
+        "subdivision_name": "Leningradskaja oblast'",
+        "abbrevation": "LEN"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-LEN",
+        "subdivision_name": "Leningradskaya oblast'",
+        "abbrevation": "LEN"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-LIP",
+        "subdivision_name": "Lipeckaja oblast'",
+        "abbrevation": "LIP"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-LIP",
+        "subdivision_name": "Lipetskaya oblast'",
+        "abbrevation": "LIP"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-MAG",
+        "subdivision_name": "Magadanskaja oblast'",
+        "abbrevation": "MAG"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-MAG",
+        "subdivision_name": "Magadanskaya oblast'",
+        "abbrevation": "MAG"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-ME",
+        "subdivision_name": "Marij Èl, Respublika",
+        "abbrevation": "ME"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-ME",
+        "subdivision_name": "Mariy El, Respublika",
+        "abbrevation": "ME"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-MO",
+        "subdivision_name": "Mordovija, Respublika",
+        "abbrevation": "MO"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-MO",
+        "subdivision_name": "Mordoviya, Respublika",
+        "abbrevation": "MO"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-MOS",
+        "subdivision_name": "Moskovskaja oblast'",
+        "abbrevation": "MOS"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-MOS",
+        "subdivision_name": "Moskovskaya oblast'",
+        "abbrevation": "MOS"
+    },
+    {
+        "subdivision_category": "autonomous city",
+        "iso_3166_2_code": "RU-MOW",
+        "subdivision_name": "Moskva",
+        "abbrevation": "MOW"
+    },
+    {
+        "subdivision_category": "autonomous city",
+        "iso_3166_2_code": "RU-MOW",
+        "subdivision_name": "Moskva",
+        "abbrevation": "MOW"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-MUR",
+        "subdivision_name": "Murmanskaja oblast'",
+        "abbrevation": "MUR"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-MUR",
+        "subdivision_name": "Murmanskaya oblast'",
+        "abbrevation": "MUR"
+    },
+    {
+        "subdivision_category": "autonomous district",
+        "iso_3166_2_code": "RU-NEN",
+        "subdivision_name": "Neneckij avtonomnyj okrug",
+        "abbrevation": "NEN"
+    },
+    {
+        "subdivision_category": "autonomous district",
+        "iso_3166_2_code": "RU-NEN",
+        "subdivision_name": "Nenetskiy avtonomnyy okrug",
+        "abbrevation": "NEN"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-NIZ",
+        "subdivision_name": "Nizhegorodskaya oblast'",
+        "abbrevation": "NIZ"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-NIZ",
+        "subdivision_name": "Nižegorodskaja oblast'",
+        "abbrevation": "NIZ"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-NGR",
+        "subdivision_name": "Novgorodskaja oblast'",
+        "abbrevation": "NGR"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-NGR",
+        "subdivision_name": "Novgorodskaya oblast'",
+        "abbrevation": "NGR"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-NVS",
+        "subdivision_name": "Novosibirskaja oblast'",
+        "abbrevation": "NVS"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-NVS",
+        "subdivision_name": "Novosibirskaya oblast'",
+        "abbrevation": "NVS"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-OMS",
+        "subdivision_name": "Omskaja oblast'",
+        "abbrevation": "OMS"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-OMS",
+        "subdivision_name": "Omskaya oblast'",
+        "abbrevation": "OMS"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-ORE",
+        "subdivision_name": "Orenburgskaja oblast'",
+        "abbrevation": "ORE"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-ORE",
+        "subdivision_name": "Orenburgskaya oblast'",
+        "abbrevation": "ORE"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-ORL",
+        "subdivision_name": "Orlovskaja oblast'",
+        "abbrevation": "ORL"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-ORL",
+        "subdivision_name": "Orlovskaya oblast'",
+        "abbrevation": "ORL"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-PNZ",
+        "subdivision_name": "Penzenskaja oblast'",
+        "abbrevation": "PNZ"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-PNZ",
+        "subdivision_name": "Penzenskaya oblast'",
+        "abbrevation": "PNZ"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-PER",
+        "subdivision_name": "Permskij kraj",
+        "abbrevation": "PER"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-PER",
+        "subdivision_name": "Permskiy kray",
+        "abbrevation": "PER"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-PRI",
+        "subdivision_name": "Primorskij kraj",
+        "abbrevation": "PRI"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-PRI",
+        "subdivision_name": "Primorskiy kray",
+        "abbrevation": "PRI"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-PSK",
+        "subdivision_name": "Pskovskaja oblast'",
+        "abbrevation": "PSK"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-PSK",
+        "subdivision_name": "Pskovskaya oblast'",
+        "abbrevation": "PSK"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-RYA",
+        "subdivision_name": "Rjazanskaja oblast'",
+        "abbrevation": "RYA"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-ROS",
+        "subdivision_name": "Rostovskaja oblast'",
+        "abbrevation": "ROS"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-ROS",
+        "subdivision_name": "Rostovskaya oblast'",
+        "abbrevation": "ROS"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-RYA",
+        "subdivision_name": "Ryazanskaya oblast'",
+        "abbrevation": "RYA"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-SA",
+        "subdivision_name": "Saha, Respublika",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-SAK",
+        "subdivision_name": "Sahalinskaja oblast'",
+        "abbrevation": "SAK"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-SA",
+        "subdivision_name": "Sakha, Respublika",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-SAK",
+        "subdivision_name": "Sakhalinskaya oblast'",
+        "abbrevation": "SAK"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-SAM",
+        "subdivision_name": "Samarskaja oblast'",
+        "abbrevation": "SAM"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-SAM",
+        "subdivision_name": "Samarskaya oblast'",
+        "abbrevation": "SAM"
+    },
+    {
+        "subdivision_category": "autonomous city",
+        "iso_3166_2_code": "RU-SPE",
+        "subdivision_name": "Sankt-Peterburg",
+        "abbrevation": "SPE"
+    },
+    {
+        "subdivision_category": "autonomous city",
+        "iso_3166_2_code": "RU-SPE",
+        "subdivision_name": "Sankt-Peterburg",
+        "abbrevation": "SPE"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-SAR",
+        "subdivision_name": "Saratovskaja oblast'",
+        "abbrevation": "SAR"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-SAR",
+        "subdivision_name": "Saratovskaya oblast'",
+        "abbrevation": "SAR"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-SE",
+        "subdivision_name": "Severnaja Osetija, Respublika",
+        "abbrevation": "SE"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-SE",
+        "subdivision_name": "Severnaya Osetiya, Respublika",
+        "abbrevation": "SE"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-SMO",
+        "subdivision_name": "Smolenskaja oblast'",
+        "abbrevation": "SMO"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-SMO",
+        "subdivision_name": "Smolenskaya oblast'",
+        "abbrevation": "SMO"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-STA",
+        "subdivision_name": "Stavropol'skij kraj",
+        "abbrevation": "STA"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-STA",
+        "subdivision_name": "Stavropol'skiy kray",
+        "abbrevation": "STA"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-SVE",
+        "subdivision_name": "Sverdlovskaja oblast'",
+        "abbrevation": "SVE"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-SVE",
+        "subdivision_name": "Sverdlovskaya oblast'",
+        "abbrevation": "SVE"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-TAM",
+        "subdivision_name": "Tambovskaja oblast'",
+        "abbrevation": "TAM"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-TAM",
+        "subdivision_name": "Tambovskaya oblast'",
+        "abbrevation": "TAM"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-TA",
+        "subdivision_name": "Tatarstan, Respublika",
+        "abbrevation": "TA"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-TA",
+        "subdivision_name": "Tatarstan, Respublika",
+        "abbrevation": "TA"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-TYU",
+        "subdivision_name": "Tjumenskaja oblast'",
+        "abbrevation": "TYU"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-TOM",
+        "subdivision_name": "Tomskaja oblast'",
+        "abbrevation": "TOM"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-TOM",
+        "subdivision_name": "Tomskaya oblast'",
+        "abbrevation": "TOM"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-TUL",
+        "subdivision_name": "Tul'skaja oblast'",
+        "abbrevation": "TUL"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-TUL",
+        "subdivision_name": "Tul'skaya oblast'",
+        "abbrevation": "TUL"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-TVE",
+        "subdivision_name": "Tverskaja oblast'",
+        "abbrevation": "TVE"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-TVE",
+        "subdivision_name": "Tverskaya oblast'",
+        "abbrevation": "TVE"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-TYU",
+        "subdivision_name": "Tyumenskaya oblast'",
+        "abbrevation": "TYU"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-TY",
+        "subdivision_name": "Tyva, Respublika",
+        "abbrevation": "TY"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-TY",
+        "subdivision_name": "Tyva, Respublika",
+        "abbrevation": "TY"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-UD",
+        "subdivision_name": "Udmurtskaja Respublika",
+        "abbrevation": "UD"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-UD",
+        "subdivision_name": "Udmurtskaya Respublika",
+        "abbrevation": "UD"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-ULY",
+        "subdivision_name": "Ul'janovskaja oblast'",
+        "abbrevation": "ULY"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-ULY",
+        "subdivision_name": "Ul'yanovskaya oblast'",
+        "abbrevation": "ULY"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-VLA",
+        "subdivision_name": "Vladimirskaja oblast'",
+        "abbrevation": "VLA"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-VLA",
+        "subdivision_name": "Vladimirskaya oblast'",
+        "abbrevation": "VLA"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-VGG",
+        "subdivision_name": "Volgogradskaja oblast'",
+        "abbrevation": "VGG"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-VGG",
+        "subdivision_name": "Volgogradskaya oblast'",
+        "abbrevation": "VGG"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-VLG",
+        "subdivision_name": "Vologodskaja oblast'",
+        "abbrevation": "VLG"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-VLG",
+        "subdivision_name": "Vologodskaya oblast'",
+        "abbrevation": "VLG"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-VOR",
+        "subdivision_name": "Voronezhskaya oblast'",
+        "abbrevation": "VOR"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-VOR",
+        "subdivision_name": "Voronežskaja oblast'",
+        "abbrevation": "VOR"
+    },
+    {
+        "subdivision_category": "autonomous district",
+        "iso_3166_2_code": "RU-YAN",
+        "subdivision_name": "Yamalo-Nenetskiy avtonomnyy okrug",
+        "abbrevation": "YAN"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-YAR",
+        "subdivision_name": "Yaroslavskaya oblast'",
+        "abbrevation": "YAR"
+    },
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "RU-YEV",
+        "subdivision_name": "Yevreyskaya avtonomnaya oblast'",
+        "abbrevation": "YEV"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-ZAB",
+        "subdivision_name": "Zabajkal'skij kraj",
+        "abbrevation": "ZAB"
+    },
+    {
+        "subdivision_category": "administrative territory",
+        "iso_3166_2_code": "RU-ZAB",
+        "subdivision_name": "Zabaykal'skiy kray",
+        "abbrevation": "ZAB"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "RU-CHE",
+        "subdivision_name": "Čeljabinskaja oblast'",
+        "abbrevation": "CHE"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-CE",
+        "subdivision_name": "Čečenskaja Respublika",
+        "abbrevation": "CE"
+    },
+    {
+        "subdivision_category": "autonomous district",
+        "iso_3166_2_code": "RU-CHU",
+        "subdivision_name": "Čukotskij avtonomnyj okrug",
+        "abbrevation": "CHU"
+    },
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "RU-CU",
+        "subdivision_name": "Čuvašskaja Respublika",
+        "abbrevation": "CU"
+    }
+]

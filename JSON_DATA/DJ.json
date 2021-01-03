@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DJ-AS",
+        "subdivision_name": "Ali Sabieh",
+        "abbrevation": "AS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DJ-AR",
+        "subdivision_name": "Arta",
+        "abbrevation": "AR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DJ-OB",
+        "subdivision_name": "Awbūk",
+        "abbrevation": "OB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DJ-DI",
+        "subdivision_name": "Dikhil",
+        "abbrevation": "DI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DJ-DI",
+        "subdivision_name": "Dikhīl",
+        "abbrevation": "DI"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "DJ-DJ",
+        "subdivision_name": "Djibouti",
+        "abbrevation": "DJ"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "DJ-DJ",
+        "subdivision_name": "Jībūtī",
+        "abbrevation": "DJ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DJ-OB",
+        "subdivision_name": "Obock",
+        "abbrevation": "OB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DJ-TA",
+        "subdivision_name": "Tadjourah",
+        "abbrevation": "TA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DJ-TA",
+        "subdivision_name": "Tājūrah",
+        "abbrevation": "TA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DJ-AS",
+        "subdivision_name": "‘Alī Şabīḩ",
+        "abbrevation": "AS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "DJ-AR",
+        "subdivision_name": "‘Artā",
+        "abbrevation": "AR"
+    }
+]

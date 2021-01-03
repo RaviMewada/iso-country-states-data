@@ -1,0 +1,62 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZW-BU",
+        "subdivision_name": "Bulawayo",
+        "abbrevation": "BU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZW-HA",
+        "subdivision_name": "Harare",
+        "abbrevation": "HA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZW-MA",
+        "subdivision_name": "Manicaland",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZW-MC",
+        "subdivision_name": "Mashonaland Central",
+        "abbrevation": "MC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZW-ME",
+        "subdivision_name": "Mashonaland East",
+        "abbrevation": "ME"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZW-MW",
+        "subdivision_name": "Mashonaland West",
+        "abbrevation": "MW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZW-MV",
+        "subdivision_name": "Masvingo",
+        "abbrevation": "MV"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZW-MN",
+        "subdivision_name": "Matabeleland North",
+        "abbrevation": "MN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZW-MS",
+        "subdivision_name": "Matabeleland South",
+        "abbrevation": "MS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZW-MI",
+        "subdivision_name": "Midlands",
+        "abbrevation": "MI"
+    }
+]

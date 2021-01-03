@@ -1,0 +1,44 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CR-A",
+        "subdivision_name": "Alajuela",
+        "abbrevation": "A"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CR-C",
+        "subdivision_name": "Cartago",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CR-G",
+        "subdivision_name": "Guanacaste",
+        "abbrevation": "G"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CR-H",
+        "subdivision_name": "Heredia",
+        "abbrevation": "H"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CR-L",
+        "subdivision_name": "Limón",
+        "abbrevation": "L"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CR-P",
+        "subdivision_name": "Puntarenas",
+        "abbrevation": "P"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CR-SJ",
+        "subdivision_name": "San José",
+        "abbrevation": "SJ"
+    }
+]

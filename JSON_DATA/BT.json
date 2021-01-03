@@ -1,0 +1,122 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-33",
+        "subdivision_name": "Bumthang",
+        "abbrevation": "33"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-12",
+        "subdivision_name": "Chhukha",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-22",
+        "subdivision_name": "Dagana",
+        "abbrevation": "22"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-GA",
+        "subdivision_name": "Gasa",
+        "abbrevation": "GA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-13",
+        "subdivision_name": "Haa",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-44",
+        "subdivision_name": "Lhuentse",
+        "abbrevation": "44"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-42",
+        "subdivision_name": "Monggar",
+        "abbrevation": "42"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-11",
+        "subdivision_name": "Paro",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-43",
+        "subdivision_name": "Pema Gatshel",
+        "abbrevation": "43"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-23",
+        "subdivision_name": "Punakha",
+        "abbrevation": "23"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-45",
+        "subdivision_name": "Samdrup Jongkhar",
+        "abbrevation": "45"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-14",
+        "subdivision_name": "Samtse",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-31",
+        "subdivision_name": "Sarpang",
+        "abbrevation": "31"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-15",
+        "subdivision_name": "Thimphu",
+        "abbrevation": "15"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-TY",
+        "subdivision_name": "Trashi Yangtse",
+        "abbrevation": "TY"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-41",
+        "subdivision_name": "Trashigang",
+        "abbrevation": "41"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-32",
+        "subdivision_name": "Trongsa",
+        "abbrevation": "32"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-21",
+        "subdivision_name": "Tsirang",
+        "abbrevation": "21"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-24",
+        "subdivision_name": "Wangdue Phodrang",
+        "abbrevation": "24"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BT-34",
+        "subdivision_name": "Zhemgang",
+        "abbrevation": "34"
+    }
+]

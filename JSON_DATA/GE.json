@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "autonomous republic",
+        "iso_3166_2_code": "GE-AB",
+        "subdivision_name": "Abkhazia",
+        "abbrevation": "AB"
+    },
+    {
+        "subdivision_category": "autonomous republic",
+        "iso_3166_2_code": "GE-AJ",
+        "subdivision_name": "Ajaria",
+        "abbrevation": "AJ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-GU",
+        "subdivision_name": "Guria",
+        "abbrevation": "GU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-IM",
+        "subdivision_name": "Imereti",
+        "abbrevation": "IM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-KA",
+        "subdivision_name": "K'akheti",
+        "abbrevation": "KA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-KK",
+        "subdivision_name": "Kvemo Kartli",
+        "abbrevation": "KK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-MM",
+        "subdivision_name": "Mtskheta-Mtianeti",
+        "abbrevation": "MM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-RL",
+        "subdivision_name": "Rach'a-Lechkhumi-Kvemo Svaneti",
+        "abbrevation": "RL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-SZ",
+        "subdivision_name": "Samegrelo-Zemo Svaneti",
+        "abbrevation": "SZ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-SJ",
+        "subdivision_name": "Samtskhe-Javakheti",
+        "abbrevation": "SJ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GE-SK",
+        "subdivision_name": "Shida Kartli",
+        "abbrevation": "SK"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "GE-TB",
+        "subdivision_name": "Tbilisi",
+        "abbrevation": "TB"
+    }
+]

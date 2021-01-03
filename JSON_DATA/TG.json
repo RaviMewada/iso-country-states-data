@@ -1,0 +1,32 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TG-C",
+        "subdivision_name": "Centrale",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TG-K",
+        "subdivision_name": "Kara",
+        "abbrevation": "K"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TG-M",
+        "subdivision_name": "Maritime (Région)",
+        "abbrevation": "M"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TG-P",
+        "subdivision_name": "Plateaux",
+        "abbrevation": "P"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "TG-S",
+        "subdivision_name": "Savanes",
+        "abbrevation": "S"
+    }
+]

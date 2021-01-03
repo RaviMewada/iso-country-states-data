@@ -1,0 +1,254 @@
+[
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "MV-01",
+        "subdivision_name": "Addu",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "MV-01",
+        "subdivision_name": "Addu City",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-00",
+        "subdivision_name": "Ariatholhu Dhekunuburi",
+        "abbrevation": "00"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-02",
+        "subdivision_name": "Ariatholhu Uthuruburi",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-03",
+        "subdivision_name": "Faadhippolhu",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-03",
+        "subdivision_name": "Faadhippolhu",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-04",
+        "subdivision_name": "Felidheatholhu",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-04",
+        "subdivision_name": "Felidhu Atoll",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-29",
+        "subdivision_name": "Fuvammulah",
+        "abbrevation": "29"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-29",
+        "subdivision_name": "Fuvammulah",
+        "abbrevation": "29"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-05",
+        "subdivision_name": "Hahdhunmathi",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-05",
+        "subdivision_name": "Hahdhunmathi",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-28",
+        "subdivision_name": "Huvadhuatholhu Dhekunuburi",
+        "abbrevation": "28"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-27",
+        "subdivision_name": "Huvadhuatholhu Uthuruburi",
+        "abbrevation": "27"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-08",
+        "subdivision_name": "Kolhumadulu",
+        "abbrevation": "08"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-08",
+        "subdivision_name": "Kolhumadulu",
+        "abbrevation": "08"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "MV-MLE",
+        "subdivision_name": "Maale",
+        "abbrevation": "MLE"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-26",
+        "subdivision_name": "Maaleatholhu",
+        "abbrevation": "26"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-20",
+        "subdivision_name": "Maalhosmadulu Dhekunuburi",
+        "abbrevation": "20"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-13",
+        "subdivision_name": "Maalhosmadulu Uthuruburi",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "MV-MLE",
+        "subdivision_name": "Male",
+        "abbrevation": "MLE"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-26",
+        "subdivision_name": "Male Atoll",
+        "abbrevation": "26"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-25",
+        "subdivision_name": "Miladhunmadulu Dhekunuburi",
+        "abbrevation": "25"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-24",
+        "subdivision_name": "Miladhunmadulu Uthuruburi",
+        "abbrevation": "24"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-12",
+        "subdivision_name": "Mulakatholhu",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-12",
+        "subdivision_name": "Mulaku Atoll",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-17",
+        "subdivision_name": "Nilandheatholhu Dhekunuburi",
+        "abbrevation": "17"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-14",
+        "subdivision_name": "Nilandheatholhu Uthuruburi",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-02",
+        "subdivision_name": "North Ari Atoll",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-27",
+        "subdivision_name": "North Huvadhu Atoll",
+        "abbrevation": "27"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-13",
+        "subdivision_name": "North Maalhosmadulu",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-24",
+        "subdivision_name": "North Miladhunmadulu",
+        "abbrevation": "24"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-14",
+        "subdivision_name": "North Nilandhe Atoll",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-07",
+        "subdivision_name": "North Thiladhunmathi",
+        "abbrevation": "07"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-00",
+        "subdivision_name": "South Ari Atoll",
+        "abbrevation": "00"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-28",
+        "subdivision_name": "South Huvadhu Atoll",
+        "abbrevation": "28"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-20",
+        "subdivision_name": "South Maalhosmadulu",
+        "abbrevation": "20"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-25",
+        "subdivision_name": "South Miladhunmadulu",
+        "abbrevation": "25"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-17",
+        "subdivision_name": "South Nilandhe Atoll",
+        "abbrevation": "17"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-23",
+        "subdivision_name": "South Thiladhunmathi",
+        "abbrevation": "23"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-23",
+        "subdivision_name": "Thiladhunmathee Dhekunuburi",
+        "abbrevation": "23"
+    },
+    {
+        "subdivision_category": "administrative atoll",
+        "iso_3166_2_code": "MV-07",
+        "subdivision_name": "Thiladhunmathee Uthuruburi",
+        "abbrevation": "07"
+    }
+]

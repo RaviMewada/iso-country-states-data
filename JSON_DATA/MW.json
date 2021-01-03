@@ -1,0 +1,374 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-BA",
+        "subdivision_name": "Balaka",
+        "abbrevation": "BA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-BA",
+        "subdivision_name": "Balaka",
+        "abbrevation": "BA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-BL",
+        "subdivision_name": "Blantyre",
+        "abbrevation": "BL"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-BL",
+        "subdivision_name": "Blantyre",
+        "abbrevation": "BL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MW-C",
+        "subdivision_name": "Central Region",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MW-N",
+        "subdivision_name": "Chakumpoto",
+        "abbrevation": "N"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MW-S",
+        "subdivision_name": "Chakumwera",
+        "abbrevation": "S"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MW-C",
+        "subdivision_name": "Chapakati",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-CK",
+        "subdivision_name": "Chikwawa",
+        "abbrevation": "CK"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-CK",
+        "subdivision_name": "Chikwawa",
+        "abbrevation": "CK"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-CR",
+        "subdivision_name": "Chiradzulu",
+        "abbrevation": "CR"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-CR",
+        "subdivision_name": "Chiradzulu",
+        "abbrevation": "CR"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-CT",
+        "subdivision_name": "Chitipa",
+        "abbrevation": "CT"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-CT",
+        "subdivision_name": "Chitipa",
+        "abbrevation": "CT"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-DE",
+        "subdivision_name": "Dedza",
+        "abbrevation": "DE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-DE",
+        "subdivision_name": "Dedza",
+        "abbrevation": "DE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-DO",
+        "subdivision_name": "Dowa",
+        "abbrevation": "DO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-DO",
+        "subdivision_name": "Dowa",
+        "abbrevation": "DO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-KR",
+        "subdivision_name": "Karonga",
+        "abbrevation": "KR"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-KR",
+        "subdivision_name": "Karonga",
+        "abbrevation": "KR"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-KS",
+        "subdivision_name": "Kasungu",
+        "abbrevation": "KS"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-KS",
+        "subdivision_name": "Kasungu",
+        "abbrevation": "KS"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-LK",
+        "subdivision_name": "Likoma",
+        "abbrevation": "LK"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-LK",
+        "subdivision_name": "Likoma",
+        "abbrevation": "LK"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-LI",
+        "subdivision_name": "Lilongwe",
+        "abbrevation": "LI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-LI",
+        "subdivision_name": "Lilongwe",
+        "abbrevation": "LI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-MH",
+        "subdivision_name": "Machinga",
+        "abbrevation": "MH"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-MH",
+        "subdivision_name": "Machinga",
+        "abbrevation": "MH"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-MG",
+        "subdivision_name": "Mangochi",
+        "abbrevation": "MG"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-MG",
+        "subdivision_name": "Mangochi",
+        "abbrevation": "MG"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-MC",
+        "subdivision_name": "Mchinji",
+        "abbrevation": "MC"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-MC",
+        "subdivision_name": "Mchinji",
+        "abbrevation": "MC"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-MU",
+        "subdivision_name": "Mulanje",
+        "abbrevation": "MU"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-MU",
+        "subdivision_name": "Mulanje",
+        "abbrevation": "MU"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-MW",
+        "subdivision_name": "Mwanza",
+        "abbrevation": "MW"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-MW",
+        "subdivision_name": "Mwanza",
+        "abbrevation": "MW"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-MZ",
+        "subdivision_name": "Mzimba",
+        "abbrevation": "MZ"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-MZ",
+        "subdivision_name": "Mzimba",
+        "abbrevation": "MZ"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-NE",
+        "subdivision_name": "Neno",
+        "abbrevation": "NE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-NE",
+        "subdivision_name": "Neno",
+        "abbrevation": "NE"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-NB",
+        "subdivision_name": "Nkhata Bay",
+        "abbrevation": "NB"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-NB",
+        "subdivision_name": "Nkhata Bay",
+        "abbrevation": "NB"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-NK",
+        "subdivision_name": "Nkhotakota",
+        "abbrevation": "NK"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-NK",
+        "subdivision_name": "Nkhotakota",
+        "abbrevation": "NK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MW-N",
+        "subdivision_name": "Northern Region",
+        "abbrevation": "N"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-NS",
+        "subdivision_name": "Nsanje",
+        "abbrevation": "NS"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-NS",
+        "subdivision_name": "Nsanje",
+        "abbrevation": "NS"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-NU",
+        "subdivision_name": "Ntcheu",
+        "abbrevation": "NU"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-NU",
+        "subdivision_name": "Ntcheu",
+        "abbrevation": "NU"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-NI",
+        "subdivision_name": "Ntchisi",
+        "abbrevation": "NI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-NI",
+        "subdivision_name": "Ntchisi",
+        "abbrevation": "NI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-PH",
+        "subdivision_name": "Phalombe",
+        "abbrevation": "PH"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-PH",
+        "subdivision_name": "Phalombe",
+        "abbrevation": "PH"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-RU",
+        "subdivision_name": "Rumphi",
+        "abbrevation": "RU"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-RU",
+        "subdivision_name": "Rumphi",
+        "abbrevation": "RU"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-SA",
+        "subdivision_name": "Salima",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-SA",
+        "subdivision_name": "Salima",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "MW-S",
+        "subdivision_name": "Southern Region",
+        "abbrevation": "S"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-TH",
+        "subdivision_name": "Thyolo",
+        "abbrevation": "TH"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-TH",
+        "subdivision_name": "Thyolo",
+        "abbrevation": "TH"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-ZO",
+        "subdivision_name": "Zomba",
+        "abbrevation": "ZO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MW-ZO",
+        "subdivision_name": "Zomba",
+        "abbrevation": "ZO"
+    }
+]

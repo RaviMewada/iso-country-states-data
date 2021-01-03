@@ -1,0 +1,68 @@
+[
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "BB-01",
+        "subdivision_name": "Christ Church",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "BB-02",
+        "subdivision_name": "Saint Andrew",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "BB-03",
+        "subdivision_name": "Saint George",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "BB-04",
+        "subdivision_name": "Saint James",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "BB-05",
+        "subdivision_name": "Saint John",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "BB-06",
+        "subdivision_name": "Saint Joseph",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "BB-07",
+        "subdivision_name": "Saint Lucy",
+        "abbrevation": "07"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "BB-08",
+        "subdivision_name": "Saint Michael",
+        "abbrevation": "08"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "BB-09",
+        "subdivision_name": "Saint Peter",
+        "abbrevation": "09"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "BB-10",
+        "subdivision_name": "Saint Philip",
+        "abbrevation": "10"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "BB-11",
+        "subdivision_name": "Saint Thomas",
+        "abbrevation": "11"
+    }
+]

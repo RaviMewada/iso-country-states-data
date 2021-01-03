@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-MA",
+        "subdivision_name": "Al Awsaţ",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-DU",
+        "subdivision_name": "Al Janūbī",
+        "abbrevation": "DU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-AN",
+        "subdivision_name": "Ansabā",
+        "abbrevation": "AN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-DU",
+        "subdivision_name": "Debub",
+        "abbrevation": "DU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-DK",
+        "subdivision_name": "Debubawi K’eyyĭḥ Baḥri",
+        "abbrevation": "DK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-GB",
+        "subdivision_name": "Gash-Barka",
+        "abbrevation": "GB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-DK",
+        "subdivision_name": "Janūbī al Baḩrī al Aḩmar",
+        "abbrevation": "DK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-MA",
+        "subdivision_name": "Ma’ĭkel",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-GB",
+        "subdivision_name": "Qāsh-Barkah",
+        "abbrevation": "GB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-SK",
+        "subdivision_name": "Semienawi K’eyyĭḥ Baḥri",
+        "abbrevation": "SK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-SK",
+        "subdivision_name": "Shimālī al Baḩrī al Aḩmar",
+        "abbrevation": "SK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "ER-AN",
+        "subdivision_name": "‘Anseba",
+        "abbrevation": "AN"
+    }
+]

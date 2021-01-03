@@ -1,0 +1,44 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "ST-02",
+        "subdivision_name": "Cantagalo",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "ST-03",
+        "subdivision_name": "Caué",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "ST-04",
+        "subdivision_name": "Lembá",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "ST-05",
+        "subdivision_name": "Lobata",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "ST-06",
+        "subdivision_name": "Mé-Zóchi",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "ST-P",
+        "subdivision_name": "Príncipe",
+        "abbrevation": "P"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "ST-01",
+        "subdivision_name": "Água Grande",
+        "abbrevation": "01"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-BO",
+        "subdivision_name": "Boaco",
+        "abbrevation": "BO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-CA",
+        "subdivision_name": "Carazo",
+        "abbrevation": "CA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-CI",
+        "subdivision_name": "Chinandega",
+        "abbrevation": "CI"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-CO",
+        "subdivision_name": "Chontales",
+        "abbrevation": "CO"
+    },
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "NI-AN",
+        "subdivision_name": "Costa Caribe Norte",
+        "abbrevation": "AN"
+    },
+    {
+        "subdivision_category": "autonomous region",
+        "iso_3166_2_code": "NI-AS",
+        "subdivision_name": "Costa Caribe Sur",
+        "abbrevation": "AS"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-ES",
+        "subdivision_name": "Estelí",
+        "abbrevation": "ES"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-GR",
+        "subdivision_name": "Granada",
+        "abbrevation": "GR"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-JI",
+        "subdivision_name": "Jinotega",
+        "abbrevation": "JI"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-LE",
+        "subdivision_name": "León",
+        "abbrevation": "LE"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-MD",
+        "subdivision_name": "Madriz",
+        "abbrevation": "MD"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-MN",
+        "subdivision_name": "Managua",
+        "abbrevation": "MN"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-MS",
+        "subdivision_name": "Masaya",
+        "abbrevation": "MS"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-MT",
+        "subdivision_name": "Matagalpa",
+        "abbrevation": "MT"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-NS",
+        "subdivision_name": "Nueva Segovia",
+        "abbrevation": "NS"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-RI",
+        "subdivision_name": "Rivas",
+        "abbrevation": "RI"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "NI-SJ",
+        "subdivision_name": "Río San Juan",
+        "abbrevation": "SJ"
+    }
+]

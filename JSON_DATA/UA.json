@@ -1,0 +1,164 @@
+[
+    {
+        "subdivision_category": "republic",
+        "iso_3166_2_code": "UA-43",
+        "subdivision_name": "Avtonomna Respublika Krym",
+        "abbrevation": "43"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-71",
+        "subdivision_name": "Cherkaska oblast",
+        "abbrevation": "71"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-74",
+        "subdivision_name": "Chernihivska oblast",
+        "abbrevation": "74"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-77",
+        "subdivision_name": "Chernivetska oblast",
+        "abbrevation": "77"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-12",
+        "subdivision_name": "Dnipropetrovska oblast",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-14",
+        "subdivision_name": "Donetska oblast",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-26",
+        "subdivision_name": "Ivano-Frankivska oblast",
+        "abbrevation": "26"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-63",
+        "subdivision_name": "Kharkivska oblast",
+        "abbrevation": "63"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-65",
+        "subdivision_name": "Khersonska oblast",
+        "abbrevation": "65"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-68",
+        "subdivision_name": "Khmelnytska oblast",
+        "abbrevation": "68"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-35",
+        "subdivision_name": "Kirovohradska oblast",
+        "abbrevation": "35"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "UA-30",
+        "subdivision_name": "Kyiv",
+        "abbrevation": "30"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-32",
+        "subdivision_name": "Kyivska oblast",
+        "abbrevation": "32"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-09",
+        "subdivision_name": "Luhanska oblast",
+        "abbrevation": "09"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-46",
+        "subdivision_name": "Lvivska oblast",
+        "abbrevation": "46"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-48",
+        "subdivision_name": "Mykolaivska oblast",
+        "abbrevation": "48"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-51",
+        "subdivision_name": "Odeska oblast",
+        "abbrevation": "51"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-53",
+        "subdivision_name": "Poltavska oblast",
+        "abbrevation": "53"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-56",
+        "subdivision_name": "Rivnenska oblast",
+        "abbrevation": "56"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "UA-40",
+        "subdivision_name": "Sevastopol",
+        "abbrevation": "40"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-59",
+        "subdivision_name": "Sumska oblast",
+        "abbrevation": "59"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-61",
+        "subdivision_name": "Ternopilska oblast",
+        "abbrevation": "61"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-05",
+        "subdivision_name": "Vinnytska oblast",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-07",
+        "subdivision_name": "Volynska oblast",
+        "abbrevation": "07"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-21",
+        "subdivision_name": "Zakarpatska oblast",
+        "abbrevation": "21"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-23",
+        "subdivision_name": "Zaporizka oblast",
+        "abbrevation": "23"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "UA-18",
+        "subdivision_name": "Zhytomyrska oblast",
+        "abbrevation": "18"
+    }
+]

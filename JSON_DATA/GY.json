@@ -1,0 +1,62 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GY-BA",
+        "subdivision_name": "Barima-Waini",
+        "abbrevation": "BA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GY-CU",
+        "subdivision_name": "Cuyuni-Mazaruni",
+        "abbrevation": "CU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GY-DE",
+        "subdivision_name": "Demerara-Mahaica",
+        "abbrevation": "DE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GY-EB",
+        "subdivision_name": "East Berbice-Corentyne",
+        "abbrevation": "EB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GY-ES",
+        "subdivision_name": "Essequibo Islands-West Demerara",
+        "abbrevation": "ES"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GY-MA",
+        "subdivision_name": "Mahaica-Berbice",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GY-PM",
+        "subdivision_name": "Pomeroon-Supenaam",
+        "abbrevation": "PM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GY-PT",
+        "subdivision_name": "Potaro-Siparuni",
+        "abbrevation": "PT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GY-UD",
+        "subdivision_name": "Upper Demerara-Berbice",
+        "abbrevation": "UD"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GY-UT",
+        "subdivision_name": "Upper Takutu-Upper Essequibo",
+        "abbrevation": "UT"
+    }
+]

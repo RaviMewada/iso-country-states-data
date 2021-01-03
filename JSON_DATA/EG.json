@@ -1,0 +1,164 @@
+[
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-DK",
+        "subdivision_name": "Ad Daqahlīyah",
+        "abbrevation": "DK"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-BA",
+        "subdivision_name": "Al Baḩr al Aḩmar",
+        "abbrevation": "BA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-BH",
+        "subdivision_name": "Al Buḩayrah",
+        "abbrevation": "BH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-FYM",
+        "subdivision_name": "Al Fayyūm",
+        "abbrevation": "FYM"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-GH",
+        "subdivision_name": "Al Gharbīyah",
+        "abbrevation": "GH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-ALX",
+        "subdivision_name": "Al Iskandarīyah",
+        "abbrevation": "ALX"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-IS",
+        "subdivision_name": "Al Ismā'īlīyah",
+        "abbrevation": "IS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-GZ",
+        "subdivision_name": "Al Jīzah",
+        "abbrevation": "GZ"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-MN",
+        "subdivision_name": "Al Minyā",
+        "abbrevation": "MN"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-MNF",
+        "subdivision_name": "Al Minūfīyah",
+        "abbrevation": "MNF"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-KB",
+        "subdivision_name": "Al Qalyūbīyah",
+        "abbrevation": "KB"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-C",
+        "subdivision_name": "Al Qāhirah",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-LX",
+        "subdivision_name": "Al Uqşur",
+        "abbrevation": "LX"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-WAD",
+        "subdivision_name": "Al Wādī al Jadīd",
+        "abbrevation": "WAD"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-SUZ",
+        "subdivision_name": "As Suways",
+        "abbrevation": "SUZ"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-SHR",
+        "subdivision_name": "Ash Sharqīyah",
+        "abbrevation": "SHR"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-ASN",
+        "subdivision_name": "Aswān",
+        "abbrevation": "ASN"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-AST",
+        "subdivision_name": "Asyūţ",
+        "abbrevation": "AST"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-BNS",
+        "subdivision_name": "Banī Suwayf",
+        "abbrevation": "BNS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-PTS",
+        "subdivision_name": "Būr Sa‘īd",
+        "abbrevation": "PTS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-DT",
+        "subdivision_name": "Dumyāţ",
+        "abbrevation": "DT"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-JS",
+        "subdivision_name": "Janūb Sīnā'",
+        "abbrevation": "JS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-KFS",
+        "subdivision_name": "Kafr ash Shaykh",
+        "abbrevation": "KFS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-MT",
+        "subdivision_name": "Maţrūḩ",
+        "abbrevation": "MT"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-KN",
+        "subdivision_name": "Qinā",
+        "abbrevation": "KN"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-SIN",
+        "subdivision_name": "Shamāl Sīnā'",
+        "abbrevation": "SIN"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "EG-SHG",
+        "subdivision_name": "Sūhāj",
+        "abbrevation": "SHG"
+    }
+]

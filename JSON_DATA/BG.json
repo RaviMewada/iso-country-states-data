@@ -1,0 +1,170 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-01",
+        "subdivision_name": "Blagoevgrad",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-02",
+        "subdivision_name": "Burgas",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-08",
+        "subdivision_name": "Dobrich",
+        "abbrevation": "08"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-07",
+        "subdivision_name": "Gabrovo",
+        "abbrevation": "07"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-26",
+        "subdivision_name": "Haskovo",
+        "abbrevation": "26"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-09",
+        "subdivision_name": "Kardzhali",
+        "abbrevation": "09"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-10",
+        "subdivision_name": "Kyustendil",
+        "abbrevation": "10"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-11",
+        "subdivision_name": "Lovech",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-12",
+        "subdivision_name": "Montana",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-13",
+        "subdivision_name": "Pazardzhik",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-14",
+        "subdivision_name": "Pernik",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-15",
+        "subdivision_name": "Pleven",
+        "abbrevation": "15"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-16",
+        "subdivision_name": "Plovdiv",
+        "abbrevation": "16"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-17",
+        "subdivision_name": "Razgrad",
+        "abbrevation": "17"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-18",
+        "subdivision_name": "Ruse",
+        "abbrevation": "18"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-27",
+        "subdivision_name": "Shumen",
+        "abbrevation": "27"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-19",
+        "subdivision_name": "Silistra",
+        "abbrevation": "19"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-20",
+        "subdivision_name": "Sliven",
+        "abbrevation": "20"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-21",
+        "subdivision_name": "Smolyan",
+        "abbrevation": "21"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-23",
+        "subdivision_name": "Sofia",
+        "abbrevation": "23"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-22",
+        "subdivision_name": "Sofia (stolitsa)",
+        "abbrevation": "22"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-24",
+        "subdivision_name": "Stara Zagora",
+        "abbrevation": "24"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-25",
+        "subdivision_name": "Targovishte",
+        "abbrevation": "25"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-03",
+        "subdivision_name": "Varna",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-04",
+        "subdivision_name": "Veliko Tarnovo",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-05",
+        "subdivision_name": "Vidin",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-06",
+        "subdivision_name": "Vratsa",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "BG-28",
+        "subdivision_name": "Yambol",
+        "abbrevation": "28"
+    }
+]

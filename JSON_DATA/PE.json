@@ -1,0 +1,470 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-AMA",
+        "subdivision_name": "Amarumayu",
+        "abbrevation": "AMA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-AMA",
+        "subdivision_name": "Amasunu",
+        "abbrevation": "AMA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-AMA",
+        "subdivision_name": "Amazonas",
+        "abbrevation": "AMA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-ANC",
+        "subdivision_name": "Ancash",
+        "abbrevation": "ANC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-ANC",
+        "subdivision_name": "Ankashu",
+        "abbrevation": "ANC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-ANC",
+        "subdivision_name": "Anqash",
+        "abbrevation": "ANC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-APU",
+        "subdivision_name": "Apurimaq",
+        "abbrevation": "APU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-APU",
+        "subdivision_name": "Apurimaq",
+        "abbrevation": "APU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-APU",
+        "subdivision_name": "Apurímac",
+        "abbrevation": "APU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-ARE",
+        "subdivision_name": "Arequipa",
+        "abbrevation": "ARE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-ARE",
+        "subdivision_name": "Arikipa",
+        "abbrevation": "ARE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-ARE",
+        "subdivision_name": "Ariqipa",
+        "abbrevation": "ARE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-AYA",
+        "subdivision_name": "Ayacucho",
+        "abbrevation": "AYA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-AYA",
+        "subdivision_name": "Ayakuchu",
+        "abbrevation": "AYA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-AYA",
+        "subdivision_name": "Ayaquchu",
+        "abbrevation": "AYA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-CAJ",
+        "subdivision_name": "Cajamarca",
+        "abbrevation": "CAJ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-CUS",
+        "subdivision_name": "Cusco",
+        "abbrevation": "CUS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-CAL",
+        "subdivision_name": "El Callao",
+        "abbrevation": "CAL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-HUV",
+        "subdivision_name": "Huancavelica",
+        "abbrevation": "HUV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-JUN",
+        "subdivision_name": "Hunin",
+        "abbrevation": "JUN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-HUC",
+        "subdivision_name": "Huánuco",
+        "abbrevation": "HUC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-ICA",
+        "subdivision_name": "Ica",
+        "abbrevation": "ICA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-ICA",
+        "subdivision_name": "Ika",
+        "abbrevation": "ICA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-ICA",
+        "subdivision_name": "Ika",
+        "abbrevation": "ICA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-JUN",
+        "subdivision_name": "Junin",
+        "abbrevation": "JUN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-JUN",
+        "subdivision_name": "Junín",
+        "abbrevation": "JUN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-CAL",
+        "subdivision_name": "Kallao",
+        "abbrevation": "CAL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-CAJ",
+        "subdivision_name": "Kashamarka",
+        "abbrevation": "CAJ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-CUS",
+        "subdivision_name": "Kusku",
+        "abbrevation": "CUS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-LAL",
+        "subdivision_name": "La Libertad",
+        "abbrevation": "LAL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-LAL",
+        "subdivision_name": "La Libertad",
+        "abbrevation": "LAL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-LAM",
+        "subdivision_name": "Lambayeque",
+        "abbrevation": "LAM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-LAM",
+        "subdivision_name": "Lambayeque",
+        "abbrevation": "LAM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-LAM",
+        "subdivision_name": "Lampalliqi",
+        "abbrevation": "LAM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-LIM",
+        "subdivision_name": "Lima",
+        "abbrevation": "LIM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-LIM",
+        "subdivision_name": "Lima",
+        "abbrevation": "LIM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-LIM",
+        "subdivision_name": "Lima",
+        "abbrevation": "LIM"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "PE-LMA",
+        "subdivision_name": "Lima hatun llaqta",
+        "abbrevation": "LMA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "PE-LMA",
+        "subdivision_name": "Lima llaqta suyu",
+        "abbrevation": "LMA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-LOR",
+        "subdivision_name": "Loreto",
+        "abbrevation": "LOR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-LOR",
+        "subdivision_name": "Luritu",
+        "abbrevation": "LOR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-LOR",
+        "subdivision_name": "Luritu",
+        "abbrevation": "LOR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-MDD",
+        "subdivision_name": "Madre de Dios",
+        "abbrevation": "MDD"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-MDD",
+        "subdivision_name": "Madre de Dios",
+        "abbrevation": "MDD"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-MDD",
+        "subdivision_name": "Mayutata",
+        "abbrevation": "MDD"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-MOQ",
+        "subdivision_name": "Moquegua",
+        "abbrevation": "MOQ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-MOQ",
+        "subdivision_name": "Moqwegwa",
+        "abbrevation": "MOQ"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "PE-LMA",
+        "subdivision_name": "Municipalidad Metropolitana de Lima",
+        "abbrevation": "LMA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-MOQ",
+        "subdivision_name": "Muqiwa",
+        "abbrevation": "MOQ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-PAS",
+        "subdivision_name": "Pasco",
+        "abbrevation": "PAS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-PAS",
+        "subdivision_name": "Pasqu",
+        "abbrevation": "PAS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-PAS",
+        "subdivision_name": "Pasqu",
+        "abbrevation": "PAS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-PIU",
+        "subdivision_name": "Piura",
+        "abbrevation": "PIU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-PIU",
+        "subdivision_name": "Piura",
+        "abbrevation": "PIU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-PIU",
+        "subdivision_name": "Piwra",
+        "abbrevation": "PIU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-PUN",
+        "subdivision_name": "Puno",
+        "abbrevation": "PUN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-PUN",
+        "subdivision_name": "Puno",
+        "abbrevation": "PUN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-PUN",
+        "subdivision_name": "Punu",
+        "abbrevation": "PUN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-CAJ",
+        "subdivision_name": "Qajamarka",
+        "abbrevation": "CAJ"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-CAL",
+        "subdivision_name": "Qallaw",
+        "abbrevation": "CAL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-LAL",
+        "subdivision_name": "Qispi kay",
+        "abbrevation": "LAL"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-CUS",
+        "subdivision_name": "Qusqu",
+        "abbrevation": "CUS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-SAM",
+        "subdivision_name": "San Martin",
+        "abbrevation": "SAM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-SAM",
+        "subdivision_name": "San Martín",
+        "abbrevation": "SAM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-SAM",
+        "subdivision_name": "San Martín",
+        "abbrevation": "SAM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-TAC",
+        "subdivision_name": "Tacna",
+        "abbrevation": "TAC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-TAC",
+        "subdivision_name": "Takna",
+        "abbrevation": "TAC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-TAC",
+        "subdivision_name": "Taqna",
+        "abbrevation": "TAC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-TUM",
+        "subdivision_name": "Tumbes",
+        "abbrevation": "TUM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-TUM",
+        "subdivision_name": "Tumbes",
+        "abbrevation": "TUM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-TUM",
+        "subdivision_name": "Tumpis",
+        "abbrevation": "TUM"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-UCA",
+        "subdivision_name": "Ucayali",
+        "abbrevation": "UCA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-UCA",
+        "subdivision_name": "Ukayali",
+        "abbrevation": "UCA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-UCA",
+        "subdivision_name": "Ukayali",
+        "abbrevation": "UCA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-HUV",
+        "subdivision_name": "Wankawelika",
+        "abbrevation": "HUV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-HUV",
+        "subdivision_name": "Wankawillka",
+        "abbrevation": "HUV"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-HUC",
+        "subdivision_name": "Wanuku",
+        "abbrevation": "HUC"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PE-HUC",
+        "subdivision_name": "Wanuku",
+        "abbrevation": "HUC"
+    }
+]

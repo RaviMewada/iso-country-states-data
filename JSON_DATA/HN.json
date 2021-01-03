@@ -1,0 +1,110 @@
+[
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-AT",
+        "subdivision_name": "Atlántida",
+        "abbrevation": "AT"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-CH",
+        "subdivision_name": "Choluteca",
+        "abbrevation": "CH"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-CL",
+        "subdivision_name": "Colón",
+        "abbrevation": "CL"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-CM",
+        "subdivision_name": "Comayagua",
+        "abbrevation": "CM"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-CP",
+        "subdivision_name": "Copán",
+        "abbrevation": "CP"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-CR",
+        "subdivision_name": "Cortés",
+        "abbrevation": "CR"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-EP",
+        "subdivision_name": "El Paraíso",
+        "abbrevation": "EP"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-FM",
+        "subdivision_name": "Francisco Morazán",
+        "abbrevation": "FM"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-GD",
+        "subdivision_name": "Gracias a Dios",
+        "abbrevation": "GD"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-IN",
+        "subdivision_name": "Intibucá",
+        "abbrevation": "IN"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-IB",
+        "subdivision_name": "Islas de la Bahía",
+        "abbrevation": "IB"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-LP",
+        "subdivision_name": "La Paz",
+        "abbrevation": "LP"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-LE",
+        "subdivision_name": "Lempira",
+        "abbrevation": "LE"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-OC",
+        "subdivision_name": "Ocotepeque",
+        "abbrevation": "OC"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-OL",
+        "subdivision_name": "Olancho",
+        "abbrevation": "OL"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-SB",
+        "subdivision_name": "Santa Bárbara",
+        "abbrevation": "SB"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-VA",
+        "subdivision_name": "Valle",
+        "abbrevation": "VA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "HN-YO",
+        "subdivision_name": "Yoro",
+        "abbrevation": "YO"
+    }
+]

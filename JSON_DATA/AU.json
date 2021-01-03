@@ -1,0 +1,50 @@
+[
+    {
+        "subdivision_category": "territory",
+        "iso_3166_2_code": "AU-ACT",
+        "subdivision_name": "Australian Capital Territory",
+        "abbrevation": "ACT"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AU-NSW",
+        "subdivision_name": "New South Wales",
+        "abbrevation": "NSW"
+    },
+    {
+        "subdivision_category": "territory",
+        "iso_3166_2_code": "AU-NT",
+        "subdivision_name": "Northern Territory",
+        "abbrevation": "NT"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AU-QLD",
+        "subdivision_name": "Queensland",
+        "abbrevation": "QLD"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AU-SA",
+        "subdivision_name": "South Australia",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AU-TAS",
+        "subdivision_name": "Tasmania",
+        "abbrevation": "TAS"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AU-VIC",
+        "subdivision_name": "Victoria",
+        "abbrevation": "VIC"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "AU-WA",
+        "subdivision_name": "Western Australia",
+        "abbrevation": "WA"
+    }
+]

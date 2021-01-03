@@ -1,0 +1,134 @@
+[
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "TW-CHA",
+        "subdivision_name": "Changhua",
+        "abbrevation": "CHA"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "TW-CYI",
+        "subdivision_name": "Chiayi",
+        "abbrevation": "CYI"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "TW-CYQ",
+        "subdivision_name": "Chiayi",
+        "abbrevation": "CYQ"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "TW-HSZ",
+        "subdivision_name": "Hsinchu",
+        "abbrevation": "HSZ"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "TW-HSQ",
+        "subdivision_name": "Hsinchu",
+        "abbrevation": "HSQ"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "TW-HUA",
+        "subdivision_name": "Hualien",
+        "abbrevation": "HUA"
+    },
+    {
+        "subdivision_category": "special municipality",
+        "iso_3166_2_code": "TW-KHH",
+        "subdivision_name": "Kaohsiung",
+        "abbrevation": "KHH"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "TW-KEE",
+        "subdivision_name": "Keelung",
+        "abbrevation": "KEE"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "TW-KIN",
+        "subdivision_name": "Kinmen",
+        "abbrevation": "KIN"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "TW-LIE",
+        "subdivision_name": "Lienchiang",
+        "abbrevation": "LIE"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "TW-MIA",
+        "subdivision_name": "Miaoli",
+        "abbrevation": "MIA"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "TW-NAN",
+        "subdivision_name": "Nantou",
+        "abbrevation": "NAN"
+    },
+    {
+        "subdivision_category": "special municipality",
+        "iso_3166_2_code": "TW-NWT",
+        "subdivision_name": "New Taipei",
+        "abbrevation": "NWT"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "TW-PEN",
+        "subdivision_name": "Penghu",
+        "abbrevation": "PEN"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "TW-PIF",
+        "subdivision_name": "Pingtung",
+        "abbrevation": "PIF"
+    },
+    {
+        "subdivision_category": "special municipality",
+        "iso_3166_2_code": "TW-TXG",
+        "subdivision_name": "Taichung",
+        "abbrevation": "TXG"
+    },
+    {
+        "subdivision_category": "special municipality",
+        "iso_3166_2_code": "TW-TNN",
+        "subdivision_name": "Tainan",
+        "abbrevation": "TNN"
+    },
+    {
+        "subdivision_category": "special municipality",
+        "iso_3166_2_code": "TW-TPE",
+        "subdivision_name": "Taipei",
+        "abbrevation": "TPE"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "TW-TTT",
+        "subdivision_name": "Taitung",
+        "abbrevation": "TTT"
+    },
+    {
+        "subdivision_category": "special municipality",
+        "iso_3166_2_code": "TW-TAO",
+        "subdivision_name": "Taoyuan",
+        "abbrevation": "TAO"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "TW-ILA",
+        "subdivision_name": "Yilan",
+        "abbrevation": "ILA"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "TW-YUN",
+        "subdivision_name": "Yunlin",
+        "abbrevation": "YUN"
+    }
+]

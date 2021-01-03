@@ -1,0 +1,62 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZM-02",
+        "subdivision_name": "Central",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZM-08",
+        "subdivision_name": "Copperbelt",
+        "abbrevation": "08"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZM-03",
+        "subdivision_name": "Eastern",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZM-04",
+        "subdivision_name": "Luapula",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZM-09",
+        "subdivision_name": "Lusaka",
+        "abbrevation": "09"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZM-10",
+        "subdivision_name": "Muchinga",
+        "abbrevation": "10"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZM-06",
+        "subdivision_name": "North-Western",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZM-05",
+        "subdivision_name": "Northern",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZM-07",
+        "subdivision_name": "Southern",
+        "abbrevation": "07"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZM-01",
+        "subdivision_name": "Western",
+        "abbrevation": "01"
+    }
+]

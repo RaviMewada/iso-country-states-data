@@ -1,0 +1,32 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SL-E",
+        "subdivision_name": "Eastern",
+        "abbrevation": "E"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SL-NW",
+        "subdivision_name": "North Western",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SL-N",
+        "subdivision_name": "Northern",
+        "abbrevation": "N"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "SL-S",
+        "subdivision_name": "Southern",
+        "abbrevation": "S"
+    },
+    {
+        "subdivision_category": "area",
+        "iso_3166_2_code": "SL-W",
+        "subdivision_name": "Western Area (Freetown)",
+        "abbrevation": "W"
+    }
+]

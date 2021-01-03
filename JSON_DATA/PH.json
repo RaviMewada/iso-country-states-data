@@ -1,0 +1,1172 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ABR",
+        "subdivision_name": "Abra",
+        "abbrevation": "ABR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ABR",
+        "subdivision_name": "Abra",
+        "abbrevation": "ABR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-AGN",
+        "subdivision_name": "Agusan del Norte",
+        "abbrevation": "AGN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-AGS",
+        "subdivision_name": "Agusan del Sur",
+        "abbrevation": "AGS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-AKL",
+        "subdivision_name": "Aklan",
+        "abbrevation": "AKL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-AKL",
+        "subdivision_name": "Aklan",
+        "abbrevation": "AKL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ALB",
+        "subdivision_name": "Albay",
+        "abbrevation": "ALB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ALB",
+        "subdivision_name": "Albay",
+        "abbrevation": "ALB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ANT",
+        "subdivision_name": "Antike",
+        "abbrevation": "ANT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ANT",
+        "subdivision_name": "Antique",
+        "abbrevation": "ANT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-APA",
+        "subdivision_name": "Apayao",
+        "abbrevation": "APA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-APA",
+        "subdivision_name": "Apayaw",
+        "abbrevation": "APA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-AUR",
+        "subdivision_name": "Aurora",
+        "abbrevation": "AUR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-AUR",
+        "subdivision_name": "Aurora",
+        "abbrevation": "AUR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-14",
+        "subdivision_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BAS",
+        "subdivision_name": "Basilan",
+        "abbrevation": "BAS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BAS",
+        "subdivision_name": "Basilan",
+        "abbrevation": "BAS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BAN",
+        "subdivision_name": "Bataan",
+        "abbrevation": "BAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BAN",
+        "subdivision_name": "Bataan",
+        "abbrevation": "BAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BTN",
+        "subdivision_name": "Batanes",
+        "abbrevation": "BTN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BTN",
+        "subdivision_name": "Batanes",
+        "abbrevation": "BTN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BTG",
+        "subdivision_name": "Batangas",
+        "abbrevation": "BTG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BTG",
+        "subdivision_name": "Batangas",
+        "abbrevation": "BTG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BEN",
+        "subdivision_name": "Benget",
+        "abbrevation": "BEN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BEN",
+        "subdivision_name": "Benguet",
+        "abbrevation": "BEN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-05",
+        "subdivision_name": "Bicol (Region V)",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BIL",
+        "subdivision_name": "Biliran",
+        "abbrevation": "BIL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BIL",
+        "subdivision_name": "Biliran",
+        "abbrevation": "BIL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BOH",
+        "subdivision_name": "Bohol",
+        "abbrevation": "BOH"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BOH",
+        "subdivision_name": "Bohol",
+        "abbrevation": "BOH"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BUK",
+        "subdivision_name": "Bukidnon",
+        "abbrevation": "BUK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BUK",
+        "subdivision_name": "Bukidnon",
+        "abbrevation": "BUK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BUL",
+        "subdivision_name": "Bulacan",
+        "abbrevation": "BUL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-BUL",
+        "subdivision_name": "Bulakan",
+        "abbrevation": "BUL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAG",
+        "subdivision_name": "Cagayan",
+        "abbrevation": "CAG"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-02",
+        "subdivision_name": "Cagayan Valley (Region II)",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-40",
+        "subdivision_name": "Calabarzon (Region IV-A)",
+        "abbrevation": "40"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAN",
+        "subdivision_name": "Camarines Norte",
+        "abbrevation": "CAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAS",
+        "subdivision_name": "Camarines Sur",
+        "abbrevation": "CAS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAM",
+        "subdivision_name": "Camiguin",
+        "abbrevation": "CAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAP",
+        "subdivision_name": "Capiz",
+        "abbrevation": "CAP"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-13",
+        "subdivision_name": "Caraga (Region XIII)",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAT",
+        "subdivision_name": "Catanduanes",
+        "abbrevation": "CAT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAV",
+        "subdivision_name": "Cavite",
+        "abbrevation": "CAV"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CEB",
+        "subdivision_name": "Cebu",
+        "abbrevation": "CEB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-03",
+        "subdivision_name": "Central Luzon (Region III)",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-07",
+        "subdivision_name": "Central Visayas (Region VII)",
+        "abbrevation": "07"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-15",
+        "subdivision_name": "Cordillera Administrative Region (CAR)",
+        "abbrevation": "15"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-NCO",
+        "subdivision_name": "Cotabato",
+        "abbrevation": "NCO"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-11",
+        "subdivision_name": "Davao (Region XI)",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-DVO",
+        "subdivision_name": "Davao Occidental",
+        "abbrevation": "DVO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-DAO",
+        "subdivision_name": "Davao Oriental",
+        "abbrevation": "DAO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-COM",
+        "subdivision_name": "Davao de Oro",
+        "abbrevation": "COM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-DAV",
+        "subdivision_name": "Davao del Norte",
+        "abbrevation": "DAV"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-DAS",
+        "subdivision_name": "Davao del Sur",
+        "abbrevation": "DAS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-DIN",
+        "subdivision_name": "Dinagat Islands",
+        "abbrevation": "DIN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-EAS",
+        "subdivision_name": "Eastern Samar",
+        "abbrevation": "EAS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-08",
+        "subdivision_name": "Eastern Visayas (Region VIII)",
+        "abbrevation": "08"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-GUI",
+        "subdivision_name": "Gimaras",
+        "abbrevation": "GUI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-GUI",
+        "subdivision_name": "Guimaras",
+        "abbrevation": "GUI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-AGN",
+        "subdivision_name": "Hilagang Agusan",
+        "abbrevation": "AGN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-DAV",
+        "subdivision_name": "Hilagang Dabaw",
+        "abbrevation": "DAV"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ILN",
+        "subdivision_name": "Hilagang Iloko",
+        "abbrevation": "ILN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAN",
+        "subdivision_name": "Hilagang Kamarines",
+        "abbrevation": "CAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-LAN",
+        "subdivision_name": "Hilagang Lanaw",
+        "abbrevation": "LAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-NSA",
+        "subdivision_name": "Hilagang Samar",
+        "abbrevation": "NSA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ZAN",
+        "subdivision_name": "Hilagang Sambuwangga",
+        "abbrevation": "ZAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SUN",
+        "subdivision_name": "Hilagang Surigaw",
+        "abbrevation": "SUN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-IFU",
+        "subdivision_name": "Ifugao",
+        "abbrevation": "IFU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-01",
+        "subdivision_name": "Ilocos (Region I)",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ILN",
+        "subdivision_name": "Ilocos Norte",
+        "abbrevation": "ILN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ILS",
+        "subdivision_name": "Ilocos Sur",
+        "abbrevation": "ILS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ILI",
+        "subdivision_name": "Iloilo",
+        "abbrevation": "ILI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ILI",
+        "subdivision_name": "Iloilo",
+        "abbrevation": "ILI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-IFU",
+        "subdivision_name": "Ipugaw",
+        "abbrevation": "IFU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ISA",
+        "subdivision_name": "Isabela",
+        "abbrevation": "ISA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ISA",
+        "subdivision_name": "Isabela",
+        "abbrevation": "ISA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAV",
+        "subdivision_name": "Kabite",
+        "abbrevation": "CAV"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAG",
+        "subdivision_name": "Kagayan",
+        "abbrevation": "CAG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-KAL",
+        "subdivision_name": "Kalinga",
+        "abbrevation": "KAL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-KAL",
+        "subdivision_name": "Kalinga",
+        "abbrevation": "KAL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAM",
+        "subdivision_name": "Kamigin",
+        "abbrevation": "CAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-DVO",
+        "subdivision_name": "Kanlurang Dabaw",
+        "abbrevation": "DVO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MDC",
+        "subdivision_name": "Kanlurang Mindoro",
+        "abbrevation": "MDC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MSC",
+        "subdivision_name": "Kanlurang Misamis",
+        "abbrevation": "MSC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-NEC",
+        "subdivision_name": "Kanlurang Negros",
+        "abbrevation": "NEC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAP",
+        "subdivision_name": "Kapis",
+        "abbrevation": "CAP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAT",
+        "subdivision_name": "Katanduwanes",
+        "abbrevation": "CAT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SLE",
+        "subdivision_name": "Katimogang Leyte",
+        "abbrevation": "SLE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-QUE",
+        "subdivision_name": "Keson",
+        "abbrevation": "QUE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-QUI",
+        "subdivision_name": "Kirino",
+        "abbrevation": "QUI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-NCO",
+        "subdivision_name": "Kotabato",
+        "abbrevation": "NCO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-LUN",
+        "subdivision_name": "La Union",
+        "abbrevation": "LUN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-LUN",
+        "subdivision_name": "La Unyon",
+        "abbrevation": "LUN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-LAG",
+        "subdivision_name": "Laguna",
+        "abbrevation": "LAG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-LAG",
+        "subdivision_name": "Laguna",
+        "abbrevation": "LAG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MOU",
+        "subdivision_name": "Lalawigang Bulubundukin",
+        "abbrevation": "MOU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-LAN",
+        "subdivision_name": "Lanao del Norte",
+        "abbrevation": "LAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-LAS",
+        "subdivision_name": "Lanao del Sur",
+        "abbrevation": "LAS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-LEY",
+        "subdivision_name": "Leyte",
+        "abbrevation": "LEY"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-LEY",
+        "subdivision_name": "Leyte",
+        "abbrevation": "LEY"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MAG",
+        "subdivision_name": "Magindanaw",
+        "abbrevation": "MAG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MAG",
+        "subdivision_name": "Maguindanao",
+        "abbrevation": "MAG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MAD",
+        "subdivision_name": "Marinduke",
+        "abbrevation": "MAD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MAD",
+        "subdivision_name": "Marinduque",
+        "abbrevation": "MAD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MAS",
+        "subdivision_name": "Masbate",
+        "abbrevation": "MAS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MAS",
+        "subdivision_name": "Masbate",
+        "abbrevation": "MAS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-41",
+        "subdivision_name": "Mimaropa (Region IV-B)",
+        "abbrevation": "41"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MDC",
+        "subdivision_name": "Mindoro Occidental",
+        "abbrevation": "MDC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MDR",
+        "subdivision_name": "Mindoro Oriental",
+        "abbrevation": "MDR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MSC",
+        "subdivision_name": "Misamis Occidental",
+        "abbrevation": "MSC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MSR",
+        "subdivision_name": "Misamis Oriental",
+        "abbrevation": "MSR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MOU",
+        "subdivision_name": "Mountain Province",
+        "abbrevation": "MOU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-14",
+        "subdivision_name": "Nagsasariling Rehiyon ng Muslim sa Mindanaw",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-00",
+        "subdivision_name": "National Capital Region",
+        "abbrevation": "00"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-NEC",
+        "subdivision_name": "Negros Occidental",
+        "abbrevation": "NEC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-NER",
+        "subdivision_name": "Negros Oriental",
+        "abbrevation": "NER"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-10",
+        "subdivision_name": "Northern Mindanao (Region X)",
+        "abbrevation": "10"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-NSA",
+        "subdivision_name": "Northern Samar",
+        "abbrevation": "NSA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-NUE",
+        "subdivision_name": "Nueva Ecija",
+        "abbrevation": "NUE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-NUV",
+        "subdivision_name": "Nueva Vizcaya",
+        "abbrevation": "NUV"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-NUV",
+        "subdivision_name": "Nuweva Biskaya",
+        "abbrevation": "NUV"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-NUE",
+        "subdivision_name": "Nuweva Esiha",
+        "abbrevation": "NUE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-PLW",
+        "subdivision_name": "Palawan",
+        "abbrevation": "PLW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-PLW",
+        "subdivision_name": "Palawan",
+        "abbrevation": "PLW"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-00",
+        "subdivision_name": "Pambansang Punong Rehiyon",
+        "abbrevation": "00"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-PAM",
+        "subdivision_name": "Pampanga",
+        "abbrevation": "PAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-PAM",
+        "subdivision_name": "Pampanga",
+        "abbrevation": "PAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-PAN",
+        "subdivision_name": "Pangasinan",
+        "abbrevation": "PAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-PAN",
+        "subdivision_name": "Pangasinan",
+        "abbrevation": "PAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-DIN",
+        "subdivision_name": "Pulo ng Dinagat",
+        "abbrevation": "DIN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-QUE",
+        "subdivision_name": "Quezon",
+        "abbrevation": "QUE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-QUI",
+        "subdivision_name": "Quirino",
+        "abbrevation": "QUI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-15",
+        "subdivision_name": "Rehiyon ng Administratibo ng Kordilyera",
+        "abbrevation": "15"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-05",
+        "subdivision_name": "Rehiyon ng Bikol",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-40",
+        "subdivision_name": "Rehiyon ng Calabarzon",
+        "abbrevation": "40"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-11",
+        "subdivision_name": "Rehiyon ng Dabaw",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-07",
+        "subdivision_name": "Rehiyon ng Gitnang Bisaya",
+        "abbrevation": "07"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-03",
+        "subdivision_name": "Rehiyon ng Gitnang Luson",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-10",
+        "subdivision_name": "Rehiyon ng Hilagang Mindanaw",
+        "abbrevation": "10"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-01",
+        "subdivision_name": "Rehiyon ng Iloko",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-06",
+        "subdivision_name": "Rehiyon ng Kanlurang Bisaya",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-13",
+        "subdivision_name": "Rehiyon ng Karaga",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-02",
+        "subdivision_name": "Rehiyon ng Lambak ng Kagayan",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-41",
+        "subdivision_name": "Rehiyon ng Mimaropa",
+        "abbrevation": "41"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-08",
+        "subdivision_name": "Rehiyon ng Silangang Bisaya",
+        "abbrevation": "08"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-12",
+        "subdivision_name": "Rehiyon ng Soccsksargen",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-09",
+        "subdivision_name": "Rehiyon ng Tangway ng Sambuwangga",
+        "abbrevation": "09"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-RIZ",
+        "subdivision_name": "Risal",
+        "abbrevation": "RIZ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-RIZ",
+        "subdivision_name": "Rizal",
+        "abbrevation": "RIZ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ROM",
+        "subdivision_name": "Romblon",
+        "abbrevation": "ROM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ROM",
+        "subdivision_name": "Romblon",
+        "abbrevation": "ROM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-WSA",
+        "subdivision_name": "Samar",
+        "abbrevation": "WSA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-WSA",
+        "subdivision_name": "Samar",
+        "abbrevation": "WSA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ZMB",
+        "subdivision_name": "Sambales",
+        "abbrevation": "ZMB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ZSI",
+        "subdivision_name": "Sambuwangga Sibugay",
+        "abbrevation": "ZSI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SAR",
+        "subdivision_name": "Sarangani",
+        "abbrevation": "SAR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SAR",
+        "subdivision_name": "Sarangani",
+        "abbrevation": "SAR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CEB",
+        "subdivision_name": "Sebu",
+        "abbrevation": "CEB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SIG",
+        "subdivision_name": "Sikihor",
+        "abbrevation": "SIG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-DAO",
+        "subdivision_name": "Silangang Dabaw",
+        "abbrevation": "DAO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MDR",
+        "subdivision_name": "Silangang Mindoro",
+        "abbrevation": "MDR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-MSR",
+        "subdivision_name": "Silangang Misamis",
+        "abbrevation": "MSR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-NER",
+        "subdivision_name": "Silangang Negros",
+        "abbrevation": "NER"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-EAS",
+        "subdivision_name": "Silangang Samar",
+        "abbrevation": "EAS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SIG",
+        "subdivision_name": "Siquijor",
+        "abbrevation": "SIG"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-12",
+        "subdivision_name": "Soccsksargen (Region XII)",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SOR",
+        "subdivision_name": "Sorsogon",
+        "abbrevation": "SOR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SOR",
+        "subdivision_name": "Sorsogon",
+        "abbrevation": "SOR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SCO",
+        "subdivision_name": "South Cotabato",
+        "abbrevation": "SCO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SLE",
+        "subdivision_name": "Southern Leyte",
+        "abbrevation": "SLE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SUK",
+        "subdivision_name": "Sultan Kudarat",
+        "abbrevation": "SUK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SUK",
+        "subdivision_name": "Sultan Kudarat",
+        "abbrevation": "SUK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SLU",
+        "subdivision_name": "Sulu",
+        "abbrevation": "SLU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SLU",
+        "subdivision_name": "Sulu",
+        "abbrevation": "SLU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SUN",
+        "subdivision_name": "Surigao del Norte",
+        "abbrevation": "SUN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SUR",
+        "subdivision_name": "Surigao del Sur",
+        "abbrevation": "SUR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-TAR",
+        "subdivision_name": "Tarlac",
+        "abbrevation": "TAR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-TAR",
+        "subdivision_name": "Tarlak",
+        "abbrevation": "TAR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-TAW",
+        "subdivision_name": "Tawi-Tawi",
+        "abbrevation": "TAW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-TAW",
+        "subdivision_name": "Tawi-Tawi",
+        "abbrevation": "TAW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-AGS",
+        "subdivision_name": "Timog Agusan",
+        "abbrevation": "AGS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-DAS",
+        "subdivision_name": "Timog Dabaw",
+        "abbrevation": "DAS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ILS",
+        "subdivision_name": "Timog Iloko",
+        "abbrevation": "ILS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-CAS",
+        "subdivision_name": "Timog Kamarines",
+        "abbrevation": "CAS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SCO",
+        "subdivision_name": "Timog Kotabato",
+        "abbrevation": "SCO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-LAS",
+        "subdivision_name": "Timog Lanaw",
+        "abbrevation": "LAS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ZAS",
+        "subdivision_name": "Timog Sambuwangga",
+        "abbrevation": "ZAS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-SUR",
+        "subdivision_name": "Timog Surigaw",
+        "abbrevation": "SUR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-06",
+        "subdivision_name": "Western Visayas (Region VI)",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ZMB",
+        "subdivision_name": "Zambales",
+        "abbrevation": "ZMB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "PH-09",
+        "subdivision_name": "Zamboanga Peninsula (Region IX)",
+        "abbrevation": "09"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ZSI",
+        "subdivision_name": "Zamboanga Sibugay",
+        "abbrevation": "ZSI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ZAN",
+        "subdivision_name": "Zamboanga del Norte",
+        "abbrevation": "ZAN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "PH-ZAS",
+        "subdivision_name": "Zamboanga del Sur",
+        "abbrevation": "ZAS"
+    }
+]

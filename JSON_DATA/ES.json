@@ -1,0 +1,464 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-C",
+        "subdivision_name": "A Coruña [La Coruña]",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-A",
+        "subdivision_name": "Alacant*",
+        "abbrevation": "A"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-AB",
+        "subdivision_name": "Albacete",
+        "abbrevation": "AB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-A",
+        "subdivision_name": "Alicante",
+        "abbrevation": "A"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-AL",
+        "subdivision_name": "Almería",
+        "abbrevation": "AL"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-AN",
+        "subdivision_name": "Andalucía",
+        "abbrevation": "AN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-VI",
+        "subdivision_name": "Araba*",
+        "abbrevation": "VI"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-AR",
+        "subdivision_name": "Aragón",
+        "abbrevation": "AR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-O",
+        "subdivision_name": "Asturias",
+        "abbrevation": "O"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-AS",
+        "subdivision_name": "Asturias, Principado de",
+        "abbrevation": "AS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-BA",
+        "subdivision_name": "Badajoz",
+        "abbrevation": "BA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-B",
+        "subdivision_name": "Barcelona [Barcelona]",
+        "abbrevation": "B"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-BI",
+        "subdivision_name": "Bizkaia",
+        "abbrevation": "BI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-BU",
+        "subdivision_name": "Burgos",
+        "abbrevation": "BU"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-CN",
+        "subdivision_name": "Canarias",
+        "abbrevation": "CN"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-CB",
+        "subdivision_name": "Cantabria",
+        "abbrevation": "CB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-S",
+        "subdivision_name": "Cantabria",
+        "abbrevation": "S"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-CS",
+        "subdivision_name": "Castelló*",
+        "abbrevation": "CS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-CS",
+        "subdivision_name": "Castellón",
+        "abbrevation": "CS"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-CL",
+        "subdivision_name": "Castilla y León",
+        "abbrevation": "CL"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-CM",
+        "subdivision_name": "Castilla-La Mancha",
+        "abbrevation": "CM"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-CT",
+        "subdivision_name": "Catalunya [Cataluña]",
+        "abbrevation": "CT"
+    },
+    {
+        "subdivision_category": "autonomous city in North Africa",
+        "iso_3166_2_code": "ES-CE",
+        "subdivision_name": "Ceuta",
+        "abbrevation": "CE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-CR",
+        "subdivision_name": "Ciudad Real",
+        "abbrevation": "CR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-CU",
+        "subdivision_name": "Cuenca",
+        "abbrevation": "CU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-CC",
+        "subdivision_name": "Cáceres",
+        "abbrevation": "CC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-CA",
+        "subdivision_name": "Cádiz",
+        "abbrevation": "CA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-CO",
+        "subdivision_name": "Córdoba",
+        "abbrevation": "CO"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-PV",
+        "subdivision_name": "Euskal Herria",
+        "abbrevation": "PV"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-EX",
+        "subdivision_name": "Extremadura",
+        "abbrevation": "EX"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-GA",
+        "subdivision_name": "Galicia [Galicia]",
+        "abbrevation": "GA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-SS",
+        "subdivision_name": "Gipuzkoa",
+        "abbrevation": "SS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-GI",
+        "subdivision_name": "Girona [Gerona]",
+        "abbrevation": "GI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-GR",
+        "subdivision_name": "Granada",
+        "abbrevation": "GR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-GU",
+        "subdivision_name": "Guadalajara",
+        "abbrevation": "GU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-H",
+        "subdivision_name": "Huelva",
+        "abbrevation": "H"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-HU",
+        "subdivision_name": "Huesca",
+        "abbrevation": "HU"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-IB",
+        "subdivision_name": "Illes Balears [Islas Baleares]",
+        "abbrevation": "IB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-PM",
+        "subdivision_name": "Illes Balears [Islas Baleares]",
+        "abbrevation": "PM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-J",
+        "subdivision_name": "Jaén",
+        "abbrevation": "J"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-RI",
+        "subdivision_name": "La Rioja",
+        "abbrevation": "RI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-LO",
+        "subdivision_name": "La Rioja",
+        "abbrevation": "LO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-GC",
+        "subdivision_name": "Las Palmas",
+        "abbrevation": "GC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-LE",
+        "subdivision_name": "León",
+        "abbrevation": "LE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-L",
+        "subdivision_name": "Lleida [Lérida]",
+        "abbrevation": "L"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-LU",
+        "subdivision_name": "Lugo [Lugo]",
+        "abbrevation": "LU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-M",
+        "subdivision_name": "Madrid",
+        "abbrevation": "M"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-MD",
+        "subdivision_name": "Madrid, Comunidad de",
+        "abbrevation": "MD"
+    },
+    {
+        "subdivision_category": "autonomous city in North Africa",
+        "iso_3166_2_code": "ES-ML",
+        "subdivision_name": "Melilla",
+        "abbrevation": "ML"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-MU",
+        "subdivision_name": "Murcia",
+        "abbrevation": "MU"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-MC",
+        "subdivision_name": "Murcia, Región de",
+        "abbrevation": "MC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-MA",
+        "subdivision_name": "Málaga",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-NA",
+        "subdivision_name": "Nafarroa*",
+        "abbrevation": "NA"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-NC",
+        "subdivision_name": "Nafarroako Foru Komunitatea*",
+        "abbrevation": "NC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-NA",
+        "subdivision_name": "Navarra",
+        "abbrevation": "NA"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-NC",
+        "subdivision_name": "Navarra, Comunidad Foral de",
+        "abbrevation": "NC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-OR",
+        "subdivision_name": "Ourense [Orense]",
+        "abbrevation": "OR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-P",
+        "subdivision_name": "Palencia",
+        "abbrevation": "P"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-PV",
+        "subdivision_name": "País Vasco",
+        "abbrevation": "PV"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-PO",
+        "subdivision_name": "Pontevedra [Pontevedra]",
+        "abbrevation": "PO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-SA",
+        "subdivision_name": "Salamanca",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-TF",
+        "subdivision_name": "Santa Cruz de Tenerife",
+        "abbrevation": "TF"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-SG",
+        "subdivision_name": "Segovia",
+        "abbrevation": "SG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-SE",
+        "subdivision_name": "Sevilla",
+        "abbrevation": "SE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-SO",
+        "subdivision_name": "Soria",
+        "abbrevation": "SO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-T",
+        "subdivision_name": "Tarragona [Tarragona]",
+        "abbrevation": "T"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-TE",
+        "subdivision_name": "Teruel",
+        "abbrevation": "TE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-TO",
+        "subdivision_name": "Toledo",
+        "abbrevation": "TO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-V",
+        "subdivision_name": "Valencia",
+        "abbrevation": "V"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-VC",
+        "subdivision_name": "Valenciana, Comunidad",
+        "abbrevation": "VC"
+    },
+    {
+        "subdivision_category": "autonomous community",
+        "iso_3166_2_code": "ES-VC",
+        "subdivision_name": "Valenciana, Comunitat*",
+        "abbrevation": "VC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-VA",
+        "subdivision_name": "Valladolid",
+        "abbrevation": "VA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-V",
+        "subdivision_name": "València*",
+        "abbrevation": "V"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-ZA",
+        "subdivision_name": "Zamora",
+        "abbrevation": "ZA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-Z",
+        "subdivision_name": "Zaragoza",
+        "abbrevation": "Z"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-VI",
+        "subdivision_name": "Álava",
+        "abbrevation": "VI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ES-AV",
+        "subdivision_name": "Ávila",
+        "abbrevation": "AV"
+    }
+]

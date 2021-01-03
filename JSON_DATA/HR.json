@@ -1,0 +1,128 @@
+[
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-07",
+        "subdivision_name": "Bjelovarsko-bilogorska županija",
+        "abbrevation": "07"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-12",
+        "subdivision_name": "Brodsko-posavska županija",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-19",
+        "subdivision_name": "Dubrovačko-neretvanska županija",
+        "abbrevation": "19"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "HR-21",
+        "subdivision_name": "Grad Zagreb",
+        "abbrevation": "21"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-18",
+        "subdivision_name": "Istarska županija",
+        "abbrevation": "18"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-04",
+        "subdivision_name": "Karlovačka županija",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-06",
+        "subdivision_name": "Koprivničko-križevačka županija",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-02",
+        "subdivision_name": "Krapinsko-zagorska županija",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-09",
+        "subdivision_name": "Ličko-senjska županija",
+        "abbrevation": "09"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-20",
+        "subdivision_name": "Međimurska županija",
+        "abbrevation": "20"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-14",
+        "subdivision_name": "Osječko-baranjska županija",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-11",
+        "subdivision_name": "Požeško-slavonska županija",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-08",
+        "subdivision_name": "Primorsko-goranska županija",
+        "abbrevation": "08"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-03",
+        "subdivision_name": "Sisačko-moslavačka županija",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-17",
+        "subdivision_name": "Splitsko-dalmatinska županija",
+        "abbrevation": "17"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-05",
+        "subdivision_name": "Varaždinska županija",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-10",
+        "subdivision_name": "Virovitičko-podravska županija",
+        "abbrevation": "10"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-16",
+        "subdivision_name": "Vukovarsko-srijemska županija",
+        "abbrevation": "16"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-13",
+        "subdivision_name": "Zadarska županija",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-01",
+        "subdivision_name": "Zagrebačka županija",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "HR-15",
+        "subdivision_name": "Šibensko-kninska županija",
+        "abbrevation": "15"
+    }
+]

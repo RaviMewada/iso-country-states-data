@@ -1,0 +1,87 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-KA",
+        "subdivision_name": "//Karas",
+        "field8": "",
+        "abbrevation": "KA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-ER",
+        "subdivision_name": "Erongo",
+        "abbrevation": "ER"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-HA",
+        "subdivision_name": "Hardap",
+        "abbrevation": "HA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-KE",
+        "subdivision_name": "Kavango East",
+        "abbrevation": "KE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-KW",
+        "subdivision_name": "Kavango West",
+        "abbrevation": "KW"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-KH",
+        "subdivision_name": "Khomas",
+        "abbrevation": "KH"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-KU",
+        "subdivision_name": "Kunene",
+        "abbrevation": "KU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-OW",
+        "subdivision_name": "Ohangwena",
+        "abbrevation": "OW"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-OH",
+        "subdivision_name": "Omaheke",
+        "abbrevation": "OH"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-OS",
+        "subdivision_name": "Omusati",
+        "abbrevation": "OS"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-ON",
+        "subdivision_name": "Oshana",
+        "abbrevation": "ON"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-OT",
+        "subdivision_name": "Oshikoto",
+        "abbrevation": "OT"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-OD",
+        "subdivision_name": "Otjozondjupa",
+        "abbrevation": "OD"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "NA-CA",
+        "subdivision_name": "Zambezi",
+        "abbrevation": "CA"
+    }
+]

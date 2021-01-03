@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "IL-M",
+        "subdivision_name": "Al Awsaţ",
+        "abbrevation": "M"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "IL-D",
+        "subdivision_name": "Al Janūbī",
+        "abbrevation": "D"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "IL-JM",
+        "subdivision_name": "Al Quds",
+        "abbrevation": "JM"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "IL-Z",
+        "subdivision_name": "Ash Shamālī",
+        "abbrevation": "Z"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "IL-D",
+        "subdivision_name": "HaDarom",
+        "abbrevation": "D"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "IL-M",
+        "subdivision_name": "HaMerkaz",
+        "abbrevation": "M"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "IL-Z",
+        "subdivision_name": "HaTsafon",
+        "abbrevation": "Z"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "IL-HA",
+        "subdivision_name": "H̱efa",
+        "abbrevation": "HA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "IL-TA",
+        "subdivision_name": "Tall Abīb",
+        "abbrevation": "TA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "IL-TA",
+        "subdivision_name": "Tel Aviv",
+        "abbrevation": "TA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "IL-JM",
+        "subdivision_name": "Yerushalayim",
+        "abbrevation": "JM"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "IL-HA",
+        "subdivision_name": "Ḩayfā",
+        "abbrevation": "HA"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "AL-01",
+        "subdivision_name": "Berat",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "AL-09",
+        "subdivision_name": "Dibër",
+        "abbrevation": "09"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "AL-02",
+        "subdivision_name": "Durrës",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "AL-03",
+        "subdivision_name": "Elbasan",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "AL-04",
+        "subdivision_name": "Fier",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "AL-05",
+        "subdivision_name": "Gjirokastër",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "AL-06",
+        "subdivision_name": "Korçë",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "AL-07",
+        "subdivision_name": "Kukës",
+        "abbrevation": "07"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "AL-08",
+        "subdivision_name": "Lezhë",
+        "abbrevation": "08"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "AL-10",
+        "subdivision_name": "Shkodër",
+        "abbrevation": "10"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "AL-11",
+        "subdivision_name": "Tiranë",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "AL-12",
+        "subdivision_name": "Vlorë",
+        "abbrevation": "12"
+    }
+]

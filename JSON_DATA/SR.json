@@ -1,0 +1,62 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SR-BR",
+        "subdivision_name": "Brokopondo",
+        "abbrevation": "BR"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SR-CM",
+        "subdivision_name": "Commewijne",
+        "abbrevation": "CM"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SR-CR",
+        "subdivision_name": "Coronie",
+        "abbrevation": "CR"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SR-MA",
+        "subdivision_name": "Marowijne",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SR-NI",
+        "subdivision_name": "Nickerie",
+        "abbrevation": "NI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SR-PR",
+        "subdivision_name": "Para",
+        "abbrevation": "PR"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SR-PM",
+        "subdivision_name": "Paramaribo",
+        "abbrevation": "PM"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SR-SA",
+        "subdivision_name": "Saramacca",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SR-SI",
+        "subdivision_name": "Sipaliwini",
+        "abbrevation": "SI"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SR-WA",
+        "subdivision_name": "Wanica",
+        "abbrevation": "WA"
+    }
+]

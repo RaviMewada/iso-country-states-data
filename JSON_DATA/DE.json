@@ -1,0 +1,98 @@
+[
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-BW",
+        "subdivision_name": "Baden-Württemberg",
+        "abbrevation": "BW"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-BY",
+        "subdivision_name": "Bayern",
+        "abbrevation": "BY"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-BE",
+        "subdivision_name": "Berlin",
+        "abbrevation": "BE"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-BB",
+        "subdivision_name": "Brandenburg",
+        "abbrevation": "BB"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-HB",
+        "subdivision_name": "Bremen",
+        "abbrevation": "HB"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-HH",
+        "subdivision_name": "Hamburg",
+        "abbrevation": "HH"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-HE",
+        "subdivision_name": "Hessen",
+        "abbrevation": "HE"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-MV",
+        "subdivision_name": "Mecklenburg-Vorpommern",
+        "abbrevation": "MV"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-NI",
+        "subdivision_name": "Niedersachsen",
+        "abbrevation": "NI"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-NW",
+        "subdivision_name": "Nordrhein-Westfalen",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-RP",
+        "subdivision_name": "Rheinland-Pfalz",
+        "abbrevation": "RP"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-SL",
+        "subdivision_name": "Saarland",
+        "abbrevation": "SL"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-SN",
+        "subdivision_name": "Sachsen",
+        "abbrevation": "SN"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-ST",
+        "subdivision_name": "Sachsen-Anhalt",
+        "abbrevation": "ST"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-SH",
+        "subdivision_name": "Schleswig-Holstein",
+        "abbrevation": "SH"
+    },
+    {
+        "subdivision_category": "Land",
+        "iso_3166_2_code": "DE-TH",
+        "subdivision_name": "Thüringen",
+        "abbrevation": "TH"
+    }
+]

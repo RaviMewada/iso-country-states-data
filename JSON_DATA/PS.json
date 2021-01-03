@@ -1,0 +1,194 @@
+[
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-HBN",
+        "subdivision_name": "Al Khalīl",
+        "abbrevation": "HBN"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-JEM",
+        "subdivision_name": "Al Quds",
+        "abbrevation": "JEM"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-JRH",
+        "subdivision_name": "Arīḩā wal Aghwār",
+        "abbrevation": "JRH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-BTH",
+        "subdivision_name": "Bayt Laḩm",
+        "abbrevation": "BTH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-BTH",
+        "subdivision_name": "Bethlehem",
+        "abbrevation": "BTH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-DEB",
+        "subdivision_name": "Dayr al Balaḩ",
+        "abbrevation": "DEB"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-DEB",
+        "subdivision_name": "Deir El Balah",
+        "abbrevation": "DEB"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-GZA",
+        "subdivision_name": "Gaza",
+        "abbrevation": "GZA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-GZA",
+        "subdivision_name": "Ghazzah",
+        "abbrevation": "GZA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-HBN",
+        "subdivision_name": "Hebron",
+        "abbrevation": "HBN"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-JEN",
+        "subdivision_name": "Janīn",
+        "abbrevation": "JEN"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-JEN",
+        "subdivision_name": "Jenin",
+        "abbrevation": "JEN"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-JRH",
+        "subdivision_name": "Jericho and Al Aghwar",
+        "abbrevation": "JRH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-JEM",
+        "subdivision_name": "Jerusalem",
+        "abbrevation": "JEM"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-KYS",
+        "subdivision_name": "Khan Yunis",
+        "abbrevation": "KYS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-KYS",
+        "subdivision_name": "Khān Yūnis",
+        "abbrevation": "KYS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-NBS",
+        "subdivision_name": "Nablus",
+        "abbrevation": "NBS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-NGZ",
+        "subdivision_name": "North Gaza",
+        "abbrevation": "NGZ"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-NBS",
+        "subdivision_name": "Nāblus",
+        "abbrevation": "NBS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-QQA",
+        "subdivision_name": "Qalqilya",
+        "abbrevation": "QQA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-QQA",
+        "subdivision_name": "Qalqīlyah",
+        "abbrevation": "QQA"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-RFH",
+        "subdivision_name": "Rafah",
+        "abbrevation": "RFH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-RFH",
+        "subdivision_name": "Rafaḩ",
+        "abbrevation": "RFH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-RBH",
+        "subdivision_name": "Ramallah",
+        "abbrevation": "RBH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-RBH",
+        "subdivision_name": "Rām Allāh wal Bīrah",
+        "abbrevation": "RBH"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-SLT",
+        "subdivision_name": "Salfit",
+        "abbrevation": "SLT"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-SLT",
+        "subdivision_name": "Salfīt",
+        "abbrevation": "SLT"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-NGZ",
+        "subdivision_name": "Shamāl Ghazzah",
+        "abbrevation": "NGZ"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-TBS",
+        "subdivision_name": "Tubas",
+        "abbrevation": "TBS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-TKM",
+        "subdivision_name": "Tulkarm",
+        "abbrevation": "TKM"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-TBS",
+        "subdivision_name": "Ţūbās",
+        "abbrevation": "TBS"
+    },
+    {
+        "subdivision_category": "governorate",
+        "iso_3166_2_code": "PS-TKM",
+        "subdivision_name": "Ţūlkarm",
+        "abbrevation": "TKM"
+    }
+]

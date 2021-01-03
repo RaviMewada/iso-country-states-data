@@ -1,0 +1,86 @@
+[
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GR-A",
+        "subdivision_name": "Anatolikí Makedonía kai Thráki",
+        "abbrevation": "A"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GR-I",
+        "subdivision_name": "Attikí",
+        "abbrevation": "I"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GR-G",
+        "subdivision_name": "Dytikí Elláda",
+        "abbrevation": "G"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GR-C",
+        "subdivision_name": "Dytikí Makedonía",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GR-F",
+        "subdivision_name": "Ionía Nísia",
+        "abbrevation": "F"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GR-B",
+        "subdivision_name": "Kentrikí Makedonía",
+        "abbrevation": "B"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GR-M",
+        "subdivision_name": "Kríti",
+        "abbrevation": "M"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GR-L",
+        "subdivision_name": "Nótio Aigaío",
+        "abbrevation": "L"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GR-J",
+        "subdivision_name": "Pelopónnisos",
+        "abbrevation": "J"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GR-H",
+        "subdivision_name": "Stereá Elláda",
+        "abbrevation": "H"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GR-E",
+        "subdivision_name": "Thessalía",
+        "abbrevation": "E"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GR-K",
+        "subdivision_name": "Vóreio Aigaío",
+        "abbrevation": "K"
+    },
+    {
+        "subdivision_category": "self-governed part",
+        "iso_3166_2_code": "GR-69",
+        "subdivision_name": "Ágion Óros",
+        "abbrevation": "69"
+    },
+    {
+        "subdivision_category": "administrative region",
+        "iso_3166_2_code": "GR-D",
+        "subdivision_name": "Ípeiros",
+        "abbrevation": "D"
+    }
+]

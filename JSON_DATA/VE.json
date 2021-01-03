@@ -1,0 +1,152 @@
+[
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-Z",
+        "subdivision_name": "Amazonas",
+        "abbrevation": "Z"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-B",
+        "subdivision_name": "Anzoátegui",
+        "abbrevation": "B"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-C",
+        "subdivision_name": "Apure",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-D",
+        "subdivision_name": "Aragua",
+        "abbrevation": "D"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-E",
+        "subdivision_name": "Barinas",
+        "abbrevation": "E"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-F",
+        "subdivision_name": "Bolívar",
+        "abbrevation": "F"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-G",
+        "subdivision_name": "Carabobo",
+        "abbrevation": "G"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-H",
+        "subdivision_name": "Cojedes",
+        "abbrevation": "H"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-Y",
+        "subdivision_name": "Delta Amacuro",
+        "abbrevation": "Y"
+    },
+    {
+        "subdivision_category": "federal dependency",
+        "iso_3166_2_code": "VE-W",
+        "subdivision_name": "Dependencias Federales",
+        "abbrevation": "W"
+    },
+    {
+        "subdivision_category": "capital district",
+        "iso_3166_2_code": "VE-A",
+        "subdivision_name": "Distrito Capital",
+        "abbrevation": "A"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-I",
+        "subdivision_name": "Falcón",
+        "abbrevation": "I"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-J",
+        "subdivision_name": "Guárico",
+        "abbrevation": "J"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-X",
+        "subdivision_name": "La Guaira",
+        "abbrevation": "X"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-K",
+        "subdivision_name": "Lara",
+        "abbrevation": "K"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-M",
+        "subdivision_name": "Miranda",
+        "abbrevation": "M"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-N",
+        "subdivision_name": "Monagas",
+        "abbrevation": "N"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-L",
+        "subdivision_name": "Mérida",
+        "abbrevation": "L"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-O",
+        "subdivision_name": "Nueva Esparta",
+        "abbrevation": "O"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-P",
+        "subdivision_name": "Portuguesa",
+        "abbrevation": "P"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-R",
+        "subdivision_name": "Sucre",
+        "abbrevation": "R"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-T",
+        "subdivision_name": "Trujillo",
+        "abbrevation": "T"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-S",
+        "subdivision_name": "Táchira",
+        "abbrevation": "S"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-U",
+        "subdivision_name": "Yaracuy",
+        "abbrevation": "U"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "VE-V",
+        "subdivision_name": "Zulia",
+        "abbrevation": "V"
+    }
+]

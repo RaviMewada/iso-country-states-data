@@ -1,0 +1,32 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SG-01",
+        "subdivision_name": "Central Singapore",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SG-02",
+        "subdivision_name": "North East",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SG-03",
+        "subdivision_name": "North West",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SG-04",
+        "subdivision_name": "South East",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "SG-05",
+        "subdivision_name": "South West",
+        "abbrevation": "05"
+    }
+]

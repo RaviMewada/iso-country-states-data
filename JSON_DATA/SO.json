@@ -1,0 +1,110 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-AW",
+        "subdivision_name": "Awdal",
+        "abbrevation": "AW"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-BK",
+        "subdivision_name": "Bakool",
+        "abbrevation": "BK"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-BN",
+        "subdivision_name": "Banaadir",
+        "abbrevation": "BN"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-BR",
+        "subdivision_name": "Bari",
+        "abbrevation": "BR"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-BY",
+        "subdivision_name": "Bay",
+        "abbrevation": "BY"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-GA",
+        "subdivision_name": "Galguduud",
+        "abbrevation": "GA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-GE",
+        "subdivision_name": "Gedo",
+        "abbrevation": "GE"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-HI",
+        "subdivision_name": "Hiiraan",
+        "abbrevation": "HI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-JD",
+        "subdivision_name": "Jubbada Dhexe",
+        "abbrevation": "JD"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-JH",
+        "subdivision_name": "Jubbada Hoose",
+        "abbrevation": "JH"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-MU",
+        "subdivision_name": "Mudug",
+        "abbrevation": "MU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-NU",
+        "subdivision_name": "Nugaal",
+        "abbrevation": "NU"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-SA",
+        "subdivision_name": "Sanaag",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-SD",
+        "subdivision_name": "Shabeellaha Dhexe",
+        "abbrevation": "SD"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-SH",
+        "subdivision_name": "Shabeellaha Hoose",
+        "abbrevation": "SH"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-SO",
+        "subdivision_name": "Sool",
+        "abbrevation": "SO"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-TO",
+        "subdivision_name": "Togdheer",
+        "abbrevation": "TO"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "SO-WO",
+        "subdivision_name": "Woqooyi Galbeed",
+        "abbrevation": "WO"
+    }
+]

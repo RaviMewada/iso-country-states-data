@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "dependency",
+        "iso_3166_2_code": "MU-AG",
+        "subdivision_name": "Agalega Islands",
+        "abbrevation": "AG"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-BL",
+        "subdivision_name": "Black River",
+        "abbrevation": "BL"
+    },
+    {
+        "subdivision_category": "dependency",
+        "iso_3166_2_code": "MU-CC",
+        "subdivision_name": "Cargados Carajos Shoals",
+        "abbrevation": "CC"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-FL",
+        "subdivision_name": "Flacq",
+        "abbrevation": "FL"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-GP",
+        "subdivision_name": "Grand Port",
+        "abbrevation": "GP"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-MO",
+        "subdivision_name": "Moka",
+        "abbrevation": "MO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-PA",
+        "subdivision_name": "Pamplemousses",
+        "abbrevation": "PA"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-PW",
+        "subdivision_name": "Plaines Wilhems",
+        "abbrevation": "PW"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-PL",
+        "subdivision_name": "Port Louis",
+        "abbrevation": "PL"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-RR",
+        "subdivision_name": "Rivière du Rempart",
+        "abbrevation": "RR"
+    },
+    {
+        "subdivision_category": "dependency",
+        "iso_3166_2_code": "MU-RO",
+        "subdivision_name": "Rodrigues Island",
+        "abbrevation": "RO"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "MU-SA",
+        "subdivision_name": "Savanne",
+        "abbrevation": "SA"
+    }
+]

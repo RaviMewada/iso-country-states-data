@@ -1,0 +1,560 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NW",
+        "subdivision_name": "Bokone Bophirima",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-EC",
+        "subdivision_name": "Eastern Cape",
+        "abbrevation": "EC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-FS",
+        "subdivision_name": "Foreisetata",
+        "abbrevation": "FS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-FS",
+        "subdivision_name": "Free State",
+        "abbrevation": "FS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-FS",
+        "subdivision_name": "Free State",
+        "abbrevation": "FS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-FS",
+        "subdivision_name": "Freistata",
+        "abbrevation": "FS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-FS",
+        "subdivision_name": "Freistata",
+        "abbrevation": "FS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-FS",
+        "subdivision_name": "Freyistata",
+        "abbrevation": "FS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-FS",
+        "subdivision_name": "Fuleyisitata",
+        "abbrevation": "FS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-FS",
+        "subdivision_name": "Fureisitata",
+        "abbrevation": "FS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-KZN",
+        "subdivision_name": "GaZulu-Natala",
+        "abbrevation": "KZN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-GP",
+        "subdivision_name": "Gauteng",
+        "abbrevation": "GP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-GP",
+        "subdivision_name": "Gauteng",
+        "abbrevation": "GP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-GP",
+        "subdivision_name": "Gauteng",
+        "abbrevation": "GP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-GP",
+        "subdivision_name": "Gauteng",
+        "abbrevation": "GP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-GP",
+        "subdivision_name": "Gauteng",
+        "abbrevation": "GP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-GP",
+        "subdivision_name": "Gauteng",
+        "abbrevation": "GP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-GP",
+        "subdivision_name": "Gauteng",
+        "abbrevation": "GP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-GP",
+        "subdivision_name": "Gauteng",
+        "abbrevation": "GP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-KZN",
+        "subdivision_name": "HaZulu-Natal",
+        "abbrevation": "KZN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-KZN",
+        "subdivision_name": "Hazolo-Natala",
+        "abbrevation": "KZN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-WC",
+        "subdivision_name": "Kapa Bodikela",
+        "abbrevation": "WC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-EC",
+        "subdivision_name": "Kapa Bohlabela",
+        "abbrevation": "EC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NC",
+        "subdivision_name": "Kapa Bokone",
+        "abbrevation": "NC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-WC",
+        "subdivision_name": "Kapa Bophirima",
+        "abbrevation": "WC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-WC",
+        "subdivision_name": "Kapa Bophirimela",
+        "abbrevation": "WC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-EC",
+        "subdivision_name": "Kapa Botjhabela",
+        "abbrevation": "EC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-EC",
+        "subdivision_name": "Kapa Botlhaba",
+        "abbrevation": "EC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NC",
+        "subdivision_name": "Kapa Devhula",
+        "abbrevation": "NC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NC",
+        "subdivision_name": "Kapa Leboya",
+        "abbrevation": "NC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NC",
+        "subdivision_name": "Kapa Leboya",
+        "abbrevation": "NC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-EC",
+        "subdivision_name": "Kapa Vhubvaḓuvha",
+        "abbrevation": "EC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-WC",
+        "subdivision_name": "Kapa Vhukovhela",
+        "abbrevation": "WC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NC",
+        "subdivision_name": "Kapa-N'walungu",
+        "abbrevation": "NC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-WC",
+        "subdivision_name": "Kapa-Vupeladyambu",
+        "abbrevation": "WC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-EC",
+        "subdivision_name": "Kapa-Vuxa",
+        "abbrevation": "EC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-GP",
+        "subdivision_name": "Kgauteng",
+        "abbrevation": "GP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-KZN",
+        "subdivision_name": "KwaZulu-Natal",
+        "abbrevation": "KZN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-KZN",
+        "subdivision_name": "KwaZulu-Natal",
+        "abbrevation": "KZN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-KZN",
+        "subdivision_name": "KwaZulu-Natala",
+        "abbrevation": "KZN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-KZN",
+        "subdivision_name": "KwaZulu-Natali",
+        "abbrevation": "KZN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-KZN",
+        "subdivision_name": "KwaZulu-Natali",
+        "abbrevation": "KZN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-KZN",
+        "subdivision_name": "Kwazulu-Natal",
+        "abbrevation": "KZN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-KZN",
+        "subdivision_name": "Kwazulu-Natal",
+        "abbrevation": "KZN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NW",
+        "subdivision_name": "Lebowa Bodikela",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NW",
+        "subdivision_name": "Leboya (le) Bophirima",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-LP",
+        "subdivision_name": "Limpopo",
+        "abbrevation": "LP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-LP",
+        "subdivision_name": "Limpopo",
+        "abbrevation": "LP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-LP",
+        "subdivision_name": "Limpopo",
+        "abbrevation": "LP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-LP",
+        "subdivision_name": "Limpopo",
+        "abbrevation": "LP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-LP",
+        "subdivision_name": "Limpopo",
+        "abbrevation": "LP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-LP",
+        "subdivision_name": "Limpopo",
+        "abbrevation": "LP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-LP",
+        "subdivision_name": "Limpopo",
+        "abbrevation": "LP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-LP",
+        "subdivision_name": "Limpopo",
+        "abbrevation": "LP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-LP",
+        "subdivision_name": "Limpopo",
+        "abbrevation": "LP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-LP",
+        "subdivision_name": "Limpopo",
+        "abbrevation": "LP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NC",
+        "subdivision_name": "Mntla-Koloni",
+        "abbrevation": "NC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NW",
+        "subdivision_name": "Mntla-Ntshona",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-EC",
+        "subdivision_name": "Mpuma-Koloni",
+        "abbrevation": "EC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-MP",
+        "subdivision_name": "Mpumalanga",
+        "abbrevation": "MP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-MP",
+        "subdivision_name": "Mpumalanga",
+        "abbrevation": "MP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-MP",
+        "subdivision_name": "Mpumalanga",
+        "abbrevation": "MP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-MP",
+        "subdivision_name": "Mpumalanga",
+        "abbrevation": "MP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-MP",
+        "subdivision_name": "Mpumalanga",
+        "abbrevation": "MP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-MP",
+        "subdivision_name": "Mpumalanga",
+        "abbrevation": "MP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-MP",
+        "subdivision_name": "Mpumalanga",
+        "abbrevation": "MP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-MP",
+        "subdivision_name": "Mpumalanga",
+        "abbrevation": "MP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-MP",
+        "subdivision_name": "Mpumalanga",
+        "abbrevation": "MP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-MP",
+        "subdivision_name": "Mpumalanga",
+        "abbrevation": "MP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-EC",
+        "subdivision_name": "Mpumalanga-Kapa",
+        "abbrevation": "EC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NW",
+        "subdivision_name": "N'walungu-Vupeladyambu",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NC",
+        "subdivision_name": "Noord-Kaap",
+        "abbrevation": "NC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NW",
+        "subdivision_name": "Noordwes",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NW",
+        "subdivision_name": "North-West",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NC",
+        "subdivision_name": "Northern Cape",
+        "abbrevation": "NC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-WC",
+        "subdivision_name": "Ntshona-Koloni",
+        "abbrevation": "WC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-WC",
+        "subdivision_name": "Ntshonalanga-Kapa",
+        "abbrevation": "WC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NC",
+        "subdivision_name": "Nyakatho-Kapa",
+        "abbrevation": "NC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NW",
+        "subdivision_name": "Nyakatho-Ntshonalanga",
+        "abbrevation": "NW"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-EC",
+        "subdivision_name": "Oos-Kaap",
+        "abbrevation": "EC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-GP",
+        "subdivision_name": "Rhawuti",
+        "abbrevation": "GP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-LP",
+        "subdivision_name": "Vhembe",
+        "abbrevation": "LP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-FS",
+        "subdivision_name": "Vrystaat",
+        "abbrevation": "FS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-WC",
+        "subdivision_name": "Wes-Kaap",
+        "abbrevation": "WC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-WC",
+        "subdivision_name": "Western Cape",
+        "abbrevation": "WC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-FS",
+        "subdivision_name": "iFreyistata",
+        "abbrevation": "FS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-GP",
+        "subdivision_name": "iGauteng",
+        "abbrevation": "GP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-KZN",
+        "subdivision_name": "iKwaZulu-Natal",
+        "abbrevation": "KZN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-MP",
+        "subdivision_name": "iMpumalanga",
+        "abbrevation": "MP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-EC",
+        "subdivision_name": "iPumalanga-Kapa",
+        "abbrevation": "EC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-WC",
+        "subdivision_name": "iTjhingalanga-Kapa",
+        "abbrevation": "WC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NC",
+        "subdivision_name": "iTlhagwini-Kapa",
+        "abbrevation": "NC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "ZA-NW",
+        "subdivision_name": "iTlhagwini-Tjhingalanga",
+        "abbrevation": "NW"
+    }
+]

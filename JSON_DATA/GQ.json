@@ -1,0 +1,182 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-AN",
+        "subdivision_name": "Annobon",
+        "abbrevation": "AN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-AN",
+        "subdivision_name": "Annobón",
+        "abbrevation": "AN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-AN",
+        "subdivision_name": "Ano Bom",
+        "abbrevation": "AN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-BN",
+        "subdivision_name": "Bioko Nord",
+        "abbrevation": "BN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-BN",
+        "subdivision_name": "Bioko Norte",
+        "abbrevation": "BN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-BN",
+        "subdivision_name": "Bioko Norte",
+        "abbrevation": "BN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-BS",
+        "subdivision_name": "Bioko Sud",
+        "abbrevation": "BS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-BS",
+        "subdivision_name": "Bioko Sul",
+        "abbrevation": "BS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-BS",
+        "subdivision_name": "Bioko Sur",
+        "abbrevation": "BS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-CS",
+        "subdivision_name": "Centro Sud",
+        "abbrevation": "CS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-CS",
+        "subdivision_name": "Centro Sul",
+        "abbrevation": "CS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-CS",
+        "subdivision_name": "Centro Sur",
+        "abbrevation": "CS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-DJ",
+        "subdivision_name": "Djibloho",
+        "abbrevation": "DJ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-DJ",
+        "subdivision_name": "Djibloho",
+        "abbrevation": "DJ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-DJ",
+        "subdivision_name": "Djibloho",
+        "abbrevation": "DJ"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-KN",
+        "subdivision_name": "Kié-Ntem",
+        "abbrevation": "KN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-KN",
+        "subdivision_name": "Kié-Ntem",
+        "abbrevation": "KN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-KN",
+        "subdivision_name": "Kié-Ntem",
+        "abbrevation": "KN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-LI",
+        "subdivision_name": "Litoral",
+        "abbrevation": "LI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-LI",
+        "subdivision_name": "Litoral",
+        "abbrevation": "LI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-LI",
+        "subdivision_name": "Littoral",
+        "abbrevation": "LI"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GQ-C",
+        "subdivision_name": "Região Continental",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GQ-I",
+        "subdivision_name": "Região Insular",
+        "abbrevation": "I"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GQ-C",
+        "subdivision_name": "Región Continental",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GQ-I",
+        "subdivision_name": "Región Insular",
+        "abbrevation": "I"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GQ-C",
+        "subdivision_name": "Région Continentale",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "GQ-I",
+        "subdivision_name": "Région Insulaire",
+        "abbrevation": "I"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-WN",
+        "subdivision_name": "Wele-Nzas",
+        "abbrevation": "WN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-WN",
+        "subdivision_name": "Wele-Nzas",
+        "abbrevation": "WN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "GQ-WN",
+        "subdivision_name": "Wele-Nzas",
+        "abbrevation": "WN"
+    }
+]

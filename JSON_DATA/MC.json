@@ -1,0 +1,104 @@
+[
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-FO",
+        "subdivision_name": "Fontvieille",
+        "abbrevation": "FO"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-JE",
+        "subdivision_name": "Jardin Exotique",
+        "abbrevation": "JE"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-CL",
+        "subdivision_name": "La Colle",
+        "abbrevation": "CL"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-CO",
+        "subdivision_name": "La Condamine",
+        "abbrevation": "CO"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-GA",
+        "subdivision_name": "La Gare",
+        "abbrevation": "GA"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-SO",
+        "subdivision_name": "La Source",
+        "abbrevation": "SO"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-LA",
+        "subdivision_name": "Larvotto",
+        "abbrevation": "LA"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-MA",
+        "subdivision_name": "Malbousquet",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-MO",
+        "subdivision_name": "Monaco-Ville",
+        "abbrevation": "MO"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-MG",
+        "subdivision_name": "Moneghetti",
+        "abbrevation": "MG"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-MC",
+        "subdivision_name": "Monte-Carlo",
+        "abbrevation": "MC"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-MU",
+        "subdivision_name": "Moulins",
+        "abbrevation": "MU"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-PH",
+        "subdivision_name": "Port-Hercule",
+        "abbrevation": "PH"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-SR",
+        "subdivision_name": "Saint-Roman",
+        "abbrevation": "SR"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-SD",
+        "subdivision_name": "Sainte-Dévote",
+        "abbrevation": "SD"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-SP",
+        "subdivision_name": "Spélugues",
+        "abbrevation": "SP"
+    },
+    {
+        "subdivision_category": "quarter",
+        "iso_3166_2_code": "MC-VR",
+        "subdivision_name": "Vallon de la Rousse",
+        "abbrevation": "VR"
+    }
+]

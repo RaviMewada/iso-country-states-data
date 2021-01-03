@@ -1,0 +1,98 @@
+[
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MY-01",
+        "subdivision_name": "Johor",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MY-02",
+        "subdivision_name": "Kedah",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MY-03",
+        "subdivision_name": "Kelantan",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MY-04",
+        "subdivision_name": "Melaka",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MY-05",
+        "subdivision_name": "Negeri Sembilan",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MY-06",
+        "subdivision_name": "Pahang",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MY-08",
+        "subdivision_name": "Perak",
+        "abbrevation": "08"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MY-09",
+        "subdivision_name": "Perlis",
+        "abbrevation": "09"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MY-07",
+        "subdivision_name": "Pulau Pinang",
+        "abbrevation": "07"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MY-12",
+        "subdivision_name": "Sabah",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MY-13",
+        "subdivision_name": "Sarawak",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MY-10",
+        "subdivision_name": "Selangor",
+        "abbrevation": "10"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "MY-11",
+        "subdivision_name": "Terengganu",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "federal territory",
+        "iso_3166_2_code": "MY-14",
+        "subdivision_name": "Wilayah Persekutuan Kuala Lumpur",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "federal territory",
+        "iso_3166_2_code": "MY-15",
+        "subdivision_name": "Wilayah Persekutuan Labuan",
+        "abbrevation": "15"
+    },
+    {
+        "subdivision_category": "federal territory",
+        "iso_3166_2_code": "MY-16",
+        "subdivision_name": "Wilayah Persekutuan Putrajaya",
+        "abbrevation": "16"
+    }
+]

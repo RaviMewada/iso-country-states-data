@@ -1,0 +1,32 @@
+[
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "GL-AV",
+        "subdivision_name": "Avannaata Kommunia",
+        "abbrevation": "AV"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "GL-KU",
+        "subdivision_name": "Kommune Kujalleq",
+        "abbrevation": "KU"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "GL-QT",
+        "subdivision_name": "Kommune Qeqertalik",
+        "abbrevation": "QT"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "GL-SM",
+        "subdivision_name": "Kommuneqarfik Sermersooq",
+        "abbrevation": "SM"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "GL-QE",
+        "subdivision_name": "Qeqqata Kommunia",
+        "abbrevation": "QE"
+    }
+]

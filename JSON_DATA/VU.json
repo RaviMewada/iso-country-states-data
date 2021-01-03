@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VU-MAP",
+        "subdivision_name": "Malampa",
+        "abbrevation": "MAP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VU-MAP",
+        "subdivision_name": "Malampa",
+        "abbrevation": "MAP"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VU-PAM",
+        "subdivision_name": "Pénama",
+        "abbrevation": "PAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VU-PAM",
+        "subdivision_name": "Pénama",
+        "abbrevation": "PAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VU-SAM",
+        "subdivision_name": "Sanma",
+        "abbrevation": "SAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VU-SAM",
+        "subdivision_name": "Sanma",
+        "abbrevation": "SAM"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VU-SEE",
+        "subdivision_name": "Shéfa",
+        "abbrevation": "SEE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VU-SEE",
+        "subdivision_name": "Shéfa",
+        "abbrevation": "SEE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VU-TAE",
+        "subdivision_name": "Taféa",
+        "abbrevation": "TAE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VU-TAE",
+        "subdivision_name": "Taféa",
+        "abbrevation": "TAE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VU-TOB",
+        "subdivision_name": "Torba",
+        "abbrevation": "TOB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "VU-TOB",
+        "subdivision_name": "Torba",
+        "abbrevation": "TOB"
+    }
+]

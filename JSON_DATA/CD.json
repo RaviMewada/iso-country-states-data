@@ -1,0 +1,158 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-BU",
+        "subdivision_name": "Bas-Uélé",
+        "abbrevation": "BU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-HK",
+        "subdivision_name": "Haut-Katanga",
+        "abbrevation": "HK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-HL",
+        "subdivision_name": "Haut-Lomami",
+        "abbrevation": "HL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-HU",
+        "subdivision_name": "Haut-Uélé",
+        "abbrevation": "HU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-IT",
+        "subdivision_name": "Ituri",
+        "abbrevation": "IT"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-KS",
+        "subdivision_name": "Kasaï",
+        "abbrevation": "KS"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-KC",
+        "subdivision_name": "Kasaï Central",
+        "abbrevation": "KC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-KE",
+        "subdivision_name": "Kasaï Oriental",
+        "abbrevation": "KE"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "CD-KN",
+        "subdivision_name": "Kinshasa",
+        "abbrevation": "KN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-BC",
+        "subdivision_name": "Kongo Central",
+        "abbrevation": "BC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-KG",
+        "subdivision_name": "Kwango",
+        "abbrevation": "KG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-KL",
+        "subdivision_name": "Kwilu",
+        "abbrevation": "KL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-LO",
+        "subdivision_name": "Lomami",
+        "abbrevation": "LO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-LU",
+        "subdivision_name": "Lualaba",
+        "abbrevation": "LU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-MN",
+        "subdivision_name": "Mai-Ndombe",
+        "abbrevation": "MN"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-MA",
+        "subdivision_name": "Maniema",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-MO",
+        "subdivision_name": "Mongala",
+        "abbrevation": "MO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-NK",
+        "subdivision_name": "Nord-Kivu",
+        "abbrevation": "NK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-NU",
+        "subdivision_name": "Nord-Ubangi",
+        "abbrevation": "NU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-SA",
+        "subdivision_name": "Sankuru",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-SK",
+        "subdivision_name": "Sud-Kivu",
+        "abbrevation": "SK"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-SU",
+        "subdivision_name": "Sud-Ubangi",
+        "abbrevation": "SU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-TA",
+        "subdivision_name": "Tanganyika",
+        "abbrevation": "TA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-TO",
+        "subdivision_name": "Tshopo",
+        "abbrevation": "TO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-TU",
+        "subdivision_name": "Tshuapa",
+        "abbrevation": "TU"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "CD-EQ",
+        "subdivision_name": "Équateur",
+        "abbrevation": "EQ"
+    }
+]

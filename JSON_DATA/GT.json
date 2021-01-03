@@ -1,0 +1,134 @@
+[
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-AV",
+        "subdivision_name": "Alta Verapaz",
+        "abbrevation": "AV"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-BV",
+        "subdivision_name": "Baja Verapaz",
+        "abbrevation": "BV"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-CM",
+        "subdivision_name": "Chimaltenango",
+        "abbrevation": "CM"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-CQ",
+        "subdivision_name": "Chiquimula",
+        "abbrevation": "CQ"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-PR",
+        "subdivision_name": "El Progreso",
+        "abbrevation": "PR"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-ES",
+        "subdivision_name": "Escuintla",
+        "abbrevation": "ES"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-GU",
+        "subdivision_name": "Guatemala",
+        "abbrevation": "GU"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-HU",
+        "subdivision_name": "Huehuetenango",
+        "abbrevation": "HU"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-IZ",
+        "subdivision_name": "Izabal",
+        "abbrevation": "IZ"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-JA",
+        "subdivision_name": "Jalapa",
+        "abbrevation": "JA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-JU",
+        "subdivision_name": "Jutiapa",
+        "abbrevation": "JU"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-PE",
+        "subdivision_name": "Petén",
+        "abbrevation": "PE"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-QZ",
+        "subdivision_name": "Quetzaltenango",
+        "abbrevation": "QZ"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-QC",
+        "subdivision_name": "Quiché",
+        "abbrevation": "QC"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-RE",
+        "subdivision_name": "Retalhuleu",
+        "abbrevation": "RE"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-SA",
+        "subdivision_name": "Sacatepéquez",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-SM",
+        "subdivision_name": "San Marcos",
+        "abbrevation": "SM"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-SR",
+        "subdivision_name": "Santa Rosa",
+        "abbrevation": "SR"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-SO",
+        "subdivision_name": "Sololá",
+        "abbrevation": "SO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-SU",
+        "subdivision_name": "Suchitepéquez",
+        "abbrevation": "SU"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-TO",
+        "subdivision_name": "Totonicapán",
+        "abbrevation": "TO"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "GT-ZA",
+        "subdivision_name": "Zacapa",
+        "abbrevation": "ZA"
+    }
+]

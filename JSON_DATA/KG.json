@@ -1,0 +1,164 @@
+[
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-B",
+        "subdivision_name": "Batken",
+        "abbrevation": "B"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-B",
+        "subdivision_name": "Batkenskaja oblast'",
+        "abbrevation": "B"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-B",
+        "subdivision_name": "Batkenskaya oblast'",
+        "abbrevation": "B"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KG-GB",
+        "subdivision_name": "Bishkek Shaary",
+        "abbrevation": "GB"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-C",
+        "subdivision_name": "Chuyskaya oblast'",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-C",
+        "subdivision_name": "Chüy",
+        "abbrevation": "C"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-J",
+        "subdivision_name": "Dzhalal-Abadskaya oblast'",
+        "abbrevation": "J"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-J",
+        "subdivision_name": "Džalal-Abadskaja oblast'",
+        "abbrevation": "J"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KG-GB",
+        "subdivision_name": "Gorod Bishkek",
+        "abbrevation": "GB"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KG-GB",
+        "subdivision_name": "Gorod Biškek",
+        "abbrevation": "GB"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KG-GO",
+        "subdivision_name": "Gorod Osh",
+        "abbrevation": "GO"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KG-GO",
+        "subdivision_name": "Gorod Oš",
+        "abbrevation": "GO"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-Y",
+        "subdivision_name": "Issyk-Kul'skaja oblast'",
+        "abbrevation": "Y"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-Y",
+        "subdivision_name": "Issyk-Kul'skaya oblast'",
+        "abbrevation": "Y"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-J",
+        "subdivision_name": "Jalal-Abad",
+        "abbrevation": "J"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-N",
+        "subdivision_name": "Naryn",
+        "abbrevation": "N"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-N",
+        "subdivision_name": "Narynskaja oblast'",
+        "abbrevation": "N"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-N",
+        "subdivision_name": "Narynskaya oblast'",
+        "abbrevation": "N"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-O",
+        "subdivision_name": "Osh",
+        "abbrevation": "O"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "KG-GO",
+        "subdivision_name": "Osh Shaary",
+        "abbrevation": "GO"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-O",
+        "subdivision_name": "Oshskaya oblast'",
+        "abbrevation": "O"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-O",
+        "subdivision_name": "Ošskaja oblast'",
+        "abbrevation": "O"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-T",
+        "subdivision_name": "Talas",
+        "abbrevation": "T"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-T",
+        "subdivision_name": "Talasskaja oblast'",
+        "abbrevation": "T"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-T",
+        "subdivision_name": "Talasskaya oblast'",
+        "abbrevation": "T"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-Y",
+        "subdivision_name": "Ysyk-Köl",
+        "abbrevation": "Y"
+    },
+    {
+        "subdivision_category": "region",
+        "iso_3166_2_code": "KG-C",
+        "subdivision_name": "Čujskaja oblast'",
+        "abbrevation": "C"
+    }
+]

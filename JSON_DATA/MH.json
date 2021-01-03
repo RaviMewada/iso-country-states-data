@@ -1,0 +1,314 @@
+[
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-ALK",
+        "subdivision_name": "Aelok",
+        "abbrevation": "ALK"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-ALL",
+        "subdivision_name": "Aelōn̄ḷapḷap",
+        "abbrevation": "ALL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-ALL",
+        "subdivision_name": "Ailinglaplap",
+        "abbrevation": "ALL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-ALK",
+        "subdivision_name": "Ailuk",
+        "abbrevation": "ALK"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-ARN",
+        "subdivision_name": "Arno",
+        "abbrevation": "ARN"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-ARN",
+        "subdivision_name": "Arṇo",
+        "abbrevation": "ARN"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-AUR",
+        "subdivision_name": "Aur",
+        "abbrevation": "AUR"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-AUR",
+        "subdivision_name": "Aur",
+        "abbrevation": "AUR"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-KIL",
+        "subdivision_name": "Bikini & Kili",
+        "abbrevation": "KIL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-EBO",
+        "subdivision_name": "Ebon",
+        "abbrevation": "EBO"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-LIB",
+        "subdivision_name": "Ellep",
+        "abbrevation": "LIB"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-ENI",
+        "subdivision_name": "Enewetak & Ujelang",
+        "abbrevation": "ENI"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-EBO",
+        "subdivision_name": "Epoon",
+        "abbrevation": "EBO"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-JAB",
+        "subdivision_name": "Jabat",
+        "abbrevation": "JAB"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-JAL",
+        "subdivision_name": "Jaluit",
+        "abbrevation": "JAL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-JAB",
+        "subdivision_name": "Jebat",
+        "abbrevation": "JAB"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-JAL",
+        "subdivision_name": "Jālwōj",
+        "abbrevation": "JAL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-KWA",
+        "subdivision_name": "Kuwajleen",
+        "abbrevation": "KWA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-KWA",
+        "subdivision_name": "Kwajalein",
+        "abbrevation": "KWA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-LAE",
+        "subdivision_name": "Lae",
+        "abbrevation": "LAE"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-LAE",
+        "subdivision_name": "Lae",
+        "abbrevation": "LAE"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-LIB",
+        "subdivision_name": "Lib",
+        "abbrevation": "LIB"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-LIK",
+        "subdivision_name": "Likiep",
+        "abbrevation": "LIK"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-LIK",
+        "subdivision_name": "Likiep",
+        "abbrevation": "LIK"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-MAJ",
+        "subdivision_name": "Majuro",
+        "abbrevation": "MAJ"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-MAL",
+        "subdivision_name": "Maloelap",
+        "abbrevation": "MAL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-MEJ",
+        "subdivision_name": "Mejit",
+        "abbrevation": "MEJ"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-MIL",
+        "subdivision_name": "Mile",
+        "abbrevation": "MIL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-MIL",
+        "subdivision_name": "Mili",
+        "abbrevation": "MIL"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-MEJ",
+        "subdivision_name": "Mājej",
+        "abbrevation": "MEJ"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-MAJ",
+        "subdivision_name": "Mājro",
+        "abbrevation": "MAJ"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-NMK",
+        "subdivision_name": "Namdrik",
+        "abbrevation": "NMK"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-NMU",
+        "subdivision_name": "Namu",
+        "abbrevation": "NMU"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-NMK",
+        "subdivision_name": "Naṃdik",
+        "abbrevation": "NMK"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-NMU",
+        "subdivision_name": "Naṃo",
+        "abbrevation": "NMU"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-KIL",
+        "subdivision_name": "Pikinni & Kōle",
+        "abbrevation": "KIL"
+    },
+    {
+        "subdivision_category": "chain (of islands)",
+        "iso_3166_2_code": "MH-L",
+        "subdivision_name": "Ralik chain",
+        "abbrevation": "L"
+    },
+    {
+        "subdivision_category": "chain (of islands)",
+        "iso_3166_2_code": "MH-L",
+        "subdivision_name": "Ralik chain",
+        "abbrevation": "L"
+    },
+    {
+        "subdivision_category": "chain (of islands)",
+        "iso_3166_2_code": "MH-T",
+        "subdivision_name": "Ratak chain",
+        "abbrevation": "T"
+    },
+    {
+        "subdivision_category": "chain (of islands)",
+        "iso_3166_2_code": "MH-T",
+        "subdivision_name": "Ratak chain",
+        "abbrevation": "T"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-RON",
+        "subdivision_name": "Rongelap",
+        "abbrevation": "RON"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-RON",
+        "subdivision_name": "Ron̄ḷap",
+        "abbrevation": "RON"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-UJA",
+        "subdivision_name": "Ujae",
+        "abbrevation": "UJA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-UJA",
+        "subdivision_name": "Ujae",
+        "abbrevation": "UJA"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-UTI",
+        "subdivision_name": "Utrik",
+        "abbrevation": "UTI"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-UTI",
+        "subdivision_name": "Utrōk",
+        "abbrevation": "UTI"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-WTH",
+        "subdivision_name": "Wotho",
+        "abbrevation": "WTH"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-WTJ",
+        "subdivision_name": "Wotje",
+        "abbrevation": "WTJ"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-WTJ",
+        "subdivision_name": "Wōjjā",
+        "abbrevation": "WTJ"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-WTH",
+        "subdivision_name": "Wōtto",
+        "abbrevation": "WTH"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-ENI",
+        "subdivision_name": "Ānewetak & Wūjlan̄",
+        "abbrevation": "ENI"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "MH-MAL",
+        "subdivision_name": "Ṃaḷoeḷap",
+        "abbrevation": "MAL"
+    }
+]

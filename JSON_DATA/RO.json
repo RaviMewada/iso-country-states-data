@@ -1,0 +1,254 @@
+[
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-AB",
+        "subdivision_name": "Alba",
+        "abbrevation": "AB"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-AR",
+        "subdivision_name": "Arad",
+        "abbrevation": "AR"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-AG",
+        "subdivision_name": "Argeș",
+        "abbrevation": "AG"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-BC",
+        "subdivision_name": "Bacău",
+        "abbrevation": "BC"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-BH",
+        "subdivision_name": "Bihor",
+        "abbrevation": "BH"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-BN",
+        "subdivision_name": "Bistrița-Năsăud",
+        "abbrevation": "BN"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-BT",
+        "subdivision_name": "Botoșani",
+        "abbrevation": "BT"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-BV",
+        "subdivision_name": "Brașov",
+        "abbrevation": "BV"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-BR",
+        "subdivision_name": "Brăila",
+        "abbrevation": "BR"
+    },
+    {
+        "subdivision_category": "municipality",
+        "iso_3166_2_code": "RO-B",
+        "subdivision_name": "București",
+        "abbrevation": "B"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-BZ",
+        "subdivision_name": "Buzău",
+        "abbrevation": "BZ"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-CS",
+        "subdivision_name": "Caraș-Severin",
+        "abbrevation": "CS"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-CJ",
+        "subdivision_name": "Cluj",
+        "abbrevation": "CJ"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-CT",
+        "subdivision_name": "Constanța",
+        "abbrevation": "CT"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-CV",
+        "subdivision_name": "Covasna",
+        "abbrevation": "CV"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-CL",
+        "subdivision_name": "Călărași",
+        "abbrevation": "CL"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-DJ",
+        "subdivision_name": "Dolj",
+        "abbrevation": "DJ"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-DB",
+        "subdivision_name": "Dâmbovița",
+        "abbrevation": "DB"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-GL",
+        "subdivision_name": "Galați",
+        "abbrevation": "GL"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-GR",
+        "subdivision_name": "Giurgiu",
+        "abbrevation": "GR"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-GJ",
+        "subdivision_name": "Gorj",
+        "abbrevation": "GJ"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-HR",
+        "subdivision_name": "Harghita",
+        "abbrevation": "HR"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-HD",
+        "subdivision_name": "Hunedoara",
+        "abbrevation": "HD"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-IL",
+        "subdivision_name": "Ialomița",
+        "abbrevation": "IL"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-IS",
+        "subdivision_name": "Iași",
+        "abbrevation": "IS"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-IF",
+        "subdivision_name": "Ilfov",
+        "abbrevation": "IF"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-MM",
+        "subdivision_name": "Maramureș",
+        "abbrevation": "MM"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-MH",
+        "subdivision_name": "Mehedinți",
+        "abbrevation": "MH"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-MS",
+        "subdivision_name": "Mureș",
+        "abbrevation": "MS"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-NT",
+        "subdivision_name": "Neamț",
+        "abbrevation": "NT"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-OT",
+        "subdivision_name": "Olt",
+        "abbrevation": "OT"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-PH",
+        "subdivision_name": "Prahova",
+        "abbrevation": "PH"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-SM",
+        "subdivision_name": "Satu Mare",
+        "abbrevation": "SM"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-SB",
+        "subdivision_name": "Sibiu",
+        "abbrevation": "SB"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-SV",
+        "subdivision_name": "Suceava",
+        "abbrevation": "SV"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-SJ",
+        "subdivision_name": "Sălaj",
+        "abbrevation": "SJ"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-TR",
+        "subdivision_name": "Teleorman",
+        "abbrevation": "TR"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-TM",
+        "subdivision_name": "Timiș",
+        "abbrevation": "TM"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-TL",
+        "subdivision_name": "Tulcea",
+        "abbrevation": "TL"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-VS",
+        "subdivision_name": "Vaslui",
+        "abbrevation": "VS"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-VN",
+        "subdivision_name": "Vrancea",
+        "abbrevation": "VN"
+    },
+    {
+        "subdivision_category": "department",
+        "iso_3166_2_code": "RO-VL",
+        "subdivision_name": "Vâlcea",
+        "abbrevation": "VL"
+    }
+]

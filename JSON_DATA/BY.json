@@ -1,0 +1,170 @@
+[
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-BR",
+        "subdivision_name": "Bresckaja voblasć",
+        "abbrevation": "BR"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-BR",
+        "subdivision_name": "Brestskaja oblast'",
+        "abbrevation": "BR"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-BR",
+        "subdivision_name": "Brestskaya oblast'",
+        "abbrevation": "BR"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-BR",
+        "subdivision_name": "Brestskaya voblasts'",
+        "abbrevation": "BR"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-HO",
+        "subdivision_name": "Gomel'skaja oblast'",
+        "abbrevation": "HO"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-HO",
+        "subdivision_name": "Gomel'skaya oblast'",
+        "abbrevation": "HO"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "BY-HM",
+        "subdivision_name": "Gorod Minsk",
+        "abbrevation": "HM"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "BY-HM",
+        "subdivision_name": "Gorod Minsk",
+        "abbrevation": "HM"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-HR",
+        "subdivision_name": "Grodnenskaja oblast'",
+        "abbrevation": "HR"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-HR",
+        "subdivision_name": "Grodnenskaya oblast'",
+        "abbrevation": "HR"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-HO",
+        "subdivision_name": "Homieĺskaja voblasć",
+        "abbrevation": "HO"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-HO",
+        "subdivision_name": "Homyel'skaya voblasts'",
+        "abbrevation": "HO"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "BY-HM",
+        "subdivision_name": "Horad Minsk",
+        "abbrevation": "HM"
+    },
+    {
+        "subdivision_category": "city",
+        "iso_3166_2_code": "BY-HM",
+        "subdivision_name": "Horad Minsk",
+        "abbrevation": "HM"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-HR",
+        "subdivision_name": "Hrodzienskaja voblasć",
+        "abbrevation": "HR"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-HR",
+        "subdivision_name": "Hrodzyenskaya voblasts'",
+        "abbrevation": "HR"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-MA",
+        "subdivision_name": "Mahilioŭskaja voblasć",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-MA",
+        "subdivision_name": "Mahilyowskaya voblasts'",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-MI",
+        "subdivision_name": "Minskaja oblast'",
+        "abbrevation": "MI"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-MI",
+        "subdivision_name": "Minskaja voblasć",
+        "abbrevation": "MI"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-MI",
+        "subdivision_name": "Minskaya oblast'",
+        "abbrevation": "MI"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-MI",
+        "subdivision_name": "Minskaya voblasts'",
+        "abbrevation": "MI"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-MA",
+        "subdivision_name": "Mogilevskaja oblast'",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-MA",
+        "subdivision_name": "Mogilevskaya oblast'",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-VI",
+        "subdivision_name": "Viciebskaja voblasć",
+        "abbrevation": "VI"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-VI",
+        "subdivision_name": "Vitebskaja oblast'",
+        "abbrevation": "VI"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-VI",
+        "subdivision_name": "Vitebskaya oblast'",
+        "abbrevation": "VI"
+    },
+    {
+        "subdivision_category": "oblast",
+        "iso_3166_2_code": "BY-VI",
+        "subdivision_name": "Vitsyebskaya voblasts'",
+        "abbrevation": "VI"
+    }
+]

@@ -1,0 +1,278 @@
+[
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-BA",
+        "subdivision_name": "Al Baţḩā’",
+        "abbrevation": "BA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-LC",
+        "subdivision_name": "Al Buḩayrah",
+        "abbrevation": "LC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-BG",
+        "subdivision_name": "Bahr el Ghazal",
+        "abbrevation": "BG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-BA",
+        "subdivision_name": "Batha",
+        "abbrevation": "BA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-BG",
+        "subdivision_name": "Baḩr al Ghazāl",
+        "abbrevation": "BG"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-BO",
+        "subdivision_name": "Borkou",
+        "abbrevation": "BO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-BO",
+        "subdivision_name": "Būrkū",
+        "abbrevation": "BO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-CB",
+        "subdivision_name": "Chari-Baguirmi",
+        "abbrevation": "CB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-EE",
+        "subdivision_name": "Ennedi-Est",
+        "abbrevation": "EE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-EO",
+        "subdivision_name": "Ennedi-Ouest",
+        "abbrevation": "EO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-GR",
+        "subdivision_name": "Guéra",
+        "abbrevation": "GR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-HL",
+        "subdivision_name": "Hadjer Lamis",
+        "abbrevation": "HL"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-EO",
+        "subdivision_name": "Inīdī al Gharbī",
+        "abbrevation": "EO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-EE",
+        "subdivision_name": "Inīdī ash Sharqī",
+        "abbrevation": "EE"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-KA",
+        "subdivision_name": "Kanem",
+        "abbrevation": "KA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-KA",
+        "subdivision_name": "Kānim",
+        "abbrevation": "KA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-LC",
+        "subdivision_name": "Lac",
+        "abbrevation": "LC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-LO",
+        "subdivision_name": "Logone-Occidental",
+        "abbrevation": "LO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-LR",
+        "subdivision_name": "Logone-Oriental",
+        "abbrevation": "LR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-LO",
+        "subdivision_name": "Lūghūn al Gharbī",
+        "abbrevation": "LO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-LR",
+        "subdivision_name": "Lūghūn ash Sharqī",
+        "abbrevation": "LR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-ND",
+        "subdivision_name": "Madīnat Injamīnā",
+        "abbrevation": "ND"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-MA",
+        "subdivision_name": "Mandoul",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-ME",
+        "subdivision_name": "Mayo-Kebbi-Est",
+        "abbrevation": "ME"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-MO",
+        "subdivision_name": "Mayo-Kebbi-Ouest",
+        "abbrevation": "MO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-MC",
+        "subdivision_name": "Moyen-Chari",
+        "abbrevation": "MC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-MA",
+        "subdivision_name": "Māndūl",
+        "abbrevation": "MA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-MO",
+        "subdivision_name": "Māyū Kībbī al Gharbī",
+        "abbrevation": "MO"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-ME",
+        "subdivision_name": "Māyū Kībbī ash Sharqī",
+        "abbrevation": "ME"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-OD",
+        "subdivision_name": "Ouaddaï",
+        "abbrevation": "OD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-GR",
+        "subdivision_name": "Qīrā",
+        "abbrevation": "GR"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-SA",
+        "subdivision_name": "Salamat",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-SA",
+        "subdivision_name": "Salāmāt",
+        "abbrevation": "SA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-CB",
+        "subdivision_name": "Shārī Bāqirmī",
+        "abbrevation": "CB"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-MC",
+        "subdivision_name": "Shārī al Awsaţ",
+        "abbrevation": "MC"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-SI",
+        "subdivision_name": "Sila",
+        "abbrevation": "SI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-SI",
+        "subdivision_name": "Sīlā",
+        "abbrevation": "SI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-TA",
+        "subdivision_name": "Tandjilé",
+        "abbrevation": "TA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-TI",
+        "subdivision_name": "Tibastī",
+        "abbrevation": "TI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-TI",
+        "subdivision_name": "Tibesti",
+        "abbrevation": "TI"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-TA",
+        "subdivision_name": "Tānjīlī",
+        "abbrevation": "TA"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-ND",
+        "subdivision_name": "Ville de Ndjamena",
+        "abbrevation": "ND"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-OD",
+        "subdivision_name": "Waddāy",
+        "abbrevation": "OD"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-WF",
+        "subdivision_name": "Wadi Fira",
+        "abbrevation": "WF"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-WF",
+        "subdivision_name": "Wādī Fīrā’",
+        "abbrevation": "WF"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "TD-HL",
+        "subdivision_name": "Ḩajjar Lamīs",
+        "abbrevation": "HL"
+    }
+]

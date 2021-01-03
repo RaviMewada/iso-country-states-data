@@ -1,0 +1,566 @@
+[
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-130",
+        "subdivision_name": "Alutaguse",
+        "abbrevation": "130"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-141",
+        "subdivision_name": "Anija",
+        "abbrevation": "141"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-142",
+        "subdivision_name": "Antsla",
+        "abbrevation": "142"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-171",
+        "subdivision_name": "Elva",
+        "abbrevation": "171"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-184",
+        "subdivision_name": "Haapsalu",
+        "abbrevation": "184"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-191",
+        "subdivision_name": "Haljala",
+        "abbrevation": "191"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-37",
+        "subdivision_name": "Harjumaa",
+        "abbrevation": "37"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-198",
+        "subdivision_name": "Harku",
+        "abbrevation": "198"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-39",
+        "subdivision_name": "Hiiumaa",
+        "abbrevation": "39"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-205",
+        "subdivision_name": "Hiiumaa",
+        "abbrevation": "205"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-214",
+        "subdivision_name": "Häädemeeste",
+        "abbrevation": "214"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-45",
+        "subdivision_name": "Ida-Virumaa",
+        "abbrevation": "45"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-255",
+        "subdivision_name": "Järva",
+        "abbrevation": "255"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-52",
+        "subdivision_name": "Järvamaa",
+        "abbrevation": "52"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-245",
+        "subdivision_name": "Jõelähtme",
+        "abbrevation": "245"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-247",
+        "subdivision_name": "Jõgeva",
+        "abbrevation": "247"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-50",
+        "subdivision_name": "Jõgevamaa",
+        "abbrevation": "50"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-251",
+        "subdivision_name": "Jõhvi",
+        "abbrevation": "251"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-272",
+        "subdivision_name": "Kadrina",
+        "abbrevation": "272"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-283",
+        "subdivision_name": "Kambja",
+        "abbrevation": "283"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-284",
+        "subdivision_name": "Kanepi",
+        "abbrevation": "284"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-291",
+        "subdivision_name": "Kastre",
+        "abbrevation": "291"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-293",
+        "subdivision_name": "Kehtna",
+        "abbrevation": "293"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-296",
+        "subdivision_name": "Keila",
+        "abbrevation": "296"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-303",
+        "subdivision_name": "Kihnu",
+        "abbrevation": "303"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-305",
+        "subdivision_name": "Kiili",
+        "abbrevation": "305"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-317",
+        "subdivision_name": "Kohila",
+        "abbrevation": "317"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-321",
+        "subdivision_name": "Kohtla-Järve",
+        "abbrevation": "321"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-338",
+        "subdivision_name": "Kose",
+        "abbrevation": "338"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-353",
+        "subdivision_name": "Kuusalu",
+        "abbrevation": "353"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-424",
+        "subdivision_name": "Loksa",
+        "abbrevation": "424"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-432",
+        "subdivision_name": "Luunja",
+        "abbrevation": "432"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-431",
+        "subdivision_name": "Lääne-Harju",
+        "abbrevation": "431"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-441",
+        "subdivision_name": "Lääne-Nigula",
+        "abbrevation": "441"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-60",
+        "subdivision_name": "Lääne-Virumaa",
+        "abbrevation": "60"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-56",
+        "subdivision_name": "Läänemaa",
+        "abbrevation": "56"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-430",
+        "subdivision_name": "Lääneranna",
+        "abbrevation": "430"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-442",
+        "subdivision_name": "Lüganuse",
+        "abbrevation": "442"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-446",
+        "subdivision_name": "Maardu",
+        "abbrevation": "446"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-478",
+        "subdivision_name": "Muhu",
+        "abbrevation": "478"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-480",
+        "subdivision_name": "Mulgi",
+        "abbrevation": "480"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-486",
+        "subdivision_name": "Mustvee",
+        "abbrevation": "486"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-503",
+        "subdivision_name": "Märjamaa",
+        "abbrevation": "503"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-511",
+        "subdivision_name": "Narva",
+        "abbrevation": "511"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-514",
+        "subdivision_name": "Narva-Jõesuu",
+        "abbrevation": "514"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-528",
+        "subdivision_name": "Nõo",
+        "abbrevation": "528"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-557",
+        "subdivision_name": "Otepää",
+        "abbrevation": "557"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-567",
+        "subdivision_name": "Paide",
+        "abbrevation": "567"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-586",
+        "subdivision_name": "Peipsiääre",
+        "abbrevation": "586"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-624",
+        "subdivision_name": "Pärnu",
+        "abbrevation": "624"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-68",
+        "subdivision_name": "Pärnumaa",
+        "abbrevation": "68"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-638",
+        "subdivision_name": "Põhja-Pärnumaa",
+        "abbrevation": "638"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-615",
+        "subdivision_name": "Põhja-Sakala",
+        "abbrevation": "615"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-618",
+        "subdivision_name": "Põltsamaa",
+        "abbrevation": "618"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-622",
+        "subdivision_name": "Põlva",
+        "abbrevation": "622"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-64",
+        "subdivision_name": "Põlvamaa",
+        "abbrevation": "64"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-651",
+        "subdivision_name": "Raasiku",
+        "abbrevation": "651"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-653",
+        "subdivision_name": "Rae",
+        "abbrevation": "653"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-663",
+        "subdivision_name": "Rakvere",
+        "abbrevation": "663"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-661",
+        "subdivision_name": "Rakvere",
+        "abbrevation": "661"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-668",
+        "subdivision_name": "Rapla",
+        "abbrevation": "668"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-71",
+        "subdivision_name": "Raplamaa",
+        "abbrevation": "71"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-689",
+        "subdivision_name": "Ruhnu",
+        "abbrevation": "689"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-708",
+        "subdivision_name": "Räpina",
+        "abbrevation": "708"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-698",
+        "subdivision_name": "Rõuge",
+        "abbrevation": "698"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-712",
+        "subdivision_name": "Saarde",
+        "abbrevation": "712"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-74",
+        "subdivision_name": "Saaremaa",
+        "abbrevation": "74"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-714",
+        "subdivision_name": "Saaremaa",
+        "abbrevation": "714"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-719",
+        "subdivision_name": "Saku",
+        "abbrevation": "719"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-726",
+        "subdivision_name": "Saue",
+        "abbrevation": "726"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-732",
+        "subdivision_name": "Setomaa",
+        "abbrevation": "732"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-735",
+        "subdivision_name": "Sillamäe",
+        "abbrevation": "735"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-784",
+        "subdivision_name": "Tallinn",
+        "abbrevation": "784"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-792",
+        "subdivision_name": "Tapa",
+        "abbrevation": "792"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-793",
+        "subdivision_name": "Tartu",
+        "abbrevation": "793"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-796",
+        "subdivision_name": "Tartu",
+        "abbrevation": "796"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-79",
+        "subdivision_name": "Tartumaa",
+        "abbrevation": "79"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-803",
+        "subdivision_name": "Toila",
+        "abbrevation": "803"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-809",
+        "subdivision_name": "Tori",
+        "abbrevation": "809"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-824",
+        "subdivision_name": "Tõrva",
+        "abbrevation": "824"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-834",
+        "subdivision_name": "Türi",
+        "abbrevation": "834"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-855",
+        "subdivision_name": "Valga",
+        "abbrevation": "855"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-81",
+        "subdivision_name": "Valgamaa",
+        "abbrevation": "81"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-890",
+        "subdivision_name": "Viimsi",
+        "abbrevation": "890"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-897",
+        "subdivision_name": "Viljandi",
+        "abbrevation": "897"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-899",
+        "subdivision_name": "Viljandi",
+        "abbrevation": "899"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-84",
+        "subdivision_name": "Viljandimaa",
+        "abbrevation": "84"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-901",
+        "subdivision_name": "Vinni",
+        "abbrevation": "901"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-903",
+        "subdivision_name": "Viru-Nigula",
+        "abbrevation": "903"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-907",
+        "subdivision_name": "Vormsi",
+        "abbrevation": "907"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-928",
+        "subdivision_name": "Väike-Maarja",
+        "abbrevation": "928"
+    },
+    {
+        "subdivision_category": "urban municipality",
+        "iso_3166_2_code": "EE-919",
+        "subdivision_name": "Võru",
+        "abbrevation": "919"
+    },
+    {
+        "subdivision_category": "rural municipality",
+        "iso_3166_2_code": "EE-917",
+        "subdivision_name": "Võru",
+        "abbrevation": "917"
+    },
+    {
+        "subdivision_category": "county",
+        "iso_3166_2_code": "EE-87",
+        "subdivision_name": "Võrumaa",
+        "abbrevation": "87"
+    }
+]

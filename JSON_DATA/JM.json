@@ -1,0 +1,86 @@
+[
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-13",
+        "subdivision_name": "Clarendon",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-09",
+        "subdivision_name": "Hanover",
+        "abbrevation": "09"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-01",
+        "subdivision_name": "Kingston",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-12",
+        "subdivision_name": "Manchester",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-04",
+        "subdivision_name": "Portland",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-02",
+        "subdivision_name": "Saint Andrew",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-06",
+        "subdivision_name": "Saint Ann",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-14",
+        "subdivision_name": "Saint Catherine",
+        "abbrevation": "14"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-11",
+        "subdivision_name": "Saint Elizabeth",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-08",
+        "subdivision_name": "Saint James",
+        "abbrevation": "08"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-05",
+        "subdivision_name": "Saint Mary",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-03",
+        "subdivision_name": "Saint Thomas",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-07",
+        "subdivision_name": "Trelawny",
+        "abbrevation": "07"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "JM-10",
+        "subdivision_name": "Westmoreland",
+        "abbrevation": "10"
+    }
+]

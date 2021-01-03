@@ -1,0 +1,74 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CY-04",
+        "subdivision_name": "Ammochostos",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CY-05",
+        "subdivision_name": "Baf",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CY-06",
+        "subdivision_name": "Girne",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CY-06",
+        "subdivision_name": "Keryneia",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CY-03",
+        "subdivision_name": "Larnaka",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CY-03",
+        "subdivision_name": "Larnaka",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CY-01",
+        "subdivision_name": "Lefkosia",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CY-01",
+        "subdivision_name": "Lefkoşa",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CY-02",
+        "subdivision_name": "Lemesos",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CY-02",
+        "subdivision_name": "Leymasun",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CY-04",
+        "subdivision_name": "Mağusa",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "CY-05",
+        "subdivision_name": "Pafos",
+        "abbrevation": "05"
+    }
+]

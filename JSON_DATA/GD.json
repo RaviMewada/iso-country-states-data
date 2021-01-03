@@ -1,0 +1,44 @@
+[
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "GD-01",
+        "subdivision_name": "Saint Andrew",
+        "abbrevation": "01"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "GD-02",
+        "subdivision_name": "Saint David",
+        "abbrevation": "02"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "GD-03",
+        "subdivision_name": "Saint George",
+        "abbrevation": "03"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "GD-04",
+        "subdivision_name": "Saint John",
+        "abbrevation": "04"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "GD-05",
+        "subdivision_name": "Saint Mark",
+        "abbrevation": "05"
+    },
+    {
+        "subdivision_category": "parish",
+        "iso_3166_2_code": "GD-06",
+        "subdivision_name": "Saint Patrick",
+        "abbrevation": "06"
+    },
+    {
+        "subdivision_category": "dependency",
+        "iso_3166_2_code": "GD-10",
+        "subdivision_name": "Southern Grenadine Islands",
+        "abbrevation": "10"
+    }
+]

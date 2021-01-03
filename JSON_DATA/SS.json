@@ -1,0 +1,62 @@
+[
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SS-EC",
+        "subdivision_name": "Central Equatoria",
+        "abbrevation": "EC"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SS-EE",
+        "subdivision_name": "Eastern Equatoria",
+        "abbrevation": "EE"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SS-JG",
+        "subdivision_name": "Jonglei",
+        "abbrevation": "JG"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SS-LK",
+        "subdivision_name": "Lakes",
+        "abbrevation": "LK"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SS-BN",
+        "subdivision_name": "Northern Bahr el Ghazal",
+        "abbrevation": "BN"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SS-UY",
+        "subdivision_name": "Unity",
+        "abbrevation": "UY"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SS-NU",
+        "subdivision_name": "Upper Nile",
+        "abbrevation": "NU"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SS-WR",
+        "subdivision_name": "Warrap",
+        "abbrevation": "WR"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SS-BW",
+        "subdivision_name": "Western Bahr el Ghazal",
+        "abbrevation": "BW"
+    },
+    {
+        "subdivision_category": "state",
+        "iso_3166_2_code": "SS-EW",
+        "subdivision_name": "Western Equatoria",
+        "abbrevation": "EW"
+    }
+]

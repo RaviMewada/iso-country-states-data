@@ -1,0 +1,614 @@
+[
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-52",
+        "subdivision_name": "Ampara",
+        "abbrevation": "52"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-33",
+        "subdivision_name": "Ampāntōṭṭai",
+        "abbrevation": "33"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-52",
+        "subdivision_name": "Ampāra",
+        "abbrevation": "52"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-52",
+        "subdivision_name": "Ampāṟai",
+        "abbrevation": "52"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-71",
+        "subdivision_name": "Anuradhapura",
+        "abbrevation": "71"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-71",
+        "subdivision_name": "Anurādhapura",
+        "abbrevation": "71"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-71",
+        "subdivision_name": "Anurātapuram",
+        "abbrevation": "71"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-81",
+        "subdivision_name": "Badulla",
+        "abbrevation": "81"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-81",
+        "subdivision_name": "Badulla",
+        "abbrevation": "81"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-1",
+        "subdivision_name": "Basnāhira paḷāta",
+        "abbrevation": "1"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-51",
+        "subdivision_name": "Batticaloa",
+        "abbrevation": "51"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-2",
+        "subdivision_name": "Central Province",
+        "abbrevation": "2"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-9",
+        "subdivision_name": "Chappirakamuva mākāṇam",
+        "abbrevation": "9"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-11",
+        "subdivision_name": "Colombo",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-3",
+        "subdivision_name": "Dakuṇu paḷāta",
+        "abbrevation": "3"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-5",
+        "subdivision_name": "Eastern Province",
+        "abbrevation": "5"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-31",
+        "subdivision_name": "Galle",
+        "abbrevation": "31"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-12",
+        "subdivision_name": "Gampaha",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-12",
+        "subdivision_name": "Gampaha",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-31",
+        "subdivision_name": "Gālla",
+        "abbrevation": "31"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-33",
+        "subdivision_name": "Hambantota",
+        "abbrevation": "33"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-33",
+        "subdivision_name": "Hambantŏṭa",
+        "abbrevation": "33"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-91",
+        "subdivision_name": "Irattiṉapuri",
+        "abbrevation": "91"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-41",
+        "subdivision_name": "Jaffna",
+        "abbrevation": "41"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-13",
+        "subdivision_name": "Kalutara",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-12",
+        "subdivision_name": "Kampahā",
+        "abbrevation": "12"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-21",
+        "subdivision_name": "Kandy",
+        "abbrevation": "21"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-13",
+        "subdivision_name": "Kaḷutara",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-13",
+        "subdivision_name": "Kaḷuttuṟai",
+        "abbrevation": "13"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-21",
+        "subdivision_name": "Kaṇṭi",
+        "abbrevation": "21"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-92",
+        "subdivision_name": "Kegalla",
+        "abbrevation": "92"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-92",
+        "subdivision_name": "Kekālai",
+        "abbrevation": "92"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-42",
+        "subdivision_name": "Kilinochchi",
+        "abbrevation": "42"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-42",
+        "subdivision_name": "Kilinŏchchi",
+        "abbrevation": "42"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-5",
+        "subdivision_name": "Kil̮akku mākāṇam",
+        "abbrevation": "5"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-42",
+        "subdivision_name": "Kiḷinochchi",
+        "abbrevation": "42"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-61",
+        "subdivision_name": "Kurunegala",
+        "abbrevation": "61"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-61",
+        "subdivision_name": "Kurunākal",
+        "abbrevation": "61"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-61",
+        "subdivision_name": "Kuruṇægala",
+        "abbrevation": "61"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-92",
+        "subdivision_name": "Kægalla",
+        "abbrevation": "92"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-31",
+        "subdivision_name": "Kāli",
+        "abbrevation": "31"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-11",
+        "subdivision_name": "Kŏl̮umpu",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-11",
+        "subdivision_name": "Kŏḷamba",
+        "abbrevation": "11"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-2",
+        "subdivision_name": "Madhyama paḷāta",
+        "abbrevation": "2"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-21",
+        "subdivision_name": "Mahanuvara",
+        "abbrevation": "21"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-43",
+        "subdivision_name": "Mannar",
+        "abbrevation": "43"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-43",
+        "subdivision_name": "Mannārama",
+        "abbrevation": "43"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-22",
+        "subdivision_name": "Matale",
+        "abbrevation": "22"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-32",
+        "subdivision_name": "Matara",
+        "abbrevation": "32"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-2",
+        "subdivision_name": "Mattiya mākāṇam",
+        "abbrevation": "2"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-51",
+        "subdivision_name": "Maḍakalapuva",
+        "abbrevation": "51"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-43",
+        "subdivision_name": "Maṉṉār",
+        "abbrevation": "43"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-51",
+        "subdivision_name": "Maṭṭakkaḷappu",
+        "abbrevation": "51"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-1",
+        "subdivision_name": "Mel mākāṇam",
+        "abbrevation": "1"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-82",
+        "subdivision_name": "Monaragala",
+        "abbrevation": "82"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-45",
+        "subdivision_name": "Mulativ",
+        "abbrevation": "45"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-45",
+        "subdivision_name": "Mullaittivu",
+        "abbrevation": "45"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-45",
+        "subdivision_name": "Mullaittīvu",
+        "abbrevation": "45"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-22",
+        "subdivision_name": "Mātale",
+        "abbrevation": "22"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-32",
+        "subdivision_name": "Mātara",
+        "abbrevation": "32"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-22",
+        "subdivision_name": "Māttaḷai",
+        "abbrevation": "22"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-32",
+        "subdivision_name": "Māttaṛai",
+        "abbrevation": "32"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-82",
+        "subdivision_name": "Mŏṇarāgala",
+        "abbrevation": "82"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-82",
+        "subdivision_name": "Mŏṉarākalai",
+        "abbrevation": "82"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-7",
+        "subdivision_name": "North Central Province",
+        "abbrevation": "7"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-6",
+        "subdivision_name": "North Western Province",
+        "abbrevation": "6"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-4",
+        "subdivision_name": "Northern Province",
+        "abbrevation": "4"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-23",
+        "subdivision_name": "Nuvara Ĕliya",
+        "abbrevation": "23"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-23",
+        "subdivision_name": "Nuvarĕliyā",
+        "abbrevation": "23"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-23",
+        "subdivision_name": "Nuwara Eliya",
+        "abbrevation": "23"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-5",
+        "subdivision_name": "Næ̆gĕnahira paḷāta",
+        "abbrevation": "5"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-81",
+        "subdivision_name": "Patuḷai",
+        "abbrevation": "81"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-72",
+        "subdivision_name": "Polonnaruwa",
+        "abbrevation": "72"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-62",
+        "subdivision_name": "Puttalam",
+        "abbrevation": "62"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-62",
+        "subdivision_name": "Puttalama",
+        "abbrevation": "62"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-62",
+        "subdivision_name": "Puttaḷam",
+        "abbrevation": "62"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-72",
+        "subdivision_name": "Pŏlaṉṉaṛuvai",
+        "abbrevation": "72"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-72",
+        "subdivision_name": "Pŏḷŏnnaruva",
+        "abbrevation": "72"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-91",
+        "subdivision_name": "Ratnapura",
+        "abbrevation": "91"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-91",
+        "subdivision_name": "Ratnapura",
+        "abbrevation": "91"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-9",
+        "subdivision_name": "Sabaragamuva paḷāta",
+        "abbrevation": "9"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-9",
+        "subdivision_name": "Sabaragamuwa Province",
+        "abbrevation": "9"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-3",
+        "subdivision_name": "Southern Province",
+        "abbrevation": "3"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-53",
+        "subdivision_name": "Tirukŏṇamalai",
+        "abbrevation": "53"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-53",
+        "subdivision_name": "Trikuṇāmalaya",
+        "abbrevation": "53"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-53",
+        "subdivision_name": "Trincomalee",
+        "abbrevation": "53"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-3",
+        "subdivision_name": "Tĕṉ mākāṇam",
+        "abbrevation": "3"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-4",
+        "subdivision_name": "Uturu paḷāta",
+        "abbrevation": "4"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-7",
+        "subdivision_name": "Uturumæ̆da paḷāta",
+        "abbrevation": "7"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-8",
+        "subdivision_name": "Uva Province",
+        "abbrevation": "8"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-44",
+        "subdivision_name": "Vavuniya",
+        "abbrevation": "44"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-44",
+        "subdivision_name": "Vavuniyāva",
+        "abbrevation": "44"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-44",
+        "subdivision_name": "Vavuṉiyā",
+        "abbrevation": "44"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-6",
+        "subdivision_name": "Vayamba paḷāta",
+        "abbrevation": "6"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-4",
+        "subdivision_name": "Vaṭakku mākāṇam",
+        "abbrevation": "4"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-7",
+        "subdivision_name": "Vaṭamattiya mākāṇam",
+        "abbrevation": "7"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-6",
+        "subdivision_name": "Vaṭamel mākāṇam",
+        "abbrevation": "6"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-1",
+        "subdivision_name": "Western Province",
+        "abbrevation": "1"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-41",
+        "subdivision_name": "Yāl̮ppāṇam",
+        "abbrevation": "41"
+    },
+    {
+        "subdivision_category": "district",
+        "iso_3166_2_code": "LK-41",
+        "subdivision_name": "Yāpanaya",
+        "abbrevation": "41"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-8",
+        "subdivision_name": "Ūva paḷāta",
+        "abbrevation": "8"
+    },
+    {
+        "subdivision_category": "province",
+        "iso_3166_2_code": "LK-8",
+        "subdivision_name": "Ūvā mākāṇam",
+        "abbrevation": "8"
+    }
+]
